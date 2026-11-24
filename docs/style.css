@@ -99,3 +99,4 @@ tr.done td:first-child a { font-weight: 600; }
 /* the scan panel itself is shared (/assets/os-scan.js); this is only the page's own switch */
 .scantoggle { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font-weight: 600; }
 @media (max-width: 999px) { .scantoggle { display: none; } }
+.bgnote h2 { font-size: 1.2rem; margin: 1.6em 0 .4em; } .bgnote li { margin: .25em 0; } .bgnote p, .bgnote li { line-height: 1.6; }

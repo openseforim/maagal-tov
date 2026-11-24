@@ -190,10 +190,13 @@ he saw, and his own grief and melancholy. It was not printed in his lifetime.</p
 <table>
 <tr><th>Part</th><th>Contents</th><th>Scans</th><th>Status</th></tr>
 {rows}
-<tr><td>2–</td><td>Florence and on</td><td>12–76</td><td>OCR only, not checked or translated</td></tr>
+<tr><td>{max(PARTS) + 1}–</td><td>The rest of the diary</td><td>{int(PARTS[max(PARTS)][2].split("–")[1]) - 1}–76</td><td>OCR only, not checked or translated</td></tr>
 </table>
 </div>
 <a class="cta" href="part-01.html">Read part 1, side by side →</a>
+<p><b><a href="background.html">Background for the reader</a></b>: the Ḥida's missions, Hebron and the emissaries,
+the places he passed through, dates and hours, money, people and titles, travel, books, and the history of the text,
+with a list of further reading.</p>
 
 <h2>The Hebrew text</h2>
 <ul>
@@ -246,6 +249,29 @@ def work_json():
     (DOCS / "work.json").write_text(json.dumps(w, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def background_page():
+    """docs/background.html from BACKGROUND.md (a general background note for readers)."""
+    import markdown
+    md = (ROOT / "BACKGROUND.md").read_text(encoding="utf-8")
+    md = re.sub(r"^# .*\n", "", md, count=1)
+    body = markdown.markdown(md, extensions=["extra"])
+    page = HEAD.format(title="Background for the reader — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
+<nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · Background</span></nav>
+<p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
+<h1>Background for the reader</h1>
+<p class="sub">The Ḥida's second mission, 1772–1778: the history, places and everyday things behind the diary</p>
+</header>
+<article class="bgnote">
+{body}
+</article>
+<footer><nav class="crumb foot" aria-label="Parts"><span><a href="index.html">All parts</a></span></nav></footer>
+</body>
+</html>
+"""
+    (DOCS / "background.html").write_text(page, encoding="utf-8")
+    print("wrote docs/background.html")
+
+
 def main():
     DOCS.mkdir(exist_ok=True)
     he = paragraphs()
@@ -266,6 +292,7 @@ def main():
         counts[num] = k
         pos += k
     index_page(counts)
+    background_page()
     work_json()
 
 
