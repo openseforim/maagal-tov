@@ -69,7 +69,18 @@ def fmt_en(text):
 def fmt_he(text):
     out = e(text, quote=False)
     return PAGE.sub(lambda m: f'<a class="scanlink" href="{IA.format(int(m.group(1)))}" title="Scan {int(m.group(1))} on archive.org">'
-                              f'{int(m.group(1))}</a>', out)
+                              f'scan {int(m.group(1))}</a>', out)
+
+
+BOOK = "https://archive.org/details/maagaltob00azul"
+
+
+def scan_bar(scans):
+    """The page scans of this part, as a row of links, and the whole book."""
+    first, last = (int(x) for x in scans.replace("–", "-").split("-"))
+    links = " ".join(f'<a href="{IA.format(n)}" rel="noopener">{n}</a>' for n in range(first, last + 1))
+    return (f'<p class="scanbar"><span class="lbl">Page scans</span> <span class="pages">{links}</span> '
+            f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a></p>')
 
 
 def part_page(num, he_paras, start_no):
@@ -99,10 +110,11 @@ def part_page(num, he_paras, start_no):
 <p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
 <h1>{e(title)}</h1>
 <p class="sub">{e(subtitle)}</p>
+{scan_bar(scans)}
 <details class="about"><summary>About this text</summary>
 <p class="meta">{len(he_paras)} paragraphs, scans {scans} of the 1885 printing. One row is one paragraph of the print, which ends
-each entry with a colon. Small numbered boxes in the Hebrew mark where a scan page begins; each links to that page on
-archive.org. References in <span class="ref">[gray brackets]</span> are the translator's identifications of biblical phrases.
+each entry with a colon. Boxes marked "scan N" in the Hebrew show where a scan page begins; each links to that page on
+archive.org, as do the page numbers under the title. References in <span class="ref">[gray brackets]</span> are the translator's identifications of biblical phrases.
 <a class="warn" href="#notes">⚠</a> marks an uncertain rendering. The Hebrew was checked against the scan line by line;
 abbreviations are left as printed.</p>
 </details>
@@ -127,7 +139,7 @@ abbreviations are left as printed.</p>
 def index_page(counts):
     rows = "\n".join(
         f'<tr class="done"><td><a href="part-{k:02d}.html">{k}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
-        f'<td>{PARTS[k][2]}</td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
+        f'<td><a href="{IA.format(int(PARTS[k][2].split("–")[0]))}" rel="noopener">{PARTS[k][2]}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
     page = HEAD.format(title="Ḥida, Ma'agal Tov: Hebrew and English") + f"""<header>
 <h1>Ḥida, <i>Ma'agal Tov</i></h1>
 <p class="sub">The travel diary of Ḥayyim Yosef David Azulai, with an English translation paragraph by paragraph · <span lang="he" dir="rtl">מעגל טוב</span></p>
