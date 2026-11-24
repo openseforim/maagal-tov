@@ -42,6 +42,10 @@ PARTS = {
         "Collecting in Florence; Livorno and Ancona, 1775; quarrels reported from Jerusalem; the sights of Venice, the "
         "Arsenal and the Bragadin press, autumn 1776",
         "12–18"),
+    3: ("Venice, Modena, Reggio and Mantua",
+        "Winter in Venice, 1776-77: the council, the ghetto wine, circumcisions and friends; manuscripts in Modena and "
+        "early prints in Reggio; the graves of the Mantuan kabbalists; leaving for Avignon, summer 1777",
+        "19–23"),
 }
 
 HEAD = """<!doctype html>
@@ -224,7 +228,7 @@ def work_json():
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "In progress · parts 1–2 (scans 7–17 of the 1885 printing)",
+        "status_label": "In progress · parts 1–3 (scans 7–22 of the 1885 printing)",
         "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
         "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},
