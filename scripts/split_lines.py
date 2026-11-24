@@ -6,7 +6,10 @@ import sys
 from pathlib import Path
 
 import numpy as np
-import pymupdf
+try:
+    import pymupdf  # only needed for the HebrewBooks PDF (page_image); page-image runs work without it
+except ImportError:
+    pymupdf = None
 from PIL import Image, ImageDraw, ImageFilter
 
 sys.stdout.reconfigure(encoding="utf-8")
