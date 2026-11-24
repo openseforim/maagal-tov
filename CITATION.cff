@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this edition, please cite it as below."
+title: "Ḥida, Ma'agal Tov: reading edition with English translation"
+type: dataset
+authors:
+  - family-names: Brand
+    given-names: Ezra
+abstract: "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph. Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan."
+license: CC-BY-SA-4.0
+url: "https://openseforim.org/maagal-tov/"
+repository-code: "https://github.com/openseforim/maagal-tov"
+keywords:
+  - "Judaica"
+  - "Hebrew"
+  - "digital humanities"
+  - "translation"
+  - "digital edition"

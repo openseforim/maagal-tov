@@ -1,0 +1,33 @@
+{
+  "title": "Ḥida, Ma'agal Tov: reading edition with English translation",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "description": "<p>The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.</p><p>Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.</p><p>Read online: <a href=\"https://openseforim.org/maagal-tov/\">https://openseforim.org/maagal-tov/</a></p>",
+  "creators": [
+    {
+      "name": "Brand, Ezra"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Judaica",
+    "Hebrew",
+    "digital humanities",
+    "translation",
+    "digital edition"
+  ],
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://openseforim.org/maagal-tov/",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "https://archive.org/details/maagaltob00azul",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-book"
+    }
+  ]
+}

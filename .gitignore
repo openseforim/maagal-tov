@@ -1,0 +1,15 @@
+# scans, page and line images, OCR experiments (large or reproducible)
+data/p1885/
+data/img/
+data/lines/
+data/lines_s1/
+data/kraken*/
+data/ocr_*/
+data/gt_draft/
+data/tmp/
+data/view/
+data/train/
+data/val/
+data/raw/
+logs/
+__pycache__/
