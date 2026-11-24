@@ -226,6 +226,7 @@ def work_json():
         "cite": "Ḥayyim Yosef David Azulai, *Ma'agal Tov*, Hebrew text with English translation, ed. Ezra Brand. Open Seforim",
         "url": "https://openseforim.org/maagal-tov/",
         "repo": "https://github.com/openseforim/maagal-tov",
+        "doi": "10.5281/zenodo.24502156",
         "licence": {"name": "CC BY-SA 4.0", "url": "https://creativecommons.org/licenses/by-sa/4.0/"},
     }
     (DOCS / "work.json").write_text(json.dumps(w, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
