@@ -126,7 +126,7 @@ abbreviations are left as printed.</p>
 
 def index_page(counts):
     rows = "\n".join(
-        f'<tr class="done"><td><a href="part-{k:02d}.html">{k}</a></td><td>{e(PARTS[k][0])}: {e(PARTS[k][1])}</td>'
+        f'<tr class="done"><td><a href="part-{k:02d}.html">{k}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
         f'<td>{PARTS[k][2]}</td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
     page = HEAD.format(title="Ḥida, Ma'agal Tov: Hebrew and English") + f"""<header>
 <h1>Ḥida, <i>Ma'agal Tov</i></h1>
@@ -185,6 +185,7 @@ def work_json():
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
         "status_label": "In progress · part 1 (scans 8–12 of the 1885 printing)",
+        "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
         "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},
         "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.",
