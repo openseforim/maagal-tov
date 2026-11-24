@@ -68,7 +68,7 @@ def fmt_en(text):
 
 def fmt_he(text):
     out = e(text, quote=False)
-    return PAGE.sub(lambda m: f'<a class="pg" href="{IA.format(int(m.group(1)))}" title="Scan {int(m.group(1))} on archive.org">'
+    return PAGE.sub(lambda m: f'<a class="scanlink" href="{IA.format(int(m.group(1)))}" title="Scan {int(m.group(1))} on archive.org">'
                               f'{int(m.group(1))}</a>', out)
 
 
