@@ -52,7 +52,12 @@ def find_lines(ink):
     lo, hi = 20, min(120, len(ac) - 1)
     if hi <= lo or sm.max() == 0:
         return [], 30
-    pitch = lo + int(np.argmax(ac[lo:hi]))
+    # line pitch = the FIRST strong peak of the autocorrelation, not the strongest: on some pages the repeat every
+    # two lines (2 x pitch) is stronger, and then neighbouring lines were merged in pairs (Weiss, 24-Nov-2026)
+    seg = ac[lo:hi]
+    top = seg.max()
+    peaks_ac = [i for i in range(1, len(seg) - 1) if seg[i] >= seg[i - 1] and seg[i] >= seg[i + 1] and seg[i] >= 0.5 * top]
+    pitch = lo + (peaks_ac[0] if peaks_ac else int(np.argmax(seg)))
     win = max(3, int(0.3 * pitch))
     thr = 0.12 * sm.max()
     peaks = []
