@@ -51,6 +51,7 @@ leaves out the first image file, so scan N is image file N+1; the data files kee
 | `data/en/part-NN.en.txt`, `part-NN.notes.json` | English paragraphs and the notes for the ⚠ marks |
 | `maagal_tov_1885_ocr.txt` | The whole OCR in one file, with `=== scan NNNN ===` marks by image-file number (not checked) |
 | `scripts/paragraphs.py`, `scripts/build_site.py` | Paragraphs from the checked pages; the reader in `docs/` |
+| `docs/scans/sNNNN.jpg`, `docs/app.js`, `scripts/make_scans.py` | Page images for the "Show the scan beside the text" panel (greyscale, 900 px; made from the archive.org jp2 set), and the panel script. `build_site.py` stops if a paragraph's page image is missing. |
 | `scripts/split_*.py`, `ocr_*.py`, `eval_gt.py` | OCR tools; `data/gt/` a hand transcription of one Freimann page used to score OCR |
 | `NOTES.md` | OCR tests and findings |
 

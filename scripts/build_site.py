@@ -96,17 +96,22 @@ def scan_bar(scans):
     first, last = (int(x) for x in scans.replace("–", "-").split("-"))
     links = " ".join(f'<a href="{ia(n)}" rel="noopener">{vnum(n)}</a>' for n in range(first, last + 1))
     return (f'<p class="scanbar"><span class="lbl">Page scans</span> <span class="pages">{links}</span> '
-            f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a></p>')
+            f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a> '
+            f'<label class="scantoggle"><input type="checkbox" id="opt-scan"> Show the scan beside the text</label></p>')
 
 
-def part_page(num, he_paras, start_no):
+def part_page(num, he_paras, start_no, para_pages):
     title, subtitle, scans = PARTS[num]
     en = read_blocks(ROOT / "data" / "en" / f"part-{num:02d}.en.txt")
     notes = json.loads((ROOT / "data" / "en" / f"part-{num:02d}.notes.json").read_text(encoding="utf-8"))
     rows = []
     for i, (h, x) in enumerate(zip(he_paras, en)):
         n = start_no + i
-        rows.append(f'<div class="row" id="p{n}"><a class="ln" href="#p{n}">{n}</a>'
+        missing = [pg for pg in para_pages[i] if not (DOCS / "scans" / f"s{pg:04d}.jpg").exists()]
+        if missing:
+            sys.exit(f"part {num}: no panel image for image files {missing}; run scripts/make_scans.py")
+        sc = " ".join(f"{pg}:{vnum(pg)}" for pg in para_pages[i])  # image file : viewer number
+        rows.append(f'<div class="row" id="p{n}" data-scans="{sc}"><a class="ln" href="#p{n}">{n}</a>'
                     f'<p class="en">{fmt_en(x)}</p>'
                     f'<p class="he" lang="he" dir="rtl">{fmt_he(h)}</p></div>')
     marks = set(re.findall(r"⚠(\d+)", " ".join(en)))
@@ -121,7 +126,7 @@ def part_page(num, he_paras, start_no):
     prev = f'<a href="part-{keys[i - 1]:02d}.html" rel="prev">← Part {keys[i - 1]}</a>' if i > 0 else ""
     nxt = f'<a href="part-{keys[i + 1]:02d}.html" rel="next">Part {keys[i + 1]} →</a>' if i + 1 < len(keys) else ""
     pn = f'<span class="pn">{prev}{nxt}</span>' if prev or nxt else ""
-    page = HEAD.format(title=f"{e(title)} — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
+    page = HEAD.replace("</head>", '<script src="app.js" defer></script>\n</head>').format(title=f"{e(title)} — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
 <nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · Part {num}</span>{pn}</nav>
 <p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
 <h1>{e(title)}</h1>
@@ -135,9 +140,15 @@ archive.org, as do the page numbers under the title. References in <span class="
 abbreviations are left as printed.</p>
 </details>
 </header>
+<div class="reader">
 <main class="prose">
 {chr(10).join(rows)}
 </main>
+<aside class="scanpanel" aria-label="Scan of the page">
+<div class="scanhead"><span class="scantabs"></span><a class="scanext" href="{BOOK}" rel="noopener">archive.org ↗</a></div>
+<img alt="" decoding="async">
+</aside>
+</div>
 <footer id="notes">
 <h2>Uncertain renderings</h2>
 <ul class="notes">
@@ -228,12 +239,20 @@ def work_json():
 def main():
     DOCS.mkdir(exist_ok=True)
     he = paragraphs()
+    # scan pages of each paragraph: the page it starts on, then any page that begins inside it
+    pages, cur = [], None
+    for p in he:
+        toks = [int(t) for t in PAGE.findall(p)]
+        start = toks[0] if p.startswith("{p") else cur
+        pp = [start] + [t for t in toks if t != start]
+        pages.append([x for x in pp if x is not None])
+        cur = toks[-1] if toks else cur
     counts, pos = {}, 0
     for num in sorted(PARTS):
         k = len(read_blocks(ROOT / "data" / "en" / f"part-{num:02d}.en.txt"))
         if pos + k > len(he):
             sys.exit(f"part {num}: {k} English paragraphs, only {len(he) - pos} Hebrew paragraphs left")
-        part_page(num, he[pos:pos + k], pos + 1)
+        part_page(num, he[pos:pos + k], pos + 1, pages[pos:pos + k])
         counts[num] = k
         pos += k
     index_page(counts)
