@@ -50,6 +50,10 @@ PARTS = {
         "A hard day in Avignon, summer 1777; Trieste in the winter of 1777; illness; Paris in December 1777: the city, "
         "a learned gentile of the Academy, and the generosity of the Jews of Avignon",
         "24–28"),
+    5: ("Paris and Versailles",
+        "January 1778: kabbalah with a learned gentile, the royal library and its manuscripts, a visit to Versailles "
+        "where Louis XVI passed by, a marquise who saw angels; leaving France for Flanders",
+        "28–33"),
 }
 
 HEAD = """<!doctype html>
@@ -235,7 +239,7 @@ def work_json():
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "In progress · parts 1–4 (scans 7–27 of the 1885 printing)",
+        "status_label": "In progress · parts 1–5 (scans 7–32 of the 1885 printing)",
         "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
         "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},

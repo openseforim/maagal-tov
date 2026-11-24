@@ -16,7 +16,8 @@ scripts that build the reader.
 | 2. Florence, Ancona and Venice | 11–17 | 24-Nov-2026. Hebrew checked against the scan line by line; 17 paragraphs translated; 12 uncertain renderings. Dates by the weekly reading given in brackets (diaspora readings, Hebcal). |
 | 3. Venice, Modena, Reggio and Mantua | 18–22 | 24-Nov-2026. Hebrew checked against the scan line by line (scan 20 read from the image; its OCR failed); 15 paragraphs translated; 12 uncertain renderings. Dates in brackets. |
 | 4. Avignon, Trieste and Paris | 23–27 | 24-Nov-2026. Hebrew checked against the scan line by line; 15 paragraphs translated; 11 uncertain renderings. Dates in brackets. |
-| 5– (Paris and on) | 27–76 | OCR only (`data/he_raw/`), not checked or translated (scan 27 is checked; its last paragraph opens part 5) |
+| 5. Paris and Versailles | 27–32 | 24-Nov-2026. Hebrew checked against the scan line by line (scans 30 and 32 read from the image); 7 paragraphs translated; 10 uncertain renderings. Dates in brackets. |
+| 6– (Flanders and on) | 33–76 | OCR only (`data/he_raw/`), not checked or translated |
 
 **Scan numbers** are those of the archive.org viewer (its counter, e.g. "7/81", and links `page/n7`). The viewer
 leaves out the first image file, so scan N is image file N+1; the data files keep the image-file numbers

@@ -6,7 +6,7 @@ enter Livorno, or why he dates a visit to a Paris library by the weekly Torah re
 reader today is most likely to need. It follows topics, not the order of the diary.
 
 *Written 24-Nov-2026 with Claude (Anthropic). What it says about the diary is checked against the English translation
-of parts 1–4 (scans 7–27 of the 1885 printing); the general history comes from the works listed at the end.
+of parts 1–5 (scans 7–32 of the 1885 printing); the general history comes from the works listed at the end.
 Corrections are welcome on [GitHub](https://github.com/openseforim/maagal-tov/issues).*
 
 ---
@@ -105,7 +105,9 @@ legal community in Paris. They lived there on sufferance under police supervisio
 Bordeaux, Jews from Avignon and Ashkenazim from Alsace and Lorraine. Avignon and the surrounding Comtat Venaissin, on
 the other hand, belonged to the Pope; their Jews, "the Pope's Jews", lived in four communities (Avignon, Carpentras,
 Cavaillon and L'Isle-sur-la-Sorgue) and had their own rite. Many of their merchants had settled elsewhere in France, and
-the Ḥida praises the "people of Avignon" he met in other cities (part 4). The Jews of France received citizenship only
+the Ḥida praises the "people of Avignon" he met in other cities (part 4). In Paris a learned acquaintance took
+him to Versailles in January 1778, where Louis XVI and his brothers passed by and the king asked which country the
+visitor was ambassador of (part 5). The Jews of France received citizenship only
 in 1790–1791.
 
 ## 4. Dates, hours and the calendar
@@ -173,7 +175,7 @@ After recovering he said the blessing *ha-gomel*.
 Wherever he went, the Ḥida asked to see manuscripts and early prints, and noted them: tractates of the Talmud on
 parchment in a library in Florence (part 2), sixteen volumes of Cordovero's *Or Yakar* copied in Safed in 1582,
 fifteenth-century Hebrew prints in Reggio (part 3), and in Paris the royal library with its "several thousand"
-manuscripts (scan 28, the next part). These notes went into *Shem ha-Gedolim*. He also printed his own books while travelling, mainly in
+manuscripts (part 5). These notes went into *Shem ha-Gedolim*. He also printed his own books while travelling, mainly in
 Livorno, and visited the Bragadin press in Venice, one of the oldest Hebrew presses, then run by a Jewish manager for
 the Venetian noble family whose name it carried (part 2).
 
