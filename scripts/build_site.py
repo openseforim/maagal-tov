@@ -116,7 +116,9 @@ def part_page(num, he_paras, start_no, para_pages):
         if missing:
             sys.exit(f"part {num}: no panel image for image files {missing}; run scripts/make_scans.py")
         sc = " ".join(f"{pg}:{vnum(pg)}" for pg in para_pages[i])  # image file : viewer number
-        rows.append(f'<div class="row" id="p{n}" data-scans="{sc}"><a class="ln" href="#p{n}">{n}</a>'
+        vs = [vnum(pg) for pg in para_pages[i]]
+        lab = f'paragraph {n}, ' + (f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}')
+        rows.append(f'<div class="row" id="p{n}" data-scans="{sc}" data-label="{lab}"><a class="ln" href="#p{n}">{n}</a>'
                     f'<p class="en">{fmt_en(x)}</p>'
                     f'<p class="he" lang="he" dir="rtl">{fmt_he(h)}</p></div>')
     marks = set(re.findall(r"⚠(\d+)", " ".join(en)))
