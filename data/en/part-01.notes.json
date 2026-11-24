@@ -1,11 +1,34 @@
 {
-  "1": {"he": "ושמ\"ל", "note": "Abbreviation not resolved; a pious act done for the dead (perhaps the study of Mishnah, a usual act for the soul of the dead). Left untranslated."},
-  "2": {"he": "ההי\"ב", "note": "Abbreviation not resolved; it has the form of a short prayer of protection (\"may God save us\" or similar)."},
-  "3": {"he": "ומאשה", "note": "So printed (checked on the scan). Probably a misprint or an abbreviation; the usual pair is \"keen and learned\" (חריף ובקי). Left as uncertain."},
-  "4": {"he": "בעזר משדי", "note": "So printed. Read as \"with the help of the Almighty\" (Shaddai); the extra mem is not explained."},
-  "5": {"he": "לשלים לאיספאניינא של ליוורנו", "note": "Unclear place name: perhaps the beach or the outer anchorage of Livorno (Italian spiaggia?). The OCR reading לשלים was not checked against the scan."},
-  "6": {"he": "פאן איספונג\"אדו", "note": "A sweet bread or sponge cake (Italian pan spugnato?); not identified."},
-  "7": {"he": "הי\"ל", "note": "Abbreviation not resolved; translated as if it were not there."},
-  "8": {"he": "ויהי הצע\"ר לסגור לבי", "note": "Literally \"and the grief was to close my heart\"; the abbreviation mark in הצע\"ר is not explained. Sense uncertain."},
-  "9": {"he": "חלי\"ש", "note": "Abbreviation not resolved (the scan may read חלי\"ם)."}
+  "1": {
+    "he": "ושמ\"ל",
+    "note": "Abbreviation not resolved; a pious act done for the dead (perhaps the study of Mishnah, a usual act for the soul of the dead). Left untranslated."
+  },
+  "2": {
+    "he": "ההי\"ב",
+    "note": "Abbreviation not resolved; it has the form of a short prayer of protection (\"may God save us\" or similar)."
+  },
+  "3": {
+    "he": "ומאשה",
+    "note": "So printed (checked on the scan). Probably a misprint or an abbreviation; the usual pair is \"keen and learned\" (חריף ובקי). Left as uncertain."
+  },
+  "4": {
+    "he": "בעזר משדי",
+    "note": "So printed. Read as \"with the help of the Almighty\" (Shaddai); the extra mem is not explained."
+  },
+  "5": {
+    "he": "לשלים לאיספאניינא של ליוורנו",
+    "note": "Unclear place name: perhaps the beach or the outer anchorage of Livorno (Italian spiaggia?). The OCR reading לשלים was not checked against the scan."
+  },
+  "6": {
+    "he": "פאן איספונג\"אדו",
+    "note": "A sweet bread or sponge cake (Italian pan spugnato?); not identified."
+  },
+  "7": {
+    "he": "ויהי הצע\"ר לסגור לבי",
+    "note": "Literally \"and the grief was to close my heart\"; the abbreviation mark in הצע\"ר is not explained. Sense uncertain."
+  },
+  "8": {
+    "he": "חלי\"ש",
+    "note": "Abbreviation not resolved (the scan may read חלי\"ם)."
+  }
 }

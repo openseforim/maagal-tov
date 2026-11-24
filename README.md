@@ -13,7 +13,8 @@ scripts that build the reader.
 | Part | Scans | Status |
 |---|---|---|
 | 1. Tunis, Livorno and Pisa | 7–11 | 24-Nov-2026. Hebrew checked against the scan line by line; 11 paragraphs translated; 9 uncertain renderings. Allusions not verified against a concordance. |
-| 2– (Florence and on) | 12–76 | OCR only (`data/he_raw/`), not checked or translated |
+| 2. Florence, Ancona and Venice | 11–17 | 24-Nov-2026. Hebrew checked against the scan line by line; 17 paragraphs translated; 12 uncertain renderings. Dates by the weekly reading given in brackets (diaspora readings, Hebcal). |
+| 3– (Venice and on) | 18–76 | OCR only (`data/he_raw/`), not checked or translated |
 
 **Scan numbers** are those of the archive.org viewer (its counter, e.g. "7/81", and links `page/n7`). The viewer
 leaves out the first image file, so scan N is image file N+1; the data files keep the image-file numbers

@@ -38,6 +38,10 @@ PARTS = {
         "News of his wife's death, kept secret; sermons and a question about Freemasons in Tunis; the voyage to Livorno, "
         "the lazaretto, and Pisa",
         "8–12"),
+    2: ("Florence, Ancona and Venice",
+        "Collecting in Florence; Livorno and Ancona, 1775; quarrels reported from Jerusalem; the sights of Venice, the "
+        "Arsenal and the Bragadin press, autumn 1776",
+        "12–18"),
 }
 
 HEAD = """<!doctype html>
@@ -136,7 +140,7 @@ def part_page(num, he_paras, start_no, para_pages):
 <details class="about"><summary>About this text</summary>
 <p class="meta">{len(he_paras)} paragraphs, scans {shown(scans)} of the 1885 printing (numbered as in the archive.org viewer). One row is one paragraph of the print, which ends
 each entry with a colon. Boxes marked "scan N" in the Hebrew show where a scan page begins; each links to that page on
-archive.org, as do the page numbers under the title. References in <span class="ref">[gray brackets]</span> are the translator's identifications of biblical phrases.
+archive.org, as do the page numbers under the title. References in <span class="ref">[gray brackets]</span> are the translator's: identifications of biblical phrases, and the civil dates of the Ḥida's dates. He dates by the weekly Torah reading: "Wednesday of the week of Re'eh" is the Wednesday before the Sabbath on which Re'eh is read (readings of the diaspora). Where the entry gives no year, it is taken from the entries around it.
 <a class="warn" href="#notes">⚠</a> marks an uncertain rendering. The Hebrew was checked against the scan line by line;
 abbreviations are left as printed.</p>
 </details>
@@ -218,7 +222,7 @@ def work_json():
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "In progress · part 1 (scans 7–11 of the 1885 printing)",
+        "status_label": "In progress · parts 1–2 (scans 7–17 of the 1885 printing)",
         "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
         "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},
