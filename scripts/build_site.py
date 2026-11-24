@@ -78,7 +78,8 @@ def fmt_en(text):
 
 def fmt_he(text):
     out = e(text, quote=False)
-    return PAGE.sub(lambda m: f'<a class="scanlink" href="{ia(int(m.group(1)))}" title="Scan {vnum(int(m.group(1)))} on archive.org">'
+    return PAGE.sub(lambda m: f'<a class="scanlink" href="{ia(int(m.group(1)))}" title="Scan {vnum(int(m.group(1)))} on archive.org" '
+                              f'data-scan-img="scans/s{int(m.group(1)):04d}.jpg" data-scan-label="Scan {vnum(int(m.group(1)))}">'
                               f'scan {vnum(int(m.group(1)))}</a>', out)
 
 
@@ -97,7 +98,7 @@ def scan_bar(scans):
     links = " ".join(f'<a href="{ia(n)}" rel="noopener">{vnum(n)}</a>' for n in range(first, last + 1))
     return (f'<p class="scanbar"><span class="lbl">Page scans</span> <span class="pages">{links}</span> '
             f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a> '
-            f'<label class="scantoggle"><input type="checkbox" id="opt-scan"> Show the scan beside the text</label></p>')
+            f'<label class="scantoggle"><input type="checkbox" class="os-scan-toggle"> Show the scan beside the text</label></p>')
 
 
 def part_page(num, he_paras, start_no, para_pages):
@@ -126,7 +127,7 @@ def part_page(num, he_paras, start_no, para_pages):
     prev = f'<a href="part-{keys[i - 1]:02d}.html" rel="prev">← Part {keys[i - 1]}</a>' if i > 0 else ""
     nxt = f'<a href="part-{keys[i + 1]:02d}.html" rel="next">Part {keys[i + 1]} →</a>' if i + 1 < len(keys) else ""
     pn = f'<span class="pn">{prev}{nxt}</span>' if prev or nxt else ""
-    page = HEAD.replace("</head>", '<script src="app.js" defer></script>\n</head>').format(title=f"{e(title)} — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
+    page = HEAD.format(title=f"{e(title)} — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
 <nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · Part {num}</span>{pn}</nav>
 <p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
 <h1>{e(title)}</h1>
@@ -140,15 +141,9 @@ archive.org, as do the page numbers under the title. References in <span class="
 abbreviations are left as printed.</p>
 </details>
 </header>
-<div class="reader">
 <main class="prose">
 {chr(10).join(rows)}
 </main>
-<aside class="scanpanel" aria-label="Scan of the page">
-<div class="scanhead"><span class="scantabs"></span><a class="scanext" href="{BOOK}" rel="noopener">archive.org ↗</a></div>
-<img alt="" decoding="async">
-</aside>
-</div>
 <footer id="notes">
 <h2>Uncertain renderings</h2>
 <ul class="notes">

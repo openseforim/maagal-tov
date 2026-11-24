@@ -96,25 +96,6 @@ tr.done td:first-child a { font-weight: 600; }
 .scanbar .pages a, .scanbar .book { border: 1px solid var(--rule); border-radius: 4px; padding: 2px 9px; text-decoration: none; }
 .scanbar .pages a:hover, .scanbar .book:hover { background: var(--hl); }
 
-/* scan panel ("Show the scan beside the text"; app.js) */
+/* the scan panel itself is shared (/assets/os-scan.js); this is only the page's own switch */
 .scantoggle { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font-weight: 600; }
-.scanpanel { display: none; }
-body.show-scan .reader { display: grid; grid-template-columns: minmax(0, 1fr) minmax(300px, 40vw); gap: 18px;
-  max-width: 1800px; margin: 0 auto; padding: 0 16px; }
-body.show-scan .reader main { max-width: none; padding-left: 0; padding-right: 0; margin: 0; }
-body.show-scan .scanpanel { display: flex; flex-direction: column; position: sticky; top: 58px; align-self: start;
-  height: calc(100vh - 70px); padding-top: 14px; }
-.scanhead { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; justify-content: space-between;
-  font: .8rem system-ui, sans-serif; margin-bottom: 6px; }
-.scantabs { display: inline-flex; gap: 6px; }
-.scantabs button { font: .78rem system-ui, sans-serif; border: 1px solid var(--rule); background: transparent;
-  color: var(--fg); border-radius: 4px; padding: 1px 8px; cursor: pointer; }
-.scantabs button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); font-weight: 600; }
-.scanpanel img { flex: 1 1 auto; min-height: 0; width: 100%; object-fit: contain; object-position: top;
-  border: 1px solid var(--rule); background: #fff; }
-:root[data-theme="dark"] .scanpanel img { filter: invert(.88) hue-rotate(180deg); }
-@media (prefers-color-scheme: dark) { :root:not([data-theme]) .scanpanel img { filter: invert(.88) hue-rotate(180deg); } }
-:root[data-theme="paper"] .scanpanel img { filter: sepia(.35); }
-/* narrow screens: no side panel (the "scan N" links still open archive.org) */
-@media (max-width: 900px) { .scantoggle { display: none; } body.show-scan .reader { display: block; padding: 0; }
-  body.show-scan .reader main { padding: 14px 16px 40px; } body.show-scan .scanpanel { display: none; } }
+@media (max-width: 999px) { .scantoggle { display: none; } }
