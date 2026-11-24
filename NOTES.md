@@ -19,6 +19,12 @@
 
 Tests that did not help: 2x upscale + blur of the 1-bit Freimann images (same error rate as 1x, different errors).
 
+## Scan numbering
+
+File names here use the archive.org image-file numbers (0000–0083). The archive.org viewer leaves out image 0000 and
+two at the end (81 pages), so viewer page nK = image K+1. The reader shows and links viewer numbers (`vnum` in
+`scripts/build_site.py`).
+
 ## Result (24-Nov-2026)
 
 `maagal_tov_1885_ocr.txt`: OCR of the 1885 printing, scans 7–77 (71 pages, about 12,700 words), one printed line

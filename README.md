@@ -12,8 +12,12 @@ scripts that build the reader.
 
 | Part | Scans | Status |
 |---|---|---|
-| 1. Tunis, Livorno and Pisa | 8–12 | 24-Nov-2026. Hebrew checked against the scan line by line; 11 paragraphs translated; 9 uncertain renderings. Allusions not verified against a concordance. |
-| 2– (Florence and on) | 13–77 | OCR only (`data/he_raw/`), not checked or translated |
+| 1. Tunis, Livorno and Pisa | 7–11 | 24-Nov-2026. Hebrew checked against the scan line by line; 11 paragraphs translated; 9 uncertain renderings. Allusions not verified against a concordance. |
+| 2– (Florence and on) | 12–76 | OCR only (`data/he_raw/`), not checked or translated |
+
+**Scan numbers** are those of the archive.org viewer (its counter, e.g. "7/81", and links `page/n7`). The viewer
+leaves out the first image file, so scan N is image file N+1; the data files keep the image-file numbers
+(`data/he/s0008.txt` = image 0008 = scan 7).
 
 ## Sources
 
@@ -45,7 +49,7 @@ scripts that build the reader.
 | `data/he_raw/sNNNN.txt` | OCR of each scan page (running head removed), not checked |
 | `data/he/sNNNN.txt` | Checked pages, line for line as printed |
 | `data/en/part-NN.en.txt`, `part-NN.notes.json` | English paragraphs and the notes for the ⚠ marks |
-| `maagal_tov_1885_ocr.txt` | The whole OCR in one file, with `=== scan NNNN ===` page marks (not checked) |
+| `maagal_tov_1885_ocr.txt` | The whole OCR in one file, with `=== scan NNNN ===` marks by image-file number (not checked) |
 | `scripts/paragraphs.py`, `scripts/build_site.py` | Paragraphs from the checked pages; the reader in `docs/` |
 | `scripts/split_*.py`, `ocr_*.py`, `eval_gt.py` | OCR tools; `data/gt/` a hand transcription of one Freimann page used to score OCR |
 | `NOTES.md` | OCR tests and findings |

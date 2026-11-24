@@ -22,6 +22,16 @@ DOCS = ROOT / "docs"
 e = html.escape
 IA = "https://archive.org/details/maagaltob00azul/page/n{}/mode/1up"
 
+
+def vnum(image_no):
+    """Scan number as the archive.org viewer counts it. The viewer leaves out image 0000 (and two images at the end),
+    so viewer page nK shows image file K+1; data files keep the image-file numbers (sNNNN = image NNNN)."""
+    return image_no - 1
+
+
+def ia(image_no):
+    return IA.format(vnum(image_no))
+
 # part number -> (title, subtitle, scan range shown in the index)
 PARTS = {
     1: ("Tunis, Livorno and Pisa",
@@ -68,17 +78,23 @@ def fmt_en(text):
 
 def fmt_he(text):
     out = e(text, quote=False)
-    return PAGE.sub(lambda m: f'<a class="scanlink" href="{IA.format(int(m.group(1)))}" title="Scan {int(m.group(1))} on archive.org">'
-                              f'scan {int(m.group(1))}</a>', out)
+    return PAGE.sub(lambda m: f'<a class="scanlink" href="{ia(int(m.group(1)))}" title="Scan {vnum(int(m.group(1)))} on archive.org">'
+                              f'scan {vnum(int(m.group(1)))}</a>', out)
 
 
 BOOK = "https://archive.org/details/maagaltob00azul"
 
 
+def shown(rng):
+    """An image-file range such as "8–12", in the viewer's numbering."""
+    a, b = (int(x) for x in rng.replace("–", "-").split("-"))
+    return f"{vnum(a)}–{vnum(b)}"
+
+
 def scan_bar(scans):
     """The page scans of this part, as a row of links, and the whole book."""
     first, last = (int(x) for x in scans.replace("–", "-").split("-"))
-    links = " ".join(f'<a href="{IA.format(n)}" rel="noopener">{n}</a>' for n in range(first, last + 1))
+    links = " ".join(f'<a href="{ia(n)}" rel="noopener">{vnum(n)}</a>' for n in range(first, last + 1))
     return (f'<p class="scanbar"><span class="lbl">Page scans</span> <span class="pages">{links}</span> '
             f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a></p>')
 
@@ -112,7 +128,7 @@ def part_page(num, he_paras, start_no):
 <p class="sub">{e(subtitle)}</p>
 {scan_bar(scans)}
 <details class="about"><summary>About this text</summary>
-<p class="meta">{len(he_paras)} paragraphs, scans {scans} of the 1885 printing. One row is one paragraph of the print, which ends
+<p class="meta">{len(he_paras)} paragraphs, scans {shown(scans)} of the 1885 printing (numbered as in the archive.org viewer). One row is one paragraph of the print, which ends
 each entry with a colon. Boxes marked "scan N" in the Hebrew show where a scan page begins; each links to that page on
 archive.org, as do the page numbers under the title. References in <span class="ref">[gray brackets]</span> are the translator's identifications of biblical phrases.
 <a class="warn" href="#notes">⚠</a> marks an uncertain rendering. The Hebrew was checked against the scan line by line;
@@ -139,7 +155,7 @@ abbreviations are left as printed.</p>
 def index_page(counts):
     rows = "\n".join(
         f'<tr class="done"><td><a href="part-{k:02d}.html">{k}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
-        f'<td><a href="{IA.format(int(PARTS[k][2].split("–")[0]))}" rel="noopener">{PARTS[k][2]}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
+        f'<td><a href="{ia(int(PARTS[k][2].split("–")[0]))}" rel="noopener">{shown(PARTS[k][2])}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
     page = HEAD.format(title="Ḥida, Ma'agal Tov: Hebrew and English") + f"""<header>
 <h1>Ḥida, <i>Ma'agal Tov</i></h1>
 <p class="sub">The travel diary of Ḥayyim Yosef David Azulai, with an English translation paragraph by paragraph · <span lang="he" dir="rtl">מעגל טוב</span></p>
@@ -154,7 +170,7 @@ he saw, and his own grief and melancholy. It was not printed in his lifetime.</p
 <table>
 <tr><th>Part</th><th>Contents</th><th>Scans</th><th>Status</th></tr>
 {rows}
-<tr><td>2–</td><td>Florence and on</td><td>13–77</td><td>OCR only, not checked or translated</td></tr>
+<tr><td>2–</td><td>Florence and on</td><td>12–76</td><td>OCR only, not checked or translated</td></tr>
 </table>
 </div>
 <a class="cta" href="part-01.html">Read part 1, side by side →</a>
@@ -196,7 +212,7 @@ def work_json():
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "In progress · part 1 (scans 8–12 of the 1885 printing)",
+        "status_label": "In progress · part 1 (scans 7–11 of the 1885 printing)",
         "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
         "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},
