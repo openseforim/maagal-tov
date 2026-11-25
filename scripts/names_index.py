@@ -17,7 +17,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 ENTITIES = ROOT / "data" / "index" / "entities.json"
 GROUPS = [("family", "The Ḥida and his family"), ("person", "People"),
-          ("author", "Earlier rabbis and authors"), ("place", "Places")]
+          ("author", "Earlier rabbis and authors"), ("place", "Places"),
+          ("own-work", "The Ḥida's own works"), ("book", "Other books")]
+# matches of different classes may overlap: "Tolentino of Ragusa" is a person and a place,
+# "the author of Ma'avar Yabbok" an author and a book
+CLASS = {"place": "place", "own-work": "book", "book": "book"}
 
 
 def load():
@@ -42,10 +46,10 @@ def matches(ents, part, b, text):
     """Non-overlapping matches (start, end, id) in one paragraph. Places and names of people are
     resolved apart, so that "Tolentino of Ragusa" is both a person and the place Ragusa."""
     out = []
-    for places in (True, False):
+    for cls in ("person", "place", "book"):
         ms = []
         for x in ents:
-            if (x["type"] == "place") != places:
+            if CLASS.get(x["type"], "person") != cls:
                 continue
             for rx, at in x["_rx"]:
                 if in_scope(at, part, b):

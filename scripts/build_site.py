@@ -228,7 +228,7 @@ abbreviations are left as printed.</p>
 <ul class="notes">
 {note_rows}
 </ul>
-<nav class="crumb foot" aria-label="Parts"><span><a href="index.html">All parts</a> · <a href="names.html">Index of people and places</a></span>{pn}</nav>
+<nav class="crumb foot" aria-label="Parts"><span><a href="index.html">All parts</a> · <a href="names.html">Index of people, places and books</a></span>{pn}</nav>
 </footer>
 </body>
 </html>
@@ -264,8 +264,8 @@ he saw, and his own grief and melancholy. It was not printed in his lifetime.</p
 <p><b><a href="background.html">Background for the reader</a></b>: the Ḥida's missions, Hebron and the emissaries,
 the places he passed through, dates and hours, money, people and titles, travel, books, and the history of the text,
 with a list of further reading.</p>
-<p><b><a href="names.html">Index of people and places</a></b>: the Ḥida's family, the rabbis, gevirim and
-noblemen he met, the earlier authors he names, and the places, each with links to the paragraphs.</p>
+<p><b><a href="names.html">Index of people, places and books</a></b>: the Ḥida's family, the rabbis, gevirim and
+noblemen he met, the earlier authors he names, the places, his own works and the other books he read or saw, each with links to the paragraphs.</p>
 
 <h2>The Hebrew text</h2>
 <ul>
@@ -348,7 +348,7 @@ def background_page():
 
 
 def names_page(anchors):
-    """docs/names.html: index of people and places (scripts/names_index.py, data/index/entities.json).
+    """docs/names.html: index of people, places and books (scripts/names_index.py, data/index/entities.json).
     anchors: {(part, paragraph block): (href, label)}."""
     import names_index as ni
     parts = {k: read_blocks(ROOT / "data" / "en" / f"part-{k:02d}.en.txt") for k in sorted(PARTS)}
@@ -356,17 +356,18 @@ def names_page(anchors):
     hits = ni.find(ents, parts)
     body = ni.page(ents, hits, lambda p, b: anchors[(p, b)])
     n = sum(1 for x in ents if hits[x["id"]])
-    page = HEAD.format(title="Index of people and places — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
+    page = HEAD.format(title="Index of people, places and books — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
 <nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · Index</span></nav>
 <p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
-<h1>Index of people and places</h1>
-<p class="sub">The people and places named in the English translation, with links to the paragraphs</p>
+<h1>Index of people, places and books</h1>
+<p class="sub">The people, places and books named in the English translation, with links to the paragraphs</p>
 <details class="about"><summary>About this index</summary>
 <p class="meta">{n} entries, made by matching name forms in the English. A short form such as "R. Moses" or "Signor David"
 is counted only where it means the person of the entry. Mentions by title only ("the gevir", "the rabbi", "my son")
 and bare initials ("R. Y. B.") are not indexed, and the notes on uncertain renderings are not searched. The Ḥida himself
 writes "I"; his entry lists only the editors' parts. Identifications in the entries come from the text, with a few well-known
-ones added (for example, R. Saul of Amsterdam is Saul Löwenstamm). Numbers are paragraph numbers; front matter in roman numerals.</p>
+ones added (for example, R. Saul of Amsterdam is Saul Löwenstamm). Where a name is abbreviated or torn, the entry may follow an
+educated guess that the note on that passage explains; such guesses are marked "probably". Books of the Bible and the Talmud are not listed. Numbers are paragraph numbers; front matter in roman numerals.</p>
 </details>
 </header>
 <article class="names">
