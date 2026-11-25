@@ -29,6 +29,7 @@ main { padding-top: 14px; padding-bottom: 40px; }
   padding: 2px 4px; border-radius: 3px; }
 .row:hover, .row:target { background: var(--hl); }
 .row p { margin: 0; }
+.row.head p { font-weight: 600; margin-top: .9em; }
 .ln { font: .68rem/2.3 system-ui, sans-serif; color: var(--muted); text-decoration: none;
   text-align: right; opacity: .55; }
 .he { font-family: "SBL Hebrew", "Ezra SIL", "Noto Serif Hebrew", "Frank Ruehl CLM", "Times New Roman", serif;

@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from paragraphs import PAGE, paragraphs  # noqa: E402
+from paragraphs import FRONT, PAGE, paragraphs  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).resolve().parents[1]
@@ -34,6 +34,10 @@ def ia(image_no):
 
 # part number -> (title, subtitle, scan range shown in the index)
 PARTS = {
+    0: ("Title page, prefaces and the opening",
+        "The 1885 title page; the Livorno editor's preface (1867) and the Ḥida's own; a dream of Ḥayyim Vital in Egypt, "
+        "1764; the voyage from Egypt to Tunis by way of Sousse, and the scholars of Tunis, summer 1773",
+        "35–40"),
     1: ("Tunis, Livorno and Pisa",
         "News of his wife's death, kept secret; sermons and a question about Freemasons in Tunis; the voyage to Livorno, "
         "the lazaretto, and Pisa",
@@ -54,6 +58,34 @@ PARTS = {
         "January 1778: kabbalah with a learned gentile, the royal library and its manuscripts, a visit to Versailles "
         "where Louis XVI passed by, a marquise who saw angels; leaving France for Flanders",
         "28–33"),
+    6: ("Amsterdam: winter and Purim",
+        "Arrival in Amsterdam, January 1778; R. Saul and Rabbi Shalem; the sugar palace of Esther on Shushan Purim; the "
+        "London crash and old complaints against the emissary; Purim masks in the streets, March 1778",
+        "34, 41–45"),
+    7: ("Amsterdam: Passover to Sivan",
+        "Spring 1778: a lonely Seder; slow collecting, the padrinos and a troublesome attendant; stories of R. Heschel, "
+        "the Maharsha and the Shakh; the Ashkenazim's gift, farewells, and the boat to The Hague",
+        "46–51"),
+    8: ("The Hague, Rotterdam and Paris again",
+        "Summer 1778: the Prince of Orange's cabinet of rarities, a blessing that came true in Rotterdam, a royal "
+        "manuscript lent in Paris, and a Bordeaux divorce brief that attacks the Ḥida in print",
+        "51–57"),
+    9: ("Turin, the return to Livorno, and later years",
+        "Turin in Elul 1778 and a reproof to its Jews; back in Pisa and Livorno; his second marriage, autumn 1778; his "
+        "sons at sea, the Blessing of the Sun in 1785, and illness in 1793",
+        "58–62"),
+    10: ("Shem Tov: memories of the Ḥida",
+         "Family stories told by his grandson R. Moses Azulai: the carved bed, his youth in Jerusalem, his customs and "
+         "tithes, his unpublished manuscripts, and the years of his life",
+         "63–68"),
+    11: ("Sefer ha-Zikkaron: the Ḥida's notes and resolutions",
+         "His private record of the years 1773–78: what he studied, his fasts and vigils, the Days of Awe, Shavuot in "
+         "the lazaretto, and resolutions for the last year of the mission",
+         "68–71"),
+    12: ("Stories of the Ḥida",
+         "The editors' closing tales: a flooded river in France, unseen guests at the coffee, a sealed lottery note, a "
+         "letter with a hidden hint, \"Ḥemdat Leilot\", the baby of Pisa, and the sotah of Livorno",
+         "72–77"),
 }
 
 HEAD = """<!doctype html>
@@ -102,16 +134,36 @@ def fmt_he(text):
 BOOK = "https://archive.org/details/maagaltob00azul"
 
 
-def shown(rng):
-    """An image-file range such as "8–12", in the viewer's numbering."""
-    a, b = (int(x) for x in rng.replace("–", "-").split("-"))
-    return f"{vnum(a)}–{vnum(b)}"
+def scan_list(spec):
+    """Image-file numbers of a spec such as "8–12" or "34, 41–45"."""
+    out = []
+    for piece in spec.split(","):
+        a, _, b = piece.strip().replace("–", "-").partition("-")
+        out += list(range(int(a), int(b or a) + 1))
+    return out
+
+
+def shown(spec):
+    """A spec such as "8–12" or "34, 41–45", in the viewer's numbering."""
+    out = []
+    for piece in spec.split(","):
+        a, _, b = piece.strip().replace("–", "-").partition("-")
+        out.append(f"{vnum(int(a))}–{vnum(int(b))}" if b else f"{vnum(int(a))}")
+    return ", ".join(out)
+
+
+def roman(n):
+    vals = [(10, "x"), (9, "ix"), (5, "v"), (4, "iv"), (1, "i")]
+    out = ""
+    for v, r in vals:
+        while n >= v:
+            out, n = out + r, n - v
+    return out
 
 
 def scan_bar(scans):
     """The page scans of this part, as a row of links, and the whole book."""
-    first, last = (int(x) for x in scans.replace("–", "-").split("-"))
-    links = " ".join(f'<a href="{ia(n)}" rel="noopener">{vnum(n)}</a>' for n in range(first, last + 1))
+    links = " ".join(f'<a href="{ia(n)}" rel="noopener">{vnum(n)}</a>' for n in scan_list(scans))
     return (f'<p class="scanbar"><span class="lbl">Page scans</span> <span class="pages">{links}</span> '
             f'<a class="book" href="{BOOK}" rel="noopener">The whole book on archive.org ↗</a> '
             f'<label class="scantoggle"><input type="checkbox" class="os-scan-toggle"> Show the scan beside the text</label></p>')
@@ -122,15 +174,23 @@ def part_page(num, he_paras, start_no, para_pages):
     en = read_blocks(ROOT / "data" / "en" / f"part-{num:02d}.en.txt")
     notes = json.loads((ROOT / "data" / "en" / f"part-{num:02d}.notes.json").read_text(encoding="utf-8"))
     rows = []
+    if len(en) != len(he_paras):
+        sys.exit(f"part {num}: {len(en)} English paragraphs for {len(he_paras)} Hebrew paragraphs")
     for i, (h, x) in enumerate(zip(he_paras, en)):
         n = start_no + i
+        if h.startswith("# ") != x.startswith("# "):
+            sys.exit(f"part {num}, paragraph {n}: a heading in one language only")
+        head = h.startswith("# ")
+        h, x = (h[2:], x[2:]) if head else (h, x)
+        shown_no = roman(n) if num == 0 else str(n)
+        anchor = f"f{n}" if num == 0 else f"p{n}"
         missing = [pg for pg in para_pages[i] if not (DOCS / "scans" / f"s{pg:04d}.jpg").exists()]
         if missing:
             sys.exit(f"part {num}: no panel image for image files {missing}; run scripts/make_scans.py")
         sc = " ".join(f"{pg}:{vnum(pg)}" for pg in para_pages[i])  # image file : viewer number
         vs = [vnum(pg) for pg in para_pages[i]]
-        lab = f'paragraph {n}, ' + (f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}')
-        rows.append(f'<div class="row" id="p{n}" data-scans="{sc}" data-label="{lab}"><a class="ln" href="#p{n}">{n}</a>'
+        lab = f'paragraph {shown_no}, ' + (f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}')
+        rows.append(f'<div class="row{" head" if head else ""}" id="{anchor}" data-scans="{sc}" data-label="{lab}"><a class="ln" href="#{anchor}">{shown_no}</a>'
                     f'<p class="en">{fmt_en(x)}</p>'
                     f'<p class="he" lang="he" dir="rtl">{fmt_he(h)}</p></div>')
     marks = set(re.findall(r"⚠(\d+)", " ".join(en)))
@@ -142,11 +202,12 @@ def part_page(num, he_paras, start_no, para_pages):
         f' — {e(v["note"], quote=False)}</li>' for k, v in notes.items())
     keys = sorted(PARTS)
     i = keys.index(num)
-    prev = f'<a href="part-{keys[i - 1]:02d}.html" rel="prev">← Part {keys[i - 1]}</a>' if i > 0 else ""
-    nxt = f'<a href="part-{keys[i + 1]:02d}.html" rel="next">Part {keys[i + 1]} →</a>' if i + 1 < len(keys) else ""
+    nm = lambda k: "Front matter" if k == 0 else f"Part {k}"  # noqa: E731
+    prev = f'<a href="part-{keys[i - 1]:02d}.html" rel="prev">← {nm(keys[i - 1])}</a>' if i > 0 else ""
+    nxt = f'<a href="part-{keys[i + 1]:02d}.html" rel="next">{nm(keys[i + 1])} →</a>' if i + 1 < len(keys) else ""
     pn = f'<span class="pn">{prev}{nxt}</span>' if prev or nxt else ""
     page = HEAD.format(title=f"{e(title)} — Ḥida, Ma'agal Tov") + f"""<header class="chapter">
-<nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · Part {num}</span>{pn}</nav>
+<nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · {nm(num)}</span>{pn}</nav>
 <p class="title-he" lang="he" dir="rtl">מעגל טוב</p>
 <h1>{e(title)}</h1>
 <p class="sub">{e(subtitle)}</p>
@@ -174,12 +235,13 @@ abbreviations are left as printed.</p>
 """
     (DOCS / f"part-{num:02d}.html").write_text(page, encoding="utf-8")
     print(f"wrote docs/part-{num:02d}.html: {len(he_paras)} paragraphs")
+    return len(he_paras)
 
 
-def index_page(counts):
+def index_page(counts, complete):
     rows = "\n".join(
-        f'<tr class="done"><td><a href="part-{k:02d}.html">{k}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
-        f'<td><a href="{ia(int(PARTS[k][2].split("–")[0]))}" rel="noopener">{shown(PARTS[k][2])}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
+        f'<tr class="done"><td><a href="part-{k:02d}.html">{k if k else "–"}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
+        f'<td><a href="{ia(scan_list(PARTS[k][2])[0])}" rel="noopener">{shown(PARTS[k][2])}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
     page = HEAD.format(title="Ḥida, Ma'agal Tov: Hebrew and English") + f"""<header>
 <h1>Ḥida, <i>Ma'agal Tov</i></h1>
 <p class="sub">The travel diary of Ḥayyim Yosef David Azulai, with an English translation paragraph by paragraph · <span lang="he" dir="rtl">מעגל טוב</span></p>
@@ -194,19 +256,26 @@ he saw, and his own grief and melancholy. It was not printed in his lifetime.</p
 <table>
 <tr><th>Part</th><th>Contents</th><th>Scans</th><th>Status</th></tr>
 {rows}
-<tr><td>{max(PARTS) + 1}–</td><td>The rest of the diary</td><td>{int(PARTS[max(PARTS)][2].split("–")[1]) - 1}–76</td><td>OCR only, not checked or translated</td></tr>
+{"" if complete else f'<tr><td>{max(PARTS) + 1}–</td><td>The rest of the printing</td><td>–76</td><td>OCR only, not checked or translated</td></tr>'}
 </table>
 </div>
 <a class="cta" href="part-01.html">Read part 1, side by side →</a>
+<p>The title page, the two prefaces and the opening of the diary are in the <a href="part-00.html">front matter</a>.</p>
 <p><b><a href="background.html">Background for the reader</a></b>: the Ḥida's missions, Hebron and the emissaries,
 the places he passed through, dates and hours, money, people and titles, travel, books, and the history of the text,
 with a list of further reading.</p>
 
 <h2>The Hebrew text</h2>
 <ul>
-<li><b>Base text:</b> the printing of Przemyśl, 1885 (<i>Sefer Ma'agal Tov</i>), which holds part of the second journey,
-from Tunis to Italy. Scan: <a href="https://archive.org/details/maagaltob00azul">archive.org, maagaltob00azul</a>
-(University of Illinois, 650 ppi). The scan lacks the title page and starts in the middle of a passage.</li>
+<li><b>Base text:</b> the printing of Przemyśl, 1885 (<i>Sefer Ma'agal Tov</i>), which reprints an earlier Italian edition (its editor says in his preface that he brought the autograph to Livorno in Tammuz 5627, that is 1867). It holds
+the second journey, 1773–1778 (Egypt, Tunis, Italy, France, Holland, Paris again, Turin, and the return to Livorno), a few
+later entries to 1793, and the editors' additions: family memories of the Ḥida (<i>Shem Tov</i>), his private notes
+(<i>Sefer ha-Zikkaron</i>) and stories about him. The first journey is not in it. Scan:
+<a href="https://archive.org/details/maagaltob00azul">archive.org, maagaltob00azul</a> (University of Illinois, 650 ppi).</li>
+<li><b>Order of the leaves.</b> The leaves of the scanned copy are bound out of order. Scans 34–39 (viewer numbers) are the
+title page, the prefaces and the opening of the diary; some leaves after them are lost, and the text takes up again in
+Tunis at scan 7. Scan 33 goes on directly to scan 40. The reader follows the order of the text, and each part lists its
+scans.</li>
 <li><b>OCR:</b> Kraken with the PP-OCRv6 model, line by line, then checked against the scan by eye. Spelling, abbreviations and
 punctuation are as printed.</li>
 <li><b>Complete text:</b> A. Freimann's edition, <i>Ma'agal Tov ha-Shalem</i> (Mekize Nirdamim, Berlin 1921 and Jerusalem 1934),
@@ -239,10 +308,10 @@ def work_json():
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "In progress · parts 1–5 (scans 7–32 of the 1885 printing)",
+        "status_label": "Complete · the 1885 printing, 12 parts",
         "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
-        "base_edition": {"label": "Przemyśl 1885 printing (partial)", "scan_url": "https://archive.org/details/maagaltob00azul"},
+        "base_edition": {"label": "Przemyśl 1885 printing (the second journey only)", "scan_url": "https://archive.org/details/maagaltob00azul"},
         "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.",
         "cite": "Ḥayyim Yosef David Azulai, *Ma'agal Tov*, Hebrew text with English translation, ed. Ezra Brand. Open Seforim",
         "url": "https://openseforim.org/maagal-tov/",
@@ -283,19 +352,31 @@ def main():
     pages, cur = [], None
     for p in he:
         toks = [int(t) for t in PAGE.findall(p)]
-        start = toks[0] if p.startswith("{p") else cur
+        start = toks[0] if PAGE.match(p.removeprefix("# ")) else cur
         pp = [start] + [t for t in toks if t != start]
         pages.append([x for x in pp if x is not None])
         cur = toks[-1] if toks else cur
     counts, pos = {}, 0
-    for num in sorted(PARTS):
+    if 0 in PARTS:
+        fr = paragraphs(FRONT)
+        fpages, cur = [], None
+        for p in fr:
+            toks = [int(t) for t in PAGE.findall(p)]
+            start = toks[0] if PAGE.match(p.removeprefix("# ")) else cur
+            pp = [start] + [t for t in toks if t != start]
+            fpages.append([x for x in pp if x is not None])
+            cur = toks[-1] if toks else cur
+        counts[0] = part_page(0, fr, 1, fpages)
+    for num in sorted(k for k in PARTS if k):
         k = len(read_blocks(ROOT / "data" / "en" / f"part-{num:02d}.en.txt"))
         if pos + k > len(he):
             sys.exit(f"part {num}: {k} English paragraphs, only {len(he) - pos} Hebrew paragraphs left")
         part_page(num, he[pos:pos + k], pos + 1, pages[pos:pos + k])
         counts[num] = k
         pos += k
-    index_page(counts)
+    if pos != len(he):
+        print(f"note: {len(he) - pos} Hebrew paragraphs are not in any part yet")
+    index_page(counts, pos == len(he))
     background_page()
     work_json()
 
