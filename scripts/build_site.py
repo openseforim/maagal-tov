@@ -30,7 +30,21 @@ def vnum(image_no):
 
 
 def ia(image_no):
+    if image_no in NLI_PAGES:
+        return NLI_COPY
     return IA.format(vnum(image_no))
+
+
+# Pages lost in the archive.org copy, taken from another copy of the same 1885 printing at the National Library of
+# Israel (shelfmark S 32 A 1051, copy 2). Page numbers 9000+ stand for them in data/he/ and docs/scans/; one printed
+# page can be split over two numbers when it ends in the front matter and goes on in part 1.
+NLI_COPY = "https://www.nli.org.il/he/books/NNL_ALEPH990011568940205171/NLI"
+NLI_PAGES = {9001: "ד", 9002: "ד"}
+
+
+def scan_name(image_no):
+    """How a page is named in the reader: "scan 39" (archive.org viewer number) or "NLI copy, p. ד"."""
+    return f"NLI copy, p. {NLI_PAGES[image_no]}" if image_no in NLI_PAGES else f"scan {vnum(image_no)}"
 
 # part number -> (title, subtitle, scan range shown in the index)
 PARTS = {
@@ -126,9 +140,13 @@ def fmt_en(text):
 
 def fmt_he(text):
     out = e(text, quote=False)
-    return PAGE.sub(lambda m: f'<a class="scanlink" href="{ia(int(m.group(1)))}" title="Scan {vnum(int(m.group(1)))} on archive.org" '
-                              f'data-scan-img="scans/s{int(m.group(1)):04d}.jpg" data-scan-label="Scan {vnum(int(m.group(1)))}">'
-                              f'scan {vnum(int(m.group(1)))}</a>', out)
+    def mark(m):
+        n = int(m.group(1))
+        name = scan_name(n)
+        where = "at the National Library of Israel: a page lost in the archive.org copy" if n in NLI_PAGES else "on archive.org"
+        return (f'<a class="scanlink" href="{ia(n)}" title="{name[0].upper() + name[1:]} {where}" '
+                f'data-scan-img="scans/s{n:04d}.jpg" data-scan-label="{name[0].upper() + name[1:]}">{name}</a>')
+    return PAGE.sub(mark, out)
 
 
 BOOK = "https://archive.org/details/maagaltob00azul"
@@ -188,8 +206,10 @@ def part_page(num, he_paras, start_no, para_pages):
         if missing:
             sys.exit(f"part {num}: no panel image for image files {missing}; run scripts/make_scans.py")
         sc = " ".join(f"{pg}:{vnum(pg)}" for pg in para_pages[i])  # image file : viewer number
-        vs = [vnum(pg) for pg in para_pages[i]]
-        lab = f'paragraph {shown_no}, ' + (f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}')
+        vs = [vnum(pg) for pg in para_pages[i] if pg not in NLI_PAGES]
+        nli = [scan_name(pg) for pg in para_pages[i] if pg in NLI_PAGES][:1]
+        lab = f'paragraph {shown_no}, ' + ", ".join(
+            ([f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}'] if vs else []) + nli)
         rows.append(f'<div class="row{" head" if head else ""}" id="{anchor}" data-scans="{sc}" data-label="{lab}"><a class="ln" href="#{anchor}">{shown_no}</a>'
                     f'<p class="en">{fmt_en(x)}</p>'
                     f'<p class="he" lang="he" dir="rtl">{fmt_he(h)}</p></div>')

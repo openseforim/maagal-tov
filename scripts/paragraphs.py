@@ -7,17 +7,19 @@ token {pNNNN}.
 Imported by build_site.py.
 
 Reading order. The leaves of the scanned copy are bound out of order. Image files 35-38 are the title page, the
-publisher's notice and the two prefaces, and 39-40 are the opening of the diary (printed leaf ג); the leaves after 40
-are lost, and image 8 takes up the text in Tunis. Image 34 goes on directly to image 41 (catchword אור, leaf יח).
-FRONT holds 35-40; MAIN holds the rest of the text in reading order."""
+publisher's notice and the two prefaces, and 39-40 are the opening of the diary (printed leaf ג); the page after 40
+(printed page ד) is lost, and image 8 takes up the text in Tunis. Image 34 goes on directly to image 41 (catchword
+אור, leaf יח). The lost page is taken from another copy of the printing at the National Library of Israel: 9001 is
+its part up to the end of the front matter, 9002 its last line, which opens part 1 (see NLI_PAGES in build_site.py).
+FRONT holds 35-40 and 9001; MAIN holds 9002 and the rest of the text in reading order."""
 import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGE = re.compile(r"\{p(\d{4})\}")
-FRONT = list(range(35, 41))
-MAIN = list(range(8, 35)) + list(range(41, 78))
+FRONT = list(range(35, 41)) + [9001]
+MAIN = [9002] + list(range(8, 35)) + list(range(41, 78))
 HEAD = "\u0001"  # marks a heading paragraph inside this module; removed before return
 
 
