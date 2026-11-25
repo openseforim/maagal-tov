@@ -101,3 +101,13 @@ tr.done td:first-child a { font-weight: 600; }
 .scantoggle { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; font-weight: 600; }
 @media (max-width: 999px) { .scantoggle { display: none; } }
 .bgnote h2 { font-size: 1.2rem; margin: 1.6em 0 .4em; } .bgnote li { margin: .25em 0; } .bgnote p, .bgnote li { line-height: 1.6; }
+
+/* index of people and places (names.html) */
+.toc { font: .9rem system-ui, sans-serif; }
+ul.idx { list-style: none; padding: 0; margin: .4em 0 1.6em; }
+ul.idx li { padding: 7px 0; border-bottom: 1px solid var(--rule); }
+ul.idx li:target { background: var(--hl); }
+ul.idx .desc { color: var(--muted); font-size: .92em; }
+ul.idx .hits { font: .85rem system-ui, sans-serif; margin-top: 2px; }
+ul.idx .ip { white-space: nowrap; }
+h2 .cnt { color: var(--muted); font-weight: 400; font-size: .8em; }
