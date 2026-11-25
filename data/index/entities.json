@@ -224,7 +224,7 @@
 {"id": "paris", "type": "place", "name": "Paris", "patterns": ["Paris"], "desc": "See also Versailles."},
 {"id": "seine", "type": "place", "name": "Seine, Pont-Neuf and the Samaritaine, Paris", "patterns": ["Seine", "Pont-Neuf", "Samaritaine"]},
 {"id": "versailles", "type": "place", "name": "Versailles", "patterns": ["Versailles"]},
-{"id": "metz", "type": "place", "name": "Metz", "patterns": ["Metz"]},
+{"id": "nimes", "type": "place", "name": "Nîmes", "patterns": ["Nîmes"]},
 {"id": "montpellier", "type": "place", "name": "Montpellier", "patterns": ["Montpellier"]},
 {"id": "pezenas", "type": "place", "name": "Pézenas", "patterns": ["Pézenas"]},
 {"id": "narbonne", "type": "place", "name": "Narbonne", "patterns": ["Narbonne"]},

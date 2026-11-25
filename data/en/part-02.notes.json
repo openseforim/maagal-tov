@@ -2,7 +2,7 @@
   "1": {"he": "וחר\"י חזן", "note": "חר\"י חזן, \"the sage R. Y. Ḥazan\": R. Jacob le-Vet Ḥazan, who travelled with R. Yom Tov Algazi as emissary of Jerusalem; so the notes of A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34)."},
   "2": {"he": "ג' ניסן יום ה' במדבר", "note": "The date does not agree with itself. 3 Nisan 5535 was Monday 3 April 1775, in the week of Metzora. 3 Sivan 5535 was Thursday 1 June 1775, in the week of Bemidbar, so \"Nisan\" is probably a misprint for \"Sivan\". Dates from the Hebrew calendar (Hebcal, diaspora readings)."},
   "3": {"he": "לעוברם", "note": "Literally \"to pass them\": perhaps through the customs or the health officers, as with the clothes at Venice below. Sense uncertain."},
-  "4": {"he": "והוצאות", "note": "So printed: \"knowledge and patience and expenses\". Perhaps the means to bear the expenses. Sense uncertain."},
+  "4": {"he": "והוצאות", "note": "Printed והוצאות, \"and expenses\"; A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 74, reads והמצאות, \"and resourcefulness, means\", which the context needs; the 1885 printing has a misreading."},
   "5": {"he": "ומוהריט\"א", "note": "An abbreviated name, printed thus (checked on the scan). Educated guess: מוהריט\"א = \"our teacher R. Yom Tov A[lgazi]\", the same man who came to Livorno in Shevat 1775 (paragraph 13) and was back in Jerusalem by 1776; the initials fit, and he is named with the same title. Not certain."},
   "6": {"he": "ע\"ד כ\"ש", "note": "Abbreviation not resolved; left untranslated."},
   "7": {"he": "איזבירו שעושים משפטים לבלם הבגדים", "note": "איזבירו is Italian sbirro, a police officer. לבלם (\"to stop, hold back\") is unclear; read as a search or seizure of the clothes, perhaps for the health office or the customs."},
@@ -10,5 +10,6 @@
   "9": {"he": "החי השלם", "note": "So printed; probably for הח' השלם, \"the accomplished sage\"."},
   "10": {"he": "וחציות", "note": "Unclear word; read as \"partitions\" (מחיצות), perhaps hedges."},
   "11": {"he": "מכסאות", "note": "Unclear word; read as \"covers\" (מכסות)."},
-  "12": {"he": "דמות יראת גינוב\"א", "note": "The second column in the Piazzetta carries St Theodore, the old patron of Venice. The Ḥida gives the story he was told; \"the fear of Genoa\" is literal."}
+  "12": {"he": "אלפים ות\"ך", "note": "So the 1885 printing (ת\"ך = 420). A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 84, reads אלפים ות\"ק, \"two thousand five hundred\"."},
+  "13": {"he": "דמות יראת גינוב\"א", "note": "The second column in the Piazzetta carries St Theodore, the old patron of Venice. The Ḥida gives the story he was told; \"the fear of Genoa\" is literal."}
 }

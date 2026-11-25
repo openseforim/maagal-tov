@@ -6,8 +6,9 @@
   "5": {"he": "סדר שלח יום ו'", "note": "The entry gives no year or place. Shelaḥ was read on 28 June 1777, between the Ḥida's stay in Mantua (May) and his arrival in Avignon (30 July); the dates in brackets assume that year."},
   "6": {"he": "לתווך השלום ביניהם", "note": "\"Between them\" is not explained in the entry; it may refer to a quarrel told elsewhere."},
   "7": {"he": "ה\"י עדכ\"ש", "note": "Abbreviations not resolved; left untranslated."},
-  "8": {"he": "סי' פאבר\"י ... מהקאדימייא די לה סינסייא", "note": "\"Fabri\" of the Académie des Sciences: not identified."},
-  "9": {"he": "ויום הששי", "note": "26 Kislev 5538 was itself a Friday. \"The sixth day\" may be the same day, a week later (2 January 1778), or the sixth day of Hanukkah (30 Kislev, Tuesday 30 December 1777)."},
-  "10": {"he": "וחסדי ה' רז\"כיר", "note": "Printed רז\"כיר; read אזכיר, \"I will recount\" (Isa 63:7), as A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 121, prints it."},
-  "11": {"he": "ד' קהלות דמיץ, מונטשפלייר, פיזינאס, כרבונא", "note": "\"The four communities\" are probably the four papal communities of the Comtat (Avignon, Carpentras, Cavaillon, L'Isle). כרבונא is read as Narbonne; the list does not add up to seven clearly."}
+  "8": {"he": "ט\"ו מילין", "note": "So the 1885 printing (ט\"ו = 15). A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 120, reads מ\"ו (46); in this type ט and מ are easily confused, and 15 miles is the likelier figure."},
+  "9": {"he": "סי' פאבר\"י ... מהקאדימייא די לה סינסייא", "note": "\"Fabri\" of the Académie des Sciences: not identified."},
+  "10": {"he": "ויום הששי", "note": "26 Kislev 5538 was itself a Friday. \"The sixth day\" may be the same day, a week later (2 January 1778), or the sixth day of Hanukkah (30 Kislev, Tuesday 30 December 1777)."},
+  "11": {"he": "וחסדי ה' רז\"כיר", "note": "Printed רז\"כיר; read אזכיר, \"I will recount\" (Isa 63:7), as A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 121, prints it."},
+  "12": {"he": "שבעה שרי צרפת ... ד' קהלות דמיץ, מונטשפלייר, פיזינאס, כרבונא", "note": "The 1885 printing reads \"seven princes (שרי) of France\" and דמיץ; A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 121, reads שבעת ערי צרפת, \"seven cities of France\", and נימיץ, Nîmes, which the list of cities needs (ע/ש and נ/ד misread). \"The four communities\" are the four papal communities of the Comtat (Avignon, Carpentras, Cavaillon, L'Isle), where these Jews came from; כרבונא is Narbonne."}
 }
