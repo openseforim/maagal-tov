@@ -1,5 +1,5 @@
 {
-  "1": {"he": "חרי\"ב", "note": "Read as an abbreviated name, \"the sage R. Y. B.\" (חכם רבי י' ב'); not identified."},
+  "1": {"he": "חרי\"ב", "note": "חרי\"ב, \"the sage R. Y. B.\": probably R. Jacob Burla, emissary of Jerusalem. In A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34) he is named in full (חר\"י בורלא) in Livorno with R. Yom Tov Algazi (p. 69), and as חרי\"ב in Venice, where the council gave him travel money (p. 85); this identification was proposed by GPT and fits both passages."},
   "2": {"he": "וגם לאבו פניו", "note": "So printed (checked on the scan); the word לאבו is not clear. The sense seems to be that he also set his face to make light of the Ḥida."},
   "3": {"he": "ועק\"י", "note": "An abbreviation for a body of the Venetian community, probably a council (va'ad); not resolved further."},
   "4": {"he": "בח\"ה יום א'", "note": "Read as \"the festival\" (חג ה...), that is Sukkot, since the next item is the first of its intermediate days."},
@@ -10,5 +10,5 @@
   "9": {"he": "ליפשין מאיכנשין", "note": "Printed ליפשין מאיכנשין; A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 91, reads משה ליפשיץ מחינטשין: R. Moses Lipschitz of Chęciny (Poland), who taught in Modena."},
   "10": {"he": "הרב\"ן", "note": "Unclear word; read as \"rabbi\"."},
   "11": {"he": "האינקולאצייוני", "note": "Italian inoculazione: inoculation against smallpox, then debated by Italian rabbis."},
-  "12": {"he": "רד\"ש", "note": "Abbreviation or family name, not resolved; the last letter is not clear on the scan."}
+  "12": {"he": "רד\"ש", "note": "Abbreviation of a family name: de Roquemartine, a Jewish family of Carpentras; A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34) names him so in a note (\"de Roquemartine\")."}
 }

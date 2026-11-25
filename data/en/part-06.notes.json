@@ -9,7 +9,7 @@
   "8": {"he": "שהי' חול'", "note": "Read as חולה, \"ill\" (he went because Teixeira de Mattos was ill). It could also be read חול, \"a weekday\"."},
   "9": {"he": "לפריזידינטי", "note": "Italian or Spanish presidente: the president of the wardens (the Mahamad) of the Portuguese community, to whom the emissary presented his letter of appointment."},
   "10": {"he": "פאן איספינגאד\"ו", "note": "Probably Spanish or Portuguese pan esponjado / pão espongado, \"sponge bread\", a sponge cake (compare the pan di Spagna in part 5)."},
-  "11": {"he": "עז\"ת סופר", "note": "Printed with an abbreviation mark; read as the title of the edition (Ezat Sofer?). The book has not been identified."},
+  "11": {"he": "עז\"ת סופר", "note": "Printed עז\"ת סופר; A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 138, reads עזרת סופר, Ezrat Sofer (\"the scribe's help\"). GPT proposes Judah Piza's five-volume Amsterdam Pentateuch of that title (Janson and Mondovy, 1767–69); not checked."},
   "12": {"he": "לסי' חדא", "note": "Read as a name, Signor Ḥada (or Hadda). It could also mean \"to a certain Signor\" (Aramaic ḥada, \"one\"); not certain."},
   "13": {"he": "החה\"ש שד\"ר", "note": "החה\"ש read as החכם השלם, \"the perfect sage\" (a common title), and שד\"ר as sheliaḥ de-rabbanan, \"the emissary\": the Ḥida himself."},
   "14": {"he": "ירידת הרוחים בלונדרים", "note": "רוחים read as ריוחים, \"gains, values\": the fall of the stocks in London. In March 1778 France announced its treaty with the American colonies, and British funds fell; this is probably the crash he means."},
@@ -18,5 +18,6 @@
   "17": {"he": "שאני חלקתי'", "note": "Read as חלקתיה, \"which I distributed\": the printed letter of the mission that the emissary handed out. Not certain."},
   "18": {"he": "בשביל פורים", "note": "So printed: Purim (14 Adar) had been eight days earlier, on 13 March. The text gives no reason for the late celebration."},
   "19": {"he": "בריטאנו", "note": "A gentile named Britano (Brittano?), not identified. The print separates it from \"ben Dana\" with a full stop; it is perhaps possible that it belongs to his name (de Brito), but then only two gentiles would be listed."},
-  "20": {"he": "איבילזמאן", "note": "A Dutch name, read as Ebelsman (or Ibelsman); not identified."}
+  "20": {"he": "איבילזמאן", "note": "A Dutch name, read as Ebelsman (or Ibelsman); not identified."},
+  "21": {"he": "קארלו פירנאנדו", "note": "A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 140, reads קארלו בירנאנדי, Carlo Birnandi, and spells the great merchant of part 7 (printed וידאנאנדי) almost the same way (p. 145): very probably one man, a gentile merchant of Amsterdam. The European spelling of the name is not known."}
 }
