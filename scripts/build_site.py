@@ -49,7 +49,7 @@ def scan_name(image_no):
 # part number -> (title, subtitle, scan range shown in the index)
 PARTS = {
     0: ("Title page, prefaces and the opening",
-        "The 1885 title page; the Livorno editor's preface (1867) and the Ḥida's own; a dream of Ḥayyim Vital in Egypt, "
+        "The 1885 title page; the preface of the Livorno editor, Joseph Shabbetai Farḥi, and the Ḥida's own; a dream of Ḥayyim Vital in Egypt, "
         "1764; the voyage from Egypt to Tunis by way of Sousse, and the scholars of Tunis, summer 1773",
         "35–40"),
     1: ("Tunis, Livorno and Pisa",
@@ -289,7 +289,7 @@ noblemen he met, the earlier authors he names, the places, his own works and the
 
 <h2>The Hebrew text</h2>
 <ul>
-<li><b>Base text:</b> the printing of Przemyśl, 1885 (<i>Sefer Ma'agal Tov</i>), which reprints an earlier Italian edition (its editor says in his preface that he brought the autograph to Livorno in Tammuz 5627, that is 1867). It holds
+<li><b>Base text:</b> the printing of Przemyśl, 1885 (<i>Sefer Ma'agal Tov</i>), which reprints the Livorno printing of 1879 (Eliyahu Ben Amozegh). Its editor, Joseph Shabbetai Farḥi, says in his preface that R. Abraham Ḥai Musafia had seen the autograph in the hands of the Ḥida's grandson in Ancona, and came to Livorno with his extracts in Tammuz 5627 (1867). It holds
 the second journey, 1773–1778 (Egypt, Tunis, Italy, France, Holland, Paris again, Turin, and the return to Livorno), a few
 later entries to 1793, and the editors' additions: family memories of the Ḥida (<i>Shem Tov</i>), his private notes
 (<i>Sefer ha-Zikkaron</i>) and stories about him. The first journey is not in it. Scan:

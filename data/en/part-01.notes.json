@@ -1,11 +1,11 @@
 {
   "1": {"he": "בא לי פליגו כתבים", "note": "Pligo is the Italian plico, a packet or bundle (of letters). This line is the last line of the page lost in the archive.org copy, read from the copy of the 1885 printing at the National Library of Israel (S 32 A 1051)."},
   "2": {"he": "ושמ\"ל", "note": "שמ\"ל = שמן למאור, \"oil for the lamp\" (lit in a synagogue for the rest of a soul). Sefer ha-Zikkaron (part 11) spells out the same act: בימ\"ת נתתי צדקה ושמן למאו' למנוחת אבא מארי ומ' אמי."},
-  "3": {"he": "ההי\"ב", "note": "Abbreviation not resolved; it has the form of a short prayer of protection (\"may God save us\" or similar)."},
+  "3": {"he": "ההי\"ב", "note": "ההי\"ב = ה' הטוב יכפר בעד, \"may the good Lord pardon\" (2 Chr 30:18); the Ḥida writes the prayer out in full in part 8 (paragraph 111)."},
   "4": {"he": "ומאשה", "note": "So printed (checked on the scan). Probably a misprint or an abbreviation; the usual pair is \"keen and learned\" (חריף ובקי). Left as uncertain."},
   "5": {"he": "בעזר משדי", "note": "So printed. Read as \"with the help of the Almighty\" (Shaddai); the extra mem is not explained."},
   "6": {"he": "לשלים לאיספאניינא של ליוורנו", "note": "Unclear place name: perhaps the beach or the outer anchorage of Livorno (Italian spiaggia?). The OCR reading לשלים was not checked against the scan."},
-  "7": {"he": "פאן איספונג\"אדו", "note": "A sweet bread or sponge cake (Italian pan spugnato?); not identified."},
-  "8": {"he": "ויהי הצע\"ר לסגור לבי", "note": "Literally \"and the grief was to close my heart\"; the abbreviation mark in הצע\"ר is not explained. Sense uncertain."},
-  "9": {"he": "חלי\"ש", "note": "Abbreviation not resolved (the scan may read חלי\"ם)."}
+  "7": {"he": "פאן איספונג\"אדו", "note": "Pan esponjado (Spanish), sponge bread; so A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 66, n. 8. Signor Pereira's gift just before is pan di Spagna, the Italian sponge cake."},
+  "8": {"he": "ויהי הצע\"ר לסגור לבי", "note": "A play on Josh 2:5, ויהי השער לסגור, \"when the gate was about to be shut\": the Ḥida writes הצער, \"the grief\", for השער, \"the gate\", and adds \"my heart\"; the abbreviation mark points to the change of one letter."},
+  "9": {"he": "חלי\"ש", "note": "חלי\"ש = חיים לישראל שבק, \"he left life to Israel\", a formula for a righteous man's death; so A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), p. 66, n. 9."}
 }

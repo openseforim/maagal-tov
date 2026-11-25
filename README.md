@@ -41,7 +41,7 @@ leaves out the first image file, so scan N is image file N+1; the data files kee
 
 ## Sources
 
-- **Base text:** the printing of Przemyśl, 1885 (*Sefer Ma'agal Tov*), a reprint of an earlier Italian edition. It
+- **Base text:** the printing of Przemyśl, 1885 (*Sefer Ma'agal Tov*), a reprint of the Livorno printing of 1879 (Eliyahu Ben Amozegh), edited by Joseph Shabbetai Farḥi. It
   holds the second journey (1773–1778) with a few later entries to 1793, then the editors' additions (*Shem Tov*,
   *Sefer ha-Zikkaron*, stories). Scan: [archive.org maagaltob00azul](https://archive.org/details/maagaltob00azul)
   (University of Illinois, 650 ppi); see "Order of the leaves" above.
