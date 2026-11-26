@@ -4573,7 +4573,7 @@
   "type": "person",
   "name": "Jacob Emden (Jacob son of Ẓevi Hirsch)",
   "patterns": [
-   "R\\. Jacob son of Hirsch"
+   "RYB\"H"
   ],
   "desc": "He raised the outcry against Jonathan Eybeschütz's amulets."
  },
@@ -5706,9 +5706,9 @@
  {
   "id": "place-beiersdorf",
   "type": "place",
-  "name": "Beiersdorf",
+  "name": "Baiersdorf",
   "patterns": [
-   "Beiersdorf"
+   "Baiersdorf"
   ],
   "desc": "Between Fürth and Forchheim."
  },
@@ -5886,9 +5886,9 @@
  {
   "id": "place-hochberg",
   "type": "place",
-  "name": "Hochberg",
+  "name": "Höchberg",
   "patterns": [
-   "Hochberg"
+   "Höchberg"
   ],
   "desc": "Village on the road to Heidingsfeld."
  },
@@ -5976,9 +5976,9 @@
  {
   "id": "place-wallstadt",
   "type": "place",
-  "name": "Wallstadt",
+  "name": "Kleinwallstadt",
   "patterns": [
-   "Wallstadt"
+   "Kleinwallstadt"
   ],
   "desc": "Village on the Main."
  },
