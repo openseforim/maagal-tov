@@ -418,7 +418,7 @@ is counted only where it means the person of the entry. Mentions by title only (
 and bare initials ("R. Y. B.") are not indexed, and the notes on uncertain renderings are not searched. The Ḥida himself
 writes "I"; his entry lists only the editors' parts. Identifications in the entries come from the text, with a few well-known
 ones added (for example, R. Saul of Amsterdam is Saul Löwenstamm). Where a name is abbreviated or torn, the entry may follow an
-educated guess that the note on that passage explains; such guesses are marked "probably". Books of the Bible and the Talmud are not listed. Numbers are paragraph numbers; front matter in roman numerals.</p>
+educated guess that the note on that passage explains; such guesses are marked "probably". Books of the Bible and the Talmud are not listed. Numbers are paragraph numbers: in the 1885 printing as in its parts (front matter in roman numerals); in the full diary from Freimann's edition, page and paragraph ("103.2" = the second paragraph that begins on Freimann's p. 103). The same person can appear in both, since many entries are in both texts.</p>
 </details>
 </header>
 <article class="names">

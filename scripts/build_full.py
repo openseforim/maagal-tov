@@ -81,8 +81,14 @@ def href_1885(part, para):
 def fmt_en(text, offset):
     text = e(text, quote=False)
     text = re.sub(r"\[([^\]]+)\]", r'<span class="ref">[\1]</span>', text)
-    return re.sub(r"\s*⚠(\d+)", lambda m: f' <a class="warn" href="#n{offset + int(m.group(1))}" id="r{offset + int(m.group(1))}" '
-                  f'title="uncertain rendering">⚠{offset + int(m.group(1))}</a>', text)
+    seen = set()  # one note can be marked at several words; only the first mark gets the back-link id
+
+    def mark(m):
+        n = offset + int(m.group(1))
+        ident = "" if n in seen else f' id="r{n}"'
+        seen.add(n)
+        return f' <a class="warn" href="#n{n}"{ident} title="uncertain rendering">⚠{n}</a>'
+    return re.sub(r"\s*⚠(\d+)", mark, text)
 
 
 def fmt_he(text):

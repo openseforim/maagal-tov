@@ -254,13 +254,17 @@
    "start": "99:15",
    "head": false,
    "he": "תמוז 8. בלק א' נסענו לש' מניצה וליוו אותנו חר\"י פרו' וחתנו ושבתי ויטירבו וכמה יחידים. וסי' יחזקאל כרמי ומשה די מונטיליץ ויעקב הלוי נתעכבו ח' ימים מדרכם כדי ללות אותנו עד אביניון. ונסעו עמנו ועברנו אחר ב' מילין נהר וא\"ר והיה גדול ונטבע חצי הקאליסו וכל הבגדים וספרים חיצונים שהיו במרתף וכל מאכל ומתיקה נשטפו ונימקו וברוך שהצילנו.",
-   "en": "8 Tammuz, Sunday of the week of Balak [13 July 1777]: we set out in peace from Nice. The sage R. Y. Provenzal and his son-in-law, Shabbetai Viterbo and several individuals accompanied us. Signor Ezekiel Carmi, Moses de Monteux and Jacob ha-Levi put off their own journey by eight days in order to accompany us as far as Avignon. They traveled with us. After two miles we crossed the river Var ⚠1; it was high, and half of the calash sank. All the clothes and the outer books ⚠2 that were in the boot, and all the food and sweets, were soaked and ruined. Blessed is He who saved us.",
+   "en": "8 Tammuz, Sunday of the week of Balak [13 July 1777]: we set out in peace from Nice. The sage R. Y. Provenzal and his son-in-law, Shabbetai Viterbo and several individuals accompanied us. Signor Ezekiel Carmi, Moses de Montilitz ⚠1 and Jacob ha-Levi put off their own journey by eight days in order to accompany us as far as Avignon. They traveled with us. After two miles we crossed the river Var ⚠2; it was high, and half of the calash sank. All the clothes and the outer books ⚠3 that were in the boot, and all the food and sweets, were soaked and ruined. Blessed is He who saved us.",
    "notes": {
     "1": {
+     "he": "מונטיליץ",
+     "note": "So printed (Montilitz, Montelitz); a family of the Comtat Venaissin. Perhaps de Monteux, from the town of Monteux near Carpentras, or de Montélimar; not identified. Kept as printed throughout."
+    },
+    "2": {
      "he": "נהר וא\"ר",
      "note": "Read as the river Var, the border river west of Nice; the quotation mark is the print's."
     },
-    "2": {
+    "3": {
      "he": "ספרים חיצונים",
      "note": "Literally \"outside books\": either books kept in the outer compartment or secular (non-sacred) books."
     }
@@ -320,7 +324,7 @@
    "start": "100:16",
    "head": false,
    "he": "תמוז 13. אור הו'. בתחילת הלילה הגענו לאביניון וקבלנו סי' יצחק די מונטיליץ בביתו אך מהאושפיזא מביאים לנו לאכול ושם בהכ\"נ יפה ומהודר. ומנהגי המחוז רובו כספרדי בקצת שינויים בתפלות והש\"ץ לובש חלוק לבן ומתפלל וכולם צועקים בברכות וזמירות ואפי' ברכה אחת אומרים אותה בשנים והתיבה היא בסוף הקהל כמו רשות אחרת גבוה על פני אורך בית הכנסת דבר משונה.",
-   "en": "13 Tammuz, the night of Friday [the evening of Thursday 17 July 1777]: at nightfall we reached Avignon, and Signor Isaac de Monteux received us in his house, but they bring us food from the inn. There is a beautiful and splendid synagogue there. The customs of the province are mostly like the Sephardi, with some differences in the prayers. The cantor wears a white robe when he prays, and everyone cries out in the blessings and hymns; even a single blessing they say in two ⚠1. The tevah is at the end of the congregation, like a separate domain, raised along the length of the synagogue: a strange thing.",
+   "en": "13 Tammuz, the night of Friday [the evening of Thursday 17 July 1777]: at nightfall we reached Avignon, and Signor Isaac de Montilitz received us in his house, but they bring us food from the inn. There is a beautiful and splendid synagogue there. The customs of the province are mostly like the Sephardi, with some differences in the prayers. The cantor wears a white robe when he prays, and everyone cries out in the blessings and hymns; even a single blessing they say in two ⚠1. The tevah is at the end of the congregation, like a separate domain, raised along the length of the synagogue: a strange thing.",
    "notes": {
     "1": {
      "he": "ואפי' ברכה אחת אומרים אותה בשנים",
@@ -344,11 +348,11 @@
    "start": "100:26",
    "head": false,
    "he": "תמוז 15. א' פנחס היה מפציר בבעה\"ב סי' יצחק ד\"מ שאלך לקק\"י קארפינטראץ ואני דוחה אותו.",
-   "en": "15 Tammuz, Sunday of the week of Pineḥas [20 July 1777]: my host, Signor Isaac de Monteux ⚠1, was urging me to go to the holy congregation of Carpentras, and I was putting him off.",
+   "en": "15 Tammuz, Sunday of the week of Pineḥas [20 July 1777]: my host, Signor Isaac de Montilitz ⚠1, was urging me to go to the holy congregation of Carpentras, and I was putting him off.",
    "notes": {
     "1": {
      "he": "סי' יצחק ד\"מ",
-     "note": "ד\"מ read as de Monteux, the host named on 13 Tammuz."
+     "note": "ד\"מ read as de Montilitz, the host named on 13 Tammuz."
     }
    }
   },
