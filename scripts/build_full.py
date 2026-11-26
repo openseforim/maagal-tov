@@ -78,15 +78,27 @@ def href_1885(part, para):
     return f"part-{part:02d}.html#p{para}", str(para)
 
 
-def fmt_en(text, offset):
+PBREAK = "{p}"  # a break inside one Freimann paragraph, put at the same point in the Hebrew and the English
+
+
+def note_label(n, note):
+    """⚠n for an uncertain rendering; a plain n for a note that explains (an identified allusion, a person, a fact)."""
+    return str(n) if note.get("kind") == "note" else f"⚠{n}"
+
+
+def fmt_en(text, offset, seen=None, loc=None):
     text = e(text, quote=False)
     text = re.sub(r"\[([^\]]+)\]", r'<span class="ref">[\1]</span>', text)
-    seen = set()  # one note can be marked at several words; only the first mark gets the back-link id
+    seen = set() if seen is None else seen  # one note can be marked at several words; only the first mark gets the back-link id
+    loc = loc or {}
 
     def mark(m):
-        n = offset + int(m.group(1))
+        k = int(m.group(1))
+        n = offset + k
         ident = "" if n in seen else f' id="r{n}"'
         seen.add(n)
+        if loc.get(k, {}).get("kind") == "note":
+            return f' <a class="warn expl" href="#n{n}"{ident} title="note">{n}</a>'
         return f' <a class="warn" href="#n{n}"{ident} title="uncertain rendering">⚠{n}</a>'
     return re.sub(r"\s*⚠(\d+)", mark, text)
 
@@ -136,13 +148,19 @@ def build(head_html, roman):
             for pt, pa in p["x1885"]:
                 back.setdefault((pt, str(pa)), []).append((f"{fname}#{p['anchor']}", p["no"]))
             head = bool(p.get("head"))
-            rows.append(f'<div class="row{" head" if head else ""}" id="{p["anchor"]}" data-label="Freimann p. {p["no"].split(".")[0]}, paragraph {p["no"]}">'
-                        f'<a class="ln" href="#{p["anchor"]}">{p["no"]}</a>'
-                        f'<p class="en">{fmt_en(p["en"], off)}{x}</p>'
-                        f'<p class="he" lang="he" dir="rtl">{fmt_he(p["he"])}</p></div>')
+            ens, hes = p["en"].split(PBREAK), p["he"].split(PBREAK)
+            if len(ens) != len(hes):
+                sys.exit(f"full diary {p['start']}: {len(ens)} English segments but {len(hes)} Hebrew")
+            seen = set()
+            for j, (en_j, he_j) in enumerate(zip(ens, hes)):
+                sfx = "" if j == 0 else "abcdefghij"[j]
+                rows.append(f'<div class="row{" head" if head else ""}{" cont" if j else ""}" id="{p["anchor"]}{sfx}" data-label="Freimann p. {p["no"].split(".")[0]}, paragraph {p["no"]}{sfx}">'
+                            f'<a class="ln" href="#{p["anchor"]}{sfx}">{p["no"]}{sfx}</a>'
+                            f'<p class="en">{fmt_en(en_j.strip(), off, seen, loc)}{x if j == 0 else ""}</p>'
+                            f'<p class="he" lang="he" dir="rtl">{fmt_he(he_j.strip())}</p></div>')
             off += max(loc) if loc else 0
             anchors[(f"F{num}", b)] = (f"{fname}#{p['anchor']}", p["no"])
-            blocks.setdefault(f"F{num}", []).append(p["en"])
+            blocks.setdefault(f"F{num}", []).append(p["en"].replace(PBREAK, " "))
         first, last = pl(ps[0]["start"])[0], ps[-1]
         last_pg = max([pl(last["start"])[0]] + [int(t) for t in FR_PAGE.findall(last["he"])])
         nm = lambda k: f"Full diary {k}"  # noqa: E731
@@ -150,7 +168,7 @@ def build(head_html, roman):
         nxt = f'<a href="full-{num + 1:02d}.html" rel="next">{nm(num + 1)} →</a>' if num < len(parts) else ""
         pn = f'<span class="pn">{prev}{nxt}</span>' if prev or nxt else ""
         note_rows = "\n".join(
-            f'<li id="n{k}"><a href="#r{k}">⚠{k}</a> <span lang="he" dir="rtl" class="he-inline">{e(v["he"])}</span>'
+            f'<li id="n{k}"><a href="#r{k}">{note_label(k, v)}</a> <span lang="he" dir="rtl" class="he-inline">{e(v["he"])}</span>'
             f' — {e(v["note"], quote=False)}</li>' for k, v in notes)
         page = head_html.format(title=f"{e(part['title'])} — Ḥida, Ma'agal Tov, the full diary") + f"""<header class="chapter">
 <nav class="crumb" aria-label="Parts"><span><a href="index.html">All parts</a> · {nm(num)}</span>{pn}</nav>
@@ -164,15 +182,20 @@ Jerusalem 1934), pp. {first}–{last_pg}. One row is one paragraph of that editi
 begins on Freimann's p. 103. The Hebrew is the Ḥida's text only: Freimann's notes are left out. It was read by OCR and checked
 against the scan line by line; spelling and abbreviations are as printed. Where the 1885 printing has the same entry, the row
 links to it ("1885 printing: 55"); that text was edited by the Livorno editors and can differ in wording, order and dates.
-References in <span class="ref">[gray brackets]</span> are the translator's: civil dates and biblical references.
-<a class="warn" href="#notes">⚠</a> marks an uncertain rendering.</p>
+The Hebrew is given without vowel points, also for the few foreign words that Freimann prints with points. A long entry can be
+divided into rows "8.6", "8.6b", "8.6c": these are parts of one paragraph of the edition.</p>
+<p class="meta">Everything in <span class="ref">[gray brackets]</span> is the translator's: civil dates; the sources of biblical and
+rabbinic phrases; a short explanation of a term, or a full name for an abbreviation; a word that the English needs. Where the
+print gives only an initial and Freimann's note gives the name, the English gives the name. An identification that is only
+probable says so, in the bracket or in a note. <a class="warn" href="#notes">⚠</a> with a number marks an uncertain reading or
+rendering; a number alone marks a note that explains an allusion, a play on words, a person or a fact.</p>
 </details>
 </header>
 <main class="prose">
 {chr(10).join(rows)}
 </main>
 <footer id="notes">
-<h2>Uncertain renderings</h2>
+<h2>Notes and uncertain renderings</h2>
 <ul class="notes">
 {note_rows}
 </ul>

@@ -2839,7 +2839,9 @@
   "type": "place",
   "name": "Modena",
   "patterns": [
-   "Modena"
+   {
+    "rx": "(?<!\\(Leone\\) )Modena"
+   }
   ]
  },
  {
@@ -3755,11 +3757,12 @@
  {
   "id": "provinzal",
   "type": "person",
-  "name": "Y. Provinzal of Alexandria",
+  "name": "Isaac Provenzali (Provinzal) of Alexandria",
   "patterns": [
-   "R\\. Y\\. Provinzal"
+   "R\\. Y\\. Provinzal",
+   "R\\. Isaac Provenzali"
   ],
-  "desc": "Sage of Alexandria with whom the Ḥida lodged in 1753; later despoiled by Ali Bey with other gevirim of Egypt (the reading of the name is uncertain)."
+  "desc": "Sage of Alexandria with whom the Ḥida lodged in 1753 (R. Isaac Provenzali Conorti, by Freimann's note); later despoiled by Ali Bey with other gevirim of Egypt (the reading of the name there is uncertain)."
  },
  {
   "id": "caniti",
@@ -3841,11 +3844,12 @@
  {
   "id": "romanin",
   "type": "person",
-  "name": "Y. Romanin, rabbi in Pesaro",
+  "name": "Isaiah Romanin, rabbi in Pesaro",
   "patterns": [
-   "R\\. Y\\. Romanin"
+   "R\\. Y\\. Romanin",
+   "R\\. Isaiah Romanin"
   ],
-  "desc": "A rabbi in Pesaro with whom the Ḥida spent a Friday night."
+  "desc": "A rabbi in Pesaro with whom the Ḥida spent a Friday night; a grammarian and poet, pupil of R. Isaiah Bassan (Freimann's note)."
  },
  {
   "id": "solomon-gentilomo",
@@ -4047,9 +4051,10 @@
  {
   "id": "saraval",
   "type": "person",
-  "name": "Y. Saraval of Mantua",
+  "name": "Jacob Raphael Saraval of Mantua",
   "patterns": [
-   "R\\. Y\\. Saraval"
+   "R\\. Y\\. Saraval",
+   "R\\. Jacob Raphael Saraval"
   ],
   "desc": "Rabbi of Mantua. He preached a three-hour eulogy for Gur Finzi in 1754; in 1776 he showed the Ḥida old books and preached in his honor."
  },
@@ -6428,11 +6433,12 @@
  {
   "id": "b-gilgul-mahloket",
   "type": "book",
-  "name": "Gilgul Maḥloket",
+  "name": "Gilgul Meḥilot (מחלו\"ת)",
   "patterns": [
-   "Gilgul Maḥloket"
+   "Gilgul Maḥloket",
+   "Gilgul Meḥilot"
   ],
-  "desc": "An account of the Luzzatto affair, seen in Venice."
+  "desc": "A file on the Luzzatto dispute, seen in Venice; the title is as printed, and its reading is uncertain."
  },
  {
   "id": "b-maggid-me-reshit",
@@ -6841,7 +6847,8 @@
   "patterns": [
    "R\\. Ḥananiah Bondi",
    "R\\. Ḥ\\. Bondi",
-   "(?<=the sage )Bondi"
+   "(?<=the sage )Bondi",
+   "R\\. Ḥananiah Mazal Tov Bondi"
   ],
   "desc": "Rabbi of Livorno and a friend of the Ḥida, who escorted him when he left the city in 1753 and in 1757. Perhaps also the physician, the sage Bondi, who sent the Ḥida's boxes to Livorno in 1775."
  },
@@ -7282,7 +7289,8 @@
      "F5.59",
      "F5.60"
     ]
-   }
+   },
+   "R\\. A\\. \\[probably Abraham\\] ben Asher"
   ],
   "desc": "A pious rabbi who was in Alexandria in 1753 and did the Ḥida much good. In 1764 he came with Y. Abulafia to take the Ḥida to Constantinople; he stayed on the ship in the storm and came back to Jaffa on Shabbat Zakhor."
  },
@@ -10309,7 +10317,8 @@
   "name": "Jacob Ḥazak of Padua",
   "patterns": [
    "R\\. Jacob Ḥazak",
-   "R\\. Y\\. Ḥazak"
+   "R\\. Y\\. Ḥazak",
+   "R\\. Jacob Raphael Hezekiah Ḥazak"
   ],
   "desc": "Old pious rabbi of Padua, 'the wonder of the generation'; the Ḥida was with him in 1754 and ate with him in 1776."
  },

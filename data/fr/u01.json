@@ -16,11 +16,12 @@
    "start": "1:1",
    "head": false,
    "he": "אלה בני צעי\"ר כל הקורות ודבר גבורות צפו עברו על ראשי ביום לכתי מחנים נפיק לקריתא ארץ העמים ומלכיות שונות ואימות מתחלפות עובר אורחות ימים וכל המרכב שידה תיבה בצבים וכפרדים וצמד גמלים כחדא מחתא. הא גופא קשיא",
-   "en": "\"These are the sons of the Tza'ir\" ⚠1: all the happenings and the mighty things that flowed and passed over my head from the day I went out from the camp to the town, to the land of the nations, various kingdoms and changing peoples, passing along the paths of the seas [Ps 8:9], and every conveyance, litter and chest, in covered wagons [Num 7:3], on mules and a pair of camels, all at one stroke. This itself is difficult.",
+   "en": "These are the sons of \"the young one\" (tza'ir) ⚠1: all the happenings and the mighty things that flowed and passed over my head from the day I went out from the camp to the town, to the land of the nations, various kingdoms and changing peoples, passing along the paths of the seas [Ps 8:9], and every conveyance, litter and chest, in covered wagons [Num 7:3], on mules and a pair of camels, all at one stroke. This itself is difficult.",
    "notes": {
     "1": {
      "he": "אלה בני צעי\"ר",
-     "note": "A play on \"These are the sons of Se'ir\" (Gen 36:20): צעיר, \"the young one\", is the Ḥida's name for himself."
+     "note": "A play on \"These are the sons of Se'ir\" (Gen 36:20): צעיר, \"the young one\", is the Ḥida's name for himself, and the adventures in the list that follows are his \"sons\". The closing Aramaic, הא גופא קשיא (\"this itself is difficult\"), is the formula that opens an objection in the Talmud.",
+     "kind": "note"
     }
    }
   },
@@ -28,8 +29,14 @@
    "start": "1:5",
    "head": false,
    "he": "אנא זעירא מאנשי ירושלם ת\"ו אחזתי ביד ימיני חוטרא לידא ואומר עם קנ\"י שיתי שימי שאשית אני סדר אלה מסעי: הערים וחצריהן כמעט שעברתי מהם בקהלות הקדש בשליחות מצוה מעה\"ק חברון ת\"ו לממני יומי ולממני שבועי: ואתיא מביניא מאשר הפליא חסדו לי בעל הרחמים ית' קצת מן הקצת ועזוזו ונפלאותיו את שיש בהן ידיעה ורשומן ניכר כגון דא צריך לאידועי והיו הדברים להודות ולהלל כל תגמולוהי עלי דלא ליתי לאמנועי: קטונתי מכל החסדים ומכל האמת שגמלני כל טוב כרועה עדרו ירעה. הוא ברחמיו ינחני במעגלי צדק למען שמו והשיב את שבותי חיש ונעופה בתוככי ירושלם עה\"ק ת\"ו ושם אני מוצא כל שאר בשר חיים וקימים ונזכה ונחיה לעובדו בלב שלם שקטים ושאננים כגנה זרועי: כי\"ר.",
-   "en": "I, the least of the men of Jerusalem, may it be rebuilt, have taken in my right hand a staff for the hand, and I say with my reed pen: \"shiti\", that is, \"that I set\" [after Rashi on Exod 10:1], the order of these journeys of mine: the cities and their villages, nearly all that I passed through in the holy congregations, on a mission of mitzvah from the holy city of Hebron, may it be rebuilt, by the count of days and the count of weeks. And from among them comes a little of the little of the kindness that the Master of mercies, blessed be He, wondrously showed me, and of His might and His wonders: those of which there is knowledge and whose trace is seen. Such a thing needs to be made known, and these words shall be to thank and praise for all His benefits to me, so that I do not hold back. I am unworthy of all the kindnesses and all the truth [Gen 32:11], for He has bestowed every good on me, as a shepherd pastures his flock [Isa 40:11]. May He in His mercy lead me in paths of righteousness for His name's sake [Ps 23:3], and restore my captivity quickly, and may we fly into the midst of Jerusalem, the holy city, may it be rebuilt; and there may I find all my kin alive and well, and may we merit and live to serve Him with a whole heart, quiet and at ease, like a sown garden. So may it be His will.",
-   "notes": {}
+   "en": "I, the least of the men of Jerusalem, may it be rebuilt, have taken in my right hand a staff for the hand, and I say with my reed pen: \"shiti\", that is, \"that I set\" [after Rashi on Exod 10:1], the order of these journeys of mine: the cities and their villages, nearly all that I passed through in the holy congregations, on a mission of mitzvah from the holy city of Hebron, may it be rebuilt, by the count of days and the count of weeks ⚠1. And from among them comes a little of the little of the kindness that the Master of mercies, blessed be He, wondrously showed me, and of His might and His wonders: those of which there is knowledge and whose trace is seen. Such a thing needs to be made known, and these words shall be to thank and praise for all His benefits to me, so that I do not hold back. I am unworthy of all the kindnesses and all the truth [Gen 32:11], for He has bestowed every good on me, as a shepherd pastures his flock [Isa 40:11]. May He in His mercy lead me in paths of righteousness for His name's sake [Ps 23:3], and restore my captivity quickly, and may we fly into the midst of Jerusalem, the holy city, may it be rebuilt; and there may I find all my kin alive and well, and may we merit and live to serve Him with a whole heart, quiet and at ease, like a sown garden. So may it be His will.",
+   "notes": {
+    "1": {
+     "he": "אלה מסעי ... לממני יומי ולממני שבועי ... במעגלי צדק",
+     "note": "Three phrases give the plan of the book. אלה מסעי recalls the list of Israel's journeys (Num 33:1). \"To count days and to count weeks\" is the rule for the count of the Omer (Menaḥot 66a): the diary counts its days in the same way. במעגלי צדק (Ps 23:3) gives the first word of the title, Ma'agal Tov.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "1:14",
@@ -73,19 +80,24 @@
    "start": "2:1",
    "head": false,
    "he": "שבט 21. אור הששי באישון לילה באנו לכפר צומצום ודרך מבוא הכפר שם נקבצו תלי תלים זבל וטיט עמוק ודרך נס יכולנו לעבור במערה מכוערת שערורית עשתה מאד מלאה גלולים ואנשים בה דמות צורות וכל אחד מהם לא אדם הוא כי נח\"ש ינח\"ש, אינו אלא שרף ועקרב, ואנכי תולעת ואוהבי כצאת השמש באנו לעזה, והאהובים הנז' היו בחברתנו י\"ח יום ואותר רק אני וח' שב\"ח נ\"ע וארכו לנו הימים יותר מחמשים יום ואהוב אחד שבא מעה\"ק ירושלם ת\"ו נסע דרך יפו שמנה ימים לפני נסיעתנו: ואחר שנסע מצאנו שיך סאלים מהצאלאחייה הן לו הובא ורגליו לנחושתים עם פאש\"ה שבא עם הכאזניה מארץ מצרים לשמירת הדרך כי גדול הוא מרישי ברייוני הערביים ונתפשרנו עמו ללכת דרך המדבר דרך סולטאני. וציערת\"י בעצמי על שבת זכור שהיינו פורשים מישוב יאודים וברחמיו ית' רצה להתעכב בעזה שבת זכור.",
-   "en": "21 Shevat [the evening of Thursday 25 January 1753]: on the night of Friday, in the dead of night, we came to the village of Sumsum. At the entrance of the village heaps upon heaps of dung and deep mud had gathered, and only by a miracle could we pass. [We stayed] in an ugly cave, a very horrible thing [Jer 18:13], full of dung, and the people in it had the likeness of figures; not one of them is a man, for he surely practises divination [Gen 44:15]; he is nothing but serpent and scorpion [Deut 8:15], and I am a worm [Ps 22:7]. \"And those who love Him are as the sun going forth\" [Judg 5:31]: at sunrise we came to Gaza. The friends mentioned above were in our company eighteen days, and then only I and the sage Samuel ben Ḥayyim, may he rest in Eden, were left; and the days grew long for us, more than fifty days. One friend who came from the holy city of Jerusalem, may it be rebuilt, traveled by way of Jaffa eight days before we left. After he had gone, we found Sheikh Salim of the Ṣalaḥiyya ⚠1, who had been brought with his feet in fetters ⚠2, with the pasha who came with the treasure caravan ⚠3 from the land of Egypt to guard the road, for he is great among the heads of the Arab brigands. We came to terms with him to go by way of the desert, by the Sultan's road. I was distressed about the Sabbath of Zakhor [17 March 1753], that we would be cut off from any Jewish settlement; but in His mercy, blessed be He, he chose to stay in Gaza over the Sabbath of Zakhor.",
+   "en": "21 Shevat [the evening of Thursday 25 January 1753]: on the night of Friday, in the dead of night, we came to the village of Sumsum. At the entrance of the village heaps upon heaps of dung and deep mud had gathered, and only by a miracle could we pass. [We stayed] in an ugly cave, a very horrible thing [Jer 18:13], full of dung, and the people in it had the likeness of figures; not one of them is a man, for \"he surely practises divination\" [Gen 44:15] ⚠1; he is nothing but serpent and scorpion [Deut 8:15], and I am a worm [Ps 22:7]. \"And those who love Him are as the sun going forth\" [Judg 5:31]: at sunrise we came to Gaza. The friends mentioned above were in our company eighteen days, and then only I and the sage Samuel ben Ḥayyim, may he rest in Eden, were left; and the days grew long for us, more than fifty days. One friend who came from the holy city of Jerusalem, may it be rebuilt, traveled by way of Jaffa eight days before we left. After he had gone, we found Sheikh Salim of al-Ṣāliḥiyya ⚠2, who had been brought with his feet in fetters ⚠3, with the pasha who came with the treasure caravan ⚠4 from the land of Egypt to guard the road, for he is great among the heads of the Arab brigands. We came to terms with him to go by way of the desert, by the Sultan's road. I was distressed about the Sabbath of Zakhor [17 March 1753], that we would be cut off from any Jewish settlement; but in His mercy, blessed be He, he chose to stay in Gaza over the Sabbath of Zakhor.",
    "notes": {
     "1": {
-     "he": "מהצאלאחייה",
-     "note": "Printed with vowels. Ṣalaḥiyya: \"of or relating to Ṣalaḥ [ad-Dīn]\", i.e. Saladinite; apparently the name of the sheikh's tribe or group."
+     "he": "כי נח\"ש ינח\"ש",
+     "note": "Joseph's words (Gen 44:15), marked so that the reader hears נחש, \"snake\": they are not men but snakes. The serpent and scorpion of Deut 8:15 follow, and the Ḥida's own \"worm\" (Ps 22:7) ends the row of creatures.",
+     "kind": "note"
     },
     "2": {
+     "he": "מהצאלאחייה",
+     "note": "Freimann prints the word with vowel points (not shown here). Probably \"from al-Ṣāliḥiyya\", the town on the desert edge of the eastern Nile delta, on the road to Syria, named after the Ayyubid sultan al-Ṣāliḥ Ayyūb: the sheikh came from Egypt with the pasha. It can also be the name of his tribe or group. Not settled."
+    },
+    "3": {
      "he": "הן לו הובא ורגליו לנחושתים",
      "note": "Cf. 2 Sam 3:34. Read as: he had been brought in fetters (as a prisoner of the pasha). Uncertain."
     },
-    "3": {
+    "4": {
      "he": "הכאזניה",
-     "note": "Printed with vowels; the letter after ז is not clear (ג or נ). Read as khazna, the treasure caravan from Egypt."
+     "note": "Freimann prints the word with vowel points (not shown here); the letter after ז is not clear (ג or נ). Read as khazna, the treasure caravan from Egypt."
     }
    }
   },
@@ -93,15 +105,21 @@
    "start": "2:11",
    "head": false,
    "he": "אדר שני 12. אור מוצאי ש\"ק נסענו וביום חנינו במקום הנקרא דיר ובא שיך אחד וציערנו הגם שאו\"ל גאפא\"ר ושיך סאלים הנז\"ל הכהו לפום חורפ\"א עד נזיפה ובין חיתא למחבלתא כמה הצער עלה והי\"ת ברחמיו לא נתננו טרף לשניהם, ונלוו גוים רבים כשבעים נפשות. ויום הפורים גוים אשר בקרבנו אמרו לכו ונלכה ביום ש\"ק והיאודים אגב אונסייהו בלכתם ילכו, ולא נותרה נשמה בי ואני אמרתי לשוא שמרה נפשי ן' יום בעזה צופה ומביט על חלול שבת ונתנפלתי לרגלי שיך סאלים בבכי ותחנונים והי\"ת נתנני לחן וחסד ואור לארבעה הלך עמנו וכל השיירה היינו עזובה היינו שכוחה המיר כבודם בלא יועיל ויום רביעי שושן פורים נשיב זיקא רוח גדולה וחזק והלך בסערות והי\"ת ברחמיו נתן בנו כח והצילנו.",
-   "en": "12 Adar II [the evening of Saturday 17 March 1753]: on the night after the holy Sabbath we set out, and by day we camped at a place called Deir. A sheikh came and harassed us, although we had asked for an escort (ghafar), and Sheikh Salim mentioned above struck him as hard as he could, until he was rebuked. Between the one beast and the other destroyer ⚠1, how much trouble came up! But the blessed Lord in His mercy did not give us as prey to their teeth [Ps 124:6]. Many gentiles joined us, about seventy souls. On the day of Purim the gentiles among us said: come, let us travel on the holy Sabbath day, and the Jews will go when they go, against their will. No breath was left in me [Dan 10:17], and I said: in vain have I guarded [1 Sam 25:21] myself fifty days in Gaza, watching and on guard against desecrating the Sabbath. I threw myself at the feet of Sheikh Salim with weeping and supplication, and the blessed Lord gave me grace and favour; and on the night of Wednesday he went with us. And the whole caravan: we were forsaken, we were forgotten; it exchanged its glory for what does not profit [Jer 2:11] ⚠2. On Wednesday, Shushan Purim [21 March 1753], a wind blew, a great and strong wind [1 Kings 19:11], and it went on in storms; and the blessed Lord in His mercy gave us strength and saved us.",
+   "en": "12 Adar II [the evening of Saturday 17 March 1753]: on the night after the holy Sabbath we set out, and by day we camped at a place called Deir. A sheikh came and harassed us, although we had asked for an escort (ghafar), and Sheikh Salim mentioned above struck him as hard as he could, until he was rebuked. Between the midwife and the woman in labour ⚠1, how much trouble came up! But the blessed Lord in His mercy did not give us as prey to their teeth [Ps 124:6] ⚠2. Many gentiles joined us, about seventy souls. On the day of Purim the gentiles among us said: come, let us travel on the holy Sabbath day, and the Jews will go when they go, against their will. No breath was left in me [Dan 10:17], and I said: in vain have I guarded [1 Sam 25:21] myself fifty days in Gaza, watching and on guard against desecrating the Sabbath. I threw myself at the feet of Sheikh Salim with weeping and supplication, and the blessed Lord gave me grace and favour; and on the night of Wednesday he went with us. As for the whole caravan, \"forsaken\" and \"forgotten\" were the same thing; it exchanged its glory for what does not profit [Jer 2:11] ⚠3. On Wednesday, Shushan Purim [21 March 1753], a wind blew, a great and strong wind [1 Kings 19:11], and it went on in storms; and the blessed Lord in His mercy gave us strength and saved us.",
    "notes": {
     "1": {
      "he": "ובין חיתא למחבלתא",
-     "note": "Aramaic, \"between the beast and the destroyer\": apparently the hostile sheikh on one side and the escort on the other."
+     "note": "The proverb of Genesis Rabbah 60:3: \"between the midwife and the woman in labour, the poor woman's child is lost\". There Jephthah and Phinehas each stand on their dignity, and Jephthah's daughter pays for it; here the travellers suffer while two sheikhs quarrel.",
+     "kind": "note"
     },
     "2": {
+     "he": "טרף לשניהם",
+     "note": "Ps 124:6, \"prey to their teeth\" (le-shinnehem); the same letters also read li-shnehem, \"to the two of them\", the two sheikhs.",
+     "kind": "note"
+    },
+    "3": {
      "he": "וכל השיירה היינו עזובה היינו שכוחה המיר כבודם בלא יועיל",
-     "note": "Sense unclear: perhaps that the caravan, which had wanted to travel on the Sabbath, was left behind or lost its standing."
+     "note": "היינו עזובה היינו שכוחה is the Talmud's question on Isa 49:14 (Berakhot 32b): \"forsaken is the same as forgotten\". היינו is \"that is\", not \"we were\". The sheikh went on with the Ḥida, and the caravan that had wanted to travel on the Sabbath was left behind; what exactly became of the other travellers is not said."
     }
    }
   },
@@ -129,7 +147,7 @@
     },
     "2": {
      "he": "וגם צירה",
-     "note": "So printed; read צידה, \"his provisions\". Uncertain."
+     "note": "The copy used here shows צירה. The review of this chapter (issue 6) reads צידה in Freimann and in the HebrewBooks copy; the two letters are close in this type. The sense is צידה, \"provisions\", in both cases."
     }
    }
   },
@@ -137,9 +155,14 @@
    "start": "2:31",
    "head": false,
    "he": "אדר שני 22. יום ד' עקם הדרך, השיך ראו הביא לנו בתוך כפרי מצרים על נהרותם ועל אגמיהם וכל אילן דמרגג כגן ה' ובדרך הזה בהיותנו אצל שוחה עמוקה השיך הכה הגמל בלי ידיעתי ובתוקף המכה גמלא פרחא ותחתי ארגז ואפול לארץ ומעלה עשן עץ שהיה בידי נשבר והי\"ת הטה אלי חסד כי נפלתי קמתי תכף וארכב על הגמל. וכפשע וכו' ח\"ו.",
-   "en": "22 Adar II, Wednesday [28 March 1753]: the road was crooked; the sheikh saw fit to bring us among the villages of Egypt, by their rivers and their marshes [Exod 8:1], and every tree pleasant to see [Gen 2:9, Targum Onkelos], like the garden of the Lord [Gen 13:10]. On this road, when we were by a deep pit, the sheikh struck the camel without my knowing it, and from the force of the blow the camel flew, and I trembled where I stood [Hab 3:16], and I fell to the ground; and the wooden pipe ⚠1 that was in my hand broke. The blessed Lord extended kindness to me [Gen 39:21], for I fell and got up at once and rode on the camel. And but a step, etc. [1 Sam 20:3], God forbid.",
+   "en": "22 Adar II, Wednesday [28 March 1753]: he took a roundabout road: the sheikh, \"see, he has brought us\" [Gen 39:14], into the midst of the villages of Egypt, by their rivers and their pools [Exod 7:19], and every tree pleasant to see [Gen 2:9, Targum Onkelos], like the garden of the Lord [Gen 13:10]. On this road, when we were by a deep pit, the sheikh struck the camel without my knowing it, and from the force of the blow the camel flew ⚠1, and \"I trembled in my place\" [Hab 3:16], and I fell to the ground; and the wooden pipe ⚠2 that was in my hand broke. The blessed Lord extended kindness to me [Gen 39:21], for I fell and got up at once and rode on the camel. And but a step, etc. [1 Sam 20:3], God forbid.",
    "notes": {
     "1": {
+     "he": "גמלא פרחא ותחתי ארגז",
+     "note": "גמלא פרחא, \"a flying camel\", is the swift camel that the Talmud brings to explain a journey that seems impossible (Makkot 5a); here a blow makes the camel take off. תחתי ארגז is Hab 3:16. Without vowels ארגז is also \"a chest\", so there is perhaps a second joke: the baggage under the rider.",
+     "kind": "note"
+    },
+    "2": {
      "he": "ומעלה עשן עץ",
      "note": "Literally \"a smoke-raiser of wood\"; read as a tobacco pipe."
     }
@@ -175,7 +198,7 @@
    "start": "3:10",
    "head": false,
    "he": "ניסן 1. יום ה' צער כותש היה בי על השבת נוסף על יגוני שבכל הדרך רבת שבעה לה נפשי אנח\"ה עושה וכל דבר קטון למראה עיני באותם הימים כסכנות גדולות וצרות צרורות כי עד הנה לא נסיתי בפרשת דרכים ומדברות ונהרות. וכראות המשרת כי רבים בני שוממה גוים אשר בקרבנו הלכו ביבשה לבולאק רצה ללכת ונתתי לו שני האותות להגביר הר' אברהם מענדיל הי\"ו והאיש משתאה וגדלה דאגתי עליו עד שראיתי קא\"ק ובתוכו הרב יעקב עמיאל שלוח מהגביר הנז' וקבלני בתוכו.",
-   "en": "1 Nisan, Thursday [5 April 1753]: a pounding distress was in me about the Sabbath, added to my grief, for on the whole road my soul was more than sated [Ps 123:4] and sighing; and in those days every small thing seemed in my eyes like great dangers and bound-up troubles, for until then I had not tried crossroads, deserts and rivers. When the servant saw that many of the gentiles among us, \"the sons of the desolate\" [Isa 54:1], went by land to Bulaq, he wanted to go, and I gave him the two letters ⚠1 for the gevir R. Abraham Mendel, may God keep him. And the man stood gazing [Gen 24:21] ⚠2, and my worry for him grew great, until I saw a caïque, and in it Rabbi Jacob Amiel, sent by the gevir mentioned above, and he took me into it.",
+   "en": "1 Nisan, Thursday [5 April 1753]: a pounding distress was in me about the Sabbath, added to my grief, for on the whole road my soul was more than sated [Ps 123:4] and sighing; and in those days every small thing seemed in my eyes like great dangers and bound-up troubles, for until then I had not tried crossroads, deserts and rivers. When the servant saw that many of the gentiles among us, \"the sons of the desolate\" [Isa 54:1], went by land to Bulaq, he wanted to go, and I gave him the two letters ⚠1 for the gevir [a wealthy notable of the community] R. Abraham Mendel, may God keep him. And the man stood gazing [Gen 24:21] ⚠2, and my worry for him grew great, until I saw a caïque, and in it Rabbi Jacob Amiel, sent by the gevir mentioned above, and he took me into it.",
    "notes": {
     "1": {
      "he": "שני האותות",
@@ -191,11 +214,12 @@
    "start": "3:16",
    "head": false,
    "he": "ניסן 2. יום הו' הלכנו למצרים ונתאכסננו אצל החכם השלם השר המ' כמהר\"י מנשה יצ\"ו והפליא חסדיו עמי. ושם ראיתי ק\"ק המצריים ובו צונבאטי וכתוב בק\"ק שנבנה בסוף האלף החמשי ומקוה שם וק\"ק הרמב\"ם ז\"ל ובתוכו חדר קטן סגור, אמרו שהיה מושב הרמב\"ם ז\"ל. ותוך תחום שבת יש עיר אחת וקורין לה מצרים הישנה ושם ס\"ת קדוש ונורא, אומרים שהוא ספר עזרא והבה\"כ אשר שם, אומרים שבנאו ירמיה הנביא ובתיבה אשר שם היום חרבה התפלל עליה ירמיה, ושם בק\"ק ההוא כ\"ו עמודי שיש.",
-   "en": "2 Nisan, Friday [6 April 1753]: we went to Miṣrayim [Cairo] and lodged with the perfect sage, the minister, the honoured, our teacher R. Y. Manasseh, may his Rock keep him, and he did me wonderful kindnesses. There I saw the synagogue of the Egyptians (Musta'rabim), and in it a ṣunbāṭī ⚠1, and it is written in the synagogue that it was built at the end of the fifth millennium. There is a ritual bath there, and the synagogue of the Rambam, of blessed memory, and inside it a small closed room; they said it was the Rambam's seat. Within the Sabbath limit there is a town they call Old Miṣrayim [Old Cairo], and there is a holy and awesome Torah scroll there; they say it is the scroll of Ezra. And the synagogue that is there, they say that Jeremiah the prophet built it, and on the reader's platform that is there, today in ruins, Jeremiah prayed; and in that synagogue there are 26 marble columns.",
+   "en": "2 Nisan, Friday [6 April 1753]: we went to Miṣrayim [Cairo] and lodged with the perfect sage, the minister, the honoured, our teacher R. Y. Manasseh, may his Rock keep him, and he did me wonderful kindnesses. There I saw the synagogue of the Egyptians (Musta'rabim), and in it the Ṣunbāṭī [a Bible codex] ⚠1, and it is written in the synagogue that it was built at the end of the fifth millennium. There is a ritual bath there, and the synagogue of the Rambam, of blessed memory, and inside it a small closed room; they said it was the Rambam's seat. Within the Sabbath limit there is a town they call Old Miṣrayim [Old Cairo], and there is a holy and awesome Torah scroll there; they say it is the scroll of Ezra. And the synagogue that is there, they say that Jeremiah the prophet built it, and on the reader's platform that is there, today in ruins, Jeremiah prayed; and in that synagogue there are 26 marble columns.",
    "notes": {
     "1": {
      "he": "צונבאטי",
-     "note": "Not explained; perhaps a part or fitting of the synagogue."
+     "note": "The Bible codex of the synagogue of the Musta'rab (native Egyptian) Jews, which the chronicler Sambari describes. Freimann's note refers to R. Gottheil, JQR 19 (1907), p. 518, who speaks there (n. 2) of \"the so-called Sunbāṭi Bible Codex\". The Torah scroll that is called Ezra's, later in this entry, is a different book, in Old Cairo.",
+     "kind": "note"
     }
    }
   },
@@ -215,15 +239,16 @@
    "start": "3:25",
    "head": false,
    "he": "אייר 9. ליל מש\"ק נסענו מרישיד וכמו השחר עלה באנו לעיר נא אמון ושם בפתח העיר היו חונים חיל כבד מהפאש\"ה ומהבלבול נשתגעו הפרדות להפילנו ונצטערנו הרבה וברחמי שמים נכנסנו לשלום ונתאכסנו אצל החר\"י פרובינצאל הי\"ו ובאותם הימים שם נמצא הרב החסיד כמהר\"א ן' אשר הי\"ו והרבו להטיב עמנו. ורחוק מעט מהעיר יש בה\"כ נורא מאד ושם כ\"ו עמודי שיש וקורין לה ק\"ק אליהו שמסורת בידם כי שם נגלה.",
-   "en": "9 Iyar [the evening of Saturday 12 May 1753]: on the night after the holy Sabbath we set out from Rosetta, and as dawn rose we came to the city of No-Amon [Alexandria]. There, at the gate of the city, a heavy army of the pasha was encamped, and in the confusion the mules went wild and tried to throw us, and we suffered much. By the mercy of heaven we entered in peace and lodged with the sage R. Y. Provinzal ⚠1, may God keep him. In those days the pious rabbi, our teacher R. A. ben Asher ⚠2, may God keep him, was there, and they did us much good. A little way from the city there is a very awesome synagogue, with 26 marble columns, and they call it the synagogue of Elijah, for they have a tradition that he revealed himself there.",
+   "en": "9 Iyar [the evening of Saturday 12 May 1753]: on the night after the holy Sabbath we set out from Rosetta, and as dawn rose we came to the city of No-Amon [Alexandria]. There, at the gate of the city, a heavy army of the pasha was encamped, and in the confusion the mules went wild and tried to throw us, and we suffered much. By the mercy of heaven we entered in peace and lodged with the sage R. Isaac Provenzali ⚠1, may God keep him. In those days the pious rabbi, our teacher R. A. [probably Abraham] ben Asher ⚠2, may God keep him, was there, and they did us much good. A little way from the city there is a very awesome synagogue, with 26 marble columns, and they call it the synagogue of Elijah, for they have a tradition that he revealed himself there.",
    "notes": {
     "1": {
      "he": "החר\"י פרובינצאל",
-     "note": "Probably Isaac Provinzali; left as an initial."
+     "note": "The print has only the initial י. Freimann's note gives the name without doubt: R. Isaac Provenzali Conorti.",
+     "kind": "note"
     },
     "2": {
      "he": "כמהר\"א ן' אשר",
-     "note": "Perhaps Abraham ben Asher; left as an initial."
+     "note": "The print has only the initial א. Freimann: \"it seems\" that he is R. Abraham ben Asher, who copied the book Sha'arei Kedushah from the writings of R. Ḥayyim Vital."
     }
    }
   },
@@ -231,7 +256,7 @@
    "start": "3:31",
    "head": false,
    "he": "אייר 26. יום ד' נסענו דרך אניה בלב ים בספינה הסווי\"דים ואין די באר מן המצר והני הרפתקי עברו יחדו בלחם ס\"ר ויהי הסער לסגור עלי לבי נד ונבדל הולך וחוזר באדוותא דימא גל\"י עמיקתא עלו זה שמים לרום אף כי נתעב תוחלת ממושכה {f4} מחלת לענות נפש במספר הימים. ויהי בשלשים יום לנסיעתנו מנא אמון רבה חזה הוית הא להמא עניא אתרחי\"ש ליה שם נקבצו משפחת התולע\"י אפי' בחדרי חדרים אסו\"ר לא יוציאנו גברא דשפיר חזי ואני עני וכואב מחוסר ציד\"ה ויר\"ק את חניכי\"ו לולי ה' שהיה לנו הנמצא כזה אצל בחור יאודי אשר עמנו מעט אורז וממנו נקח בדמים יקרים והינו מגלגלין באורז רק אין דבר פת ופרפרת ויאסרו כל פירות בלתי אל האורז עינינו זה לחמנו ערב ובקר וצהרים בין שפתים ולבי\"ן שנים משמש כניסה ויציאה ונפשנו קצה הוה מהדר אסילקא וארוזא ימין מקרבת כי אין בלתו והפה שאס\"ר לא תוכל שאתו אמרי לה בחניכת\"ו קום ואדיש שלא בטובתו ובשל מבושל במים בגזרי עצים היוצאים מן התיבה אחת היתה בהדי דידי והיתה לשרפה. גם הייתי הלילה אחרת שלא במתכוין משנה מקום משכבי ויהי בחצי הלילה העירני רב החובל ואשא עיני ואראה כל החדר הפוך כמו רגע ובמקום משכבי שם נפלו שידה תיבה ומגדל ויהי לנס. גם רב החובל יחרף צר מסיח לפי טומא\"ו על התורה ועל העבודה הוא דאמר הא דדש בעכבי\"ו עלי דידן. התהלה והתפארת לחי העולמים כי גבר עלינו חסדו ורוב הימים היינו בנחת וחנינ\"ה בסע\"ר.",
-   "en": "26 Iyar, Wednesday [30 May 1753]: we set out by ship into the heart of the sea, on the ship of the Swedes. There are no words enough to explain the straits [Ps 118:5], and these adventures passed all together, with bread of adversity [Isa 30:20] ⚠1. The storm closed in on me; my heart wandered and was cut off ⚠2, going back and forth in the waves of the sea, the deep billows; they mount up to the heavens [Ps 107:26]. And more: hope deferred makes the heart sick [Prov 13:12], to afflict the soul by the number of days. On the thirtieth day of our journey from great No-Amon, I beheld [Dan 7:2] \"this is the bread of affliction\" ⚠3: what befell it! A family of worms had gathered there, even in the innermost rooms: forbidden; a man who sees well would not take it out ⚠4. And I was poor and in pain [Ps 69:30], lacking provisions, and \"he led forth his trained men\" [Gen 14:14] ⚠5. Were it not for the Lord, who was for us [Ps 124:1]: \"can we find such a one\" [Gen 41:38]? A young Jew who was with us had a little rice, and we bought from him at dear prices, and we got by on rice. Only there was no bread or dessert, and all fruits were forbidden; there was nothing at all except the rice before our eyes [Num 11:6]. That was our bread evening, morning and noon, between the lips and the whiteness of the teeth, serving entry and exit, and our soul loathed it. Someone who used to be particular about beets and rice [Pesaḥim 114b] drew it near with the right hand, for there was nothing else, and the mouth that had forbidden it could not bear it. We said to it, by its nickname [Megillah 28a]: \"Get up and thresh\" ⚠6, against its will. It was cooked in water with pieces of wood that came from a chest I had with me, and it became fuel. Also, another night, without meaning to, I changed the place of my bed; at midnight the captain woke me, and I lifted my eyes and saw the whole room overturned in a moment, and in the place of my bed a litter, a chest and a cupboard had fallen; and it was a miracle. Also the captain, an enemy, blasphemed, talking with his unclean mouth against the Torah and against the worship; he is the one of whom it is said, \"one who tramples with his heels\" on what is ours ⚠7. The praise and the glory to Him who lives for ever, for His kindness prevailed over us [Ps 117:2], and most of the days we were at ease, and He was gracious to us in the storm ⚠8.",
+   "en": "26 Iyar, Wednesday [30 May 1753]: we set out by ship into the heart of the sea, on the ship of the Swedes. There are no words enough to explain the straits [Ps 118:5], and these adventures passed all together, with bread of adversity [Isa 30:20] ⚠1. The storm closed in on me; my heart wandered and was cut off ⚠2, going back and forth in the waves of the sea, the deep billows; they mount up to the heavens [Ps 107:26]. And more: hope deferred makes the heart sick [Prov 13:12], to afflict the soul by the number of days. On the thirtieth day of our journey from great No-Amon, I beheld [Dan 7:2] \"this is the bread of affliction\" ⚠3: what befell it! A family of worms had gathered there, \"even in the innermost rooms it is forbidden\"; a man with eyes to see would not take it out ⚠4. And I was poor and in pain [Ps 69:30], lacking provisions, and \"he led forth his trained men\" [Gen 14:14] ⚠5. Were it not for the Lord, who was for us [Ps 124:1]: \"can we find such a one\" [Gen 41:38]? A young Jew who was with us had a little rice, and we bought from him at dear prices, and we got by on rice. Only there was no bread or dessert, and all fruits were forbidden; there was nothing at all except the rice before our eyes [Num 11:6]. That was our bread evening, morning and noon, between the lips and the whiteness of the teeth, serving entry and exit, and our soul loathed it. Someone who used to be particular about beets and rice [Pesaḥim 114b] drew it near with the right hand, for there was nothing else, and the mouth that had forbidden it could not bear it. We said to it, by its nickname [Megillah 28a]: \"Get up and thresh\" ⚠6, against its will. It was cooked in water with pieces of wood that came from a chest I had with me, and it became fuel. Also, another night, without meaning to, I changed the place of my bed; at midnight the captain woke me, and I lifted my eyes and saw the whole room overturned in a moment, and in the place of my bed a litter, a chest and a cupboard had fallen; and it was a miracle. Also the captain, an enemy, blasphemed, talking in his impurity ⚠7 against the Torah and against the worship; he is the one of whom it is said, \"one who tramples with his heels\" on what is ours ⚠8. The praise and the glory to Him who lives for ever, for His kindness prevailed over us [Ps 117:2], and most of the days we were \"at ease, and Ḥanina in the storm\" ⚠9.",
    "notes": {
     "1": {
      "he": "בלחם ס\"ר",
@@ -246,8 +271,8 @@
      "note": "Punctuate after מנא אמון רבה, \"great No-Amon\" (Alexandria). חזה הוית is the \"I beheld\" of the visions in Daniel 7, followed by the Haggadah's הא לחמא עניא. The \"family\" of worms plays on the clan of Tola (Num 26:23)."
     },
     "4": {
-     "he": "אסו\"ר לא יוציאנו גברא דשפיר חזי",
-     "note": "Read as: the wormy bread was forbidden, and a man who looks properly would not take it out. Uncertain."
+     "he": "אפי' בחדרי חדרים אסו\"ר לא יוציאנו גברא דשפיר חזי",
+     "note": "אפילו בחדרי חדרים אסור is the rabbinic rule for a thing that is forbidden even in full privacy (Shabbat 64b): here the worms are deep inside the loaf. גברא דשפיר חזי, \"the man who sees well\", is the Targum's wording for Balaam's name for himself (Onkelos on Num 24:3, 15): the seer examines wormy bread. How לא יוציאנו joins the sentence is uncertain."
     },
     "5": {
      "he": "ויר\"ק את חניכי\"ו",
@@ -258,12 +283,18 @@
      "note": "Wordplay on Megillah 28a (by its nickname) and on a saying in Yerushalmi Pe'ah 1:1; the rice (or the hungry eater) is told to get on with it. Uncertain."
     },
     "7": {
+     "he": "מסיח לפי טומא\"ו",
+     "note": "A twist of מסיח לפי תומו, the legal term for a man who speaks innocently, with no purpose (Yevamot 121b): תומו, \"his innocence\", becomes טומאו, \"his impurity\".",
+     "kind": "note"
+    },
+    "8": {
      "he": "הא דדש בעכבי\"ו עלי דידן",
      "note": "Cf. Avodah Zarah 18a (\"commandments that a man tramples with his heels\"); the captain mocked the Jewish observances. Uncertain."
     },
-    "8": {
+    "9": {
      "he": "וחנינ\"ה בסע\"ר",
-     "note": "Both words marked as abbreviations or wordplay; read as \"He was gracious to us in the storm\"."
+     "note": "After Ta'anit 24b, where Ḥanina ben Dosa, caught in the rain, says: \"all the world is at ease, and Ḥanina is in distress (be-tza'ar)\". The Ḥida changes be-tza'ar to be-sa'ar, \"in a storm\". The marked חנינ\"ה can also be heard as \"grace\": He was gracious to us in the storm.",
+     "kind": "note"
     }
    }
   },
@@ -277,8 +308,8 @@
   {
    "start": "4:16",
    "head": false,
-   "he": "תמוז 25. יום הו' ירדנו ללאזאריטו בהעלות המנחה ותיכף לסמיכא חדא כרעא אארעא והנה שלשה סלי מלאים כל טוב הארץ מהעוף למינהו וכמה תכשילין וכמה וכמה ככרות וכמה קנקני יינות ופירות לרוב. האחד מהחר\"א קאניטי הי\"ו והשני מפקידי א\"י והג' מהגביר סי' שמואל טדיסקו הי\"ו.",
-   "en": "25 Tammuz, Friday [27 July 1753]: we went down to the lazaretto at the time of the afternoon offering, and at once, as soon as one foot touched the ground, behold, three baskets full of all the good of the land: fowl of every kind, many dishes, many, many loaves, many jugs of wine and fruit in plenty. One was from the sage R. A. Caniti ⚠1, may God keep him, the second from the officials of the Land of Israel, and the third from the gevir Signor Samuel Tedesco, may God keep him.",
+   "he": "תמוז 25. יום הו' ירדנו ללאזאריטו בהעלות המנחה ותיכף לסמיכא חדא כרעא אארעא והנה שלשה סלי מלאים כל טוב הארץ מהעוף למינהו וכמה תבשילין וכמה וכמה ככרות וכמה קנקני יינות ופירות לרוב. האחד מהחר\"א קאניטי הי\"ו והשני מפקידי א\"י והג' מהגביר סי' שמואל טדיסקו הי\"ו.",
+   "en": "25 Tammuz, Friday [27 July 1753]: we went down to the lazaretto [the quarantine station] at the time of the afternoon offering, and at once, as soon as one foot touched the ground, behold, three baskets full of all the good of the land: fowl of every kind, many dishes, many, many loaves, many jugs of wine and fruit in plenty. One was from the sage R. A. Caniti ⚠1, may God keep him, the second from the officials for the Land of Israel [the local agents for its collections], and the third from the gevir Signor Samuel Tedesco, may God keep him.",
    "notes": {
     "1": {
      "he": "מהחר\"א קאניטי",
@@ -290,7 +321,7 @@
    "start": "4:20",
    "head": false,
    "he": "אלול ר\"ח יום הו' נכנסו לליוורנו יע\"א ויתנני ה' לחן וחסד. אך בחלקות סדרן של כתבים נתתי כתב פקידי א\"י ואחד מהם כאשר לא ידע לקרותה ארש נתנה ביד אחד חכם ונמצא כתוב דברים קשים נגד הפקידים הישנים על שליחות ההרי\"ך הי\"ו והם משועי הארץ ואין בהם חטא כלל וכלפי לייא הטו חסדם בענין זה בכל כחם והי\"ת נתנני לחן בעיני הגביר הח' המ' איש חסד סי' מיכאל פירירא די ליאון נר\"ו והשתדל מאד לכפות פסקתה ולא נודע הדבר. כי ח\"ו אלמלא מקרא כתוב ישראל לא ידע היה נזק גדול לשליחות והוקבע הדבר חוב\"ה לדור דורים. והג' סי' מיכאל הנז' עם הג' סי שלמה עגיב הי\"ו הפליאו לעשות לעזר ולהועיל בענין השליחות. וכפתע פתאום נאספו אנשי המעמד ואהוב אחד שהיתי סומך עליו חש בעינו ולא יכול לבא וצר לי כי הוא מראשי הק\"ק. ואחר צאתנו מהמעמד לשלום אמרתי בלבי בקור\"ת תהיה להגביר הזה על הודע כי נגמר הדבר לטובה. והנה הוא מתאנה ההוא אמר כי המעמד לא עשו כהוגן לתת סך הרבה כזה והנה ברכתי ברך לצור מנת חלקי הנה נא עצור עצר אותו לחפש\"י ישלחנו תחת עינו. ובעיר ליוורנו נשתטחתי על מצבת מהר\"ח כהן ז\"ל בעל טור ברקת וכו'.",
-   "en": "1 Elul, Friday [31 August 1753]: we entered Livorno, may God protect it, and the Lord gave me grace and favour. But in handing out the series of letters, I gave the letter of the officials of the Land of Israel, and one of them, as he did not know how to read it ⚠1, gave it into the hand of a scholar; and in it were found written harsh words against the old officials about the mission of R. Y. K. ⚠2, may God keep him. They are the nobles of the land and have no fault at all; on the contrary, they had given their kindness in this matter with all their strength. But the blessed Lord gave me grace in the eyes of the gevir, the sage, the honoured, a man of kindness, Signor Michael Pereira de Leon, may his lamp shine, and he took great pains to cover up the matter [literally: to turn the bowl over], and it did not become known. For, God forbid, if not for the verse that is written, \"Israel does not know\" [Isa 1:3] ⚠3, there would have been great damage to the mission, and the matter would have been fixed as a debt for all generations. The said gevir Signor Michael, with the gevir Signor Solomon Aghib, may God keep him, did wonders to help and benefit in the matter of the mission. Suddenly the members of the council (ma'amad) were gathered. One friend on whom I relied had a pain in his eye and could not come, and I was sorry, for he is one of the heads of the holy congregation. After we came out of the council in peace, I said in my heart: there shall be a visit [Lev 19:20] ⚠4 to this gevir, to tell him that the matter had ended well. But behold, he was seeking a quarrel [2 Kings 5:7]: he said that the council had not done properly to give so large a sum. And then I blessed: blessed be the Rock, my portion; behold, He kept him away: \"he shall let him go free on account of his eye\" [Exod 21:26] ⚠5. In the city of Livorno I prostrated myself on the tombstone of our teacher R. Ḥayyim ha-Kohen, of blessed memory, the author of Tur Bareket, etc.",
+   "en": "1 Elul, Friday [31 August 1753]: we entered Livorno, may God protect it, and the Lord gave me grace and favour. But in handing out the series of letters, I gave the letter of the officials of the Land of Israel, and one of them, as he did not know how to read it ⚠1, gave it into the hand of a scholar; and in it were found written harsh words against the old officials about the mission of R. Y. K. ⚠2, may God keep him. They are the nobles of the land and have no fault at all; on the contrary, they had given their kindness in this matter with all their strength. But the blessed Lord gave me grace in the eyes of the gevir, the sage, the honoured, a man of kindness, Signor Michael Pereira de Leon, may his lamp shine, and he took great pains to cover up the matter [literally: to turn the bowl over] ⚠3, and it did not become known. For, God forbid, if not for the verse that is written, \"Israel does not know\" [Isa 1:3] ⚠4, there would have been great damage to the mission, and the matter would have been fixed as a debt for all generations. The said gevir Signor Michael, with the gevir Signor Solomon Aghib, may God keep him, did wonders to help and benefit in the matter of the mission. Suddenly the members of the council (ma'amad) were gathered. One friend on whom I relied had a pain in his eye and could not come, and I was sorry, for he is one of the heads of the holy congregation. After we came out of the council in peace, I said in my heart: there shall be a visit [Lev 19:20] ⚠5 to this gevir, to tell him that the matter had ended well. But behold, he was seeking a quarrel [2 Kings 5:7]: he said that the council had not done properly to give so large a sum. And then I blessed: blessed be the Rock, my portion; behold, He kept him away: \"he shall let him go free on account of his eye\" [Exod 21:26] ⚠6. In the city of Livorno I prostrated myself on the tombstone of our teacher R. Ḥayyim ha-Kohen, of blessed memory, the author of Tur Bareket, etc.",
    "notes": {
     "1": {
      "he": "ארש",
@@ -301,14 +332,18 @@
      "note": "Unresolved initials of an earlier emissary; left as initials."
     },
     "3": {
+     "he": "לכפות פסקתה",
+     "note": "Perhaps after the Temple vessel that was turned over hot coals or over a dead creeping thing to cover it (Mishnah Tamid 5:5; spelled פסכתר there): to turn the bowl over a thing is to hide it. A suggestion only; the spelling is as printed."
+    },
+    "4": {
      "he": "אלמלא מקרא כתוב ישראל לא ידע",
      "note": "Isa 1:3, used to say: had the community not stayed ignorant of the letter. Uncertain."
     },
-    "4": {
+    "5": {
      "he": "בקור\"ת תהיה",
      "note": "Lev 19:20, marked as a play on בקור, \"a visit\"."
     },
-    "5": {
+    "6": {
      "he": "לחפש\"י ישלחנו תחת עינו",
      "note": "Exod 21:26, as a pun: the man's eye trouble had kept him from the council, so the matter was settled without him."
     }
@@ -325,15 +360,11 @@
    "start": "5:2",
    "head": false,
    "he": "תשרי 25. פ' בראשית יום ה' נסענו מליוורנו וליוונו הרב מהר\"ח בונדי והח\"ר אליאו הכהן והחר' דוד רקח ה\"י ובאנו לפיזה בו ביום וחנינו באושפיזת סופינו.",
-   "en": "25 Tishrei, the week of Bereshit [Tuesday 23 October 1753] ⚠1: we set out from Livorno, and the rabbi, our teacher R. Ḥ. Bondi ⚠2, the sage R. Eliahu ha-Kohen and the sage R. David Rakaḥ, may God keep them, escorted us; we came to Pisa that same day and lodged at the inn of Supino.",
+   "en": "25 Tishrei, the week of Bereshit, Thursday ⚠1 [the calendar gives Tuesday 23 October 1753]: we set out from Livorno, and the rabbi, our teacher R. Ḥananiah Mazal Tov Bondi, the sage R. Eliahu ha-Kohen and the sage R. David Rakaḥ, may God keep them, escorted us; we came to Pisa that same day and lodged at the inn of Supino.",
    "notes": {
     "1": {
      "he": "יום ה'",
      "note": "Printed \"Thursday\", but 25 Tishrei 5514 was a Tuesday; the next entry has 27 Tishrei as Thursday."
-    },
-    "2": {
-     "he": "מהר\"ח בונדי",
-     "note": "Probably Ḥananiah Mazal Tov Bondi; left as an initial."
     }
    }
   },
@@ -349,7 +380,7 @@
     },
     "2": {
      "he": "כי חיו\"ת הנה",
-     "note": "Exod 1:19, said of the Hebrew midwives. The word ḥayot is read there as \"lively\", as \"midwives\" (Rashi, after the Aramaic ḥayta) and as \"beasts\" (Sotah 11b). Here it is marked as a pun, and it can mean either that he saw the animals alive, in the Duke's menagerie, or simply that they are wild beasts. Cf. \"as if, God forbid, a wild beast (ḥayah ra'ah) had come\" a few entries later."
+     "note": "Exod 1:19: what the midwives say to Pharaoh about the Hebrew women. The word ḥayot is read there as \"lively\", as \"midwives\" (Rashi, after the Aramaic ḥayta) and as \"beasts\" (Sotah 11b). Here it is marked as a pun, and it can mean either that he saw the animals alive, in the Duke's menagerie, or simply that they are wild beasts. Cf. \"as if, God forbid, a wild beast (ḥayah ra'ah) had come\" a few entries later."
     }
    }
   },

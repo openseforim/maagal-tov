@@ -39,6 +39,8 @@ main { padding-top: 14px; padding-bottom: 40px; }
 .ref { color: var(--muted); font-size: .82em; font-style: normal; }
 .warn { font: .7rem system-ui, sans-serif; color: var(--accent); text-decoration: none;
   vertical-align: super; margin-left: 3px; }
+.warn.expl { color: var(--muted); }
+.row.cont .ln { opacity: .75; }
 .notes { padding-left: 1.1em; }
 .notes li { margin: .5em 0; }
 .he-inline { font-size: 1.1rem; }
