@@ -40,7 +40,7 @@
    "start": "16:16",
    "head": false,
    "he": "תמוז 6. יום ד' לקחתי קאליס\"ו מכיסי ללכת אצל הרב הנז' זה שמו מהר\"ר העשיל והוא שוכב בדמשק ערש וסיפר שהיה מכיר לכל שלוחי חברון ומכיר חתימתם וסוף דבר אמר שלא הכיר שום חתימה. וחתימת מהרח\"ך שהיה מכיר ר' דוד באנשבך אין זה כלום כי הוא ממערר\"ין וכלם לאו בני דעה נינהו לא אמון בם והפצרתי בו עד בוש והיה דוחה אותי בדברים וחזרתי לאנשבך וכראות בני העיר שהרב שלהם נתן כתף סוררת לא נתנו פ\"ק וגם אני פני לא היו לי ארד הב\"ל שאול\"ה.",
-   "en": "6 Tammuz, Wednesday [26 June 1754]: I hired a calesse from my own pocket to go to the rabbi mentioned above, whose name is our teacher R. Heschel ⚠1. He was lying on a couch [Amos 3:12], and he told me that he used to know all the emissaries of Hebron and knew their signatures; but in the end he said that he recognized none of the signatures. As for the signature of MHRḤ\"K ⚠2, which R. David in Ansbach recognized, that is nothing, for he is one of the westerners ⚠3, and they are all men without understanding; there is no faith in them [Deut 32:20]. I pressed him for a long time [2 Kings 2:17], and he put me off with words. I went back to Ansbach, and when the people of the city saw that their rabbi had turned a stubborn shoulder [Neh 9:29], they gave not even a penny. And I had no face left: I shall go down to Sheol for nothing ⚠4 [Gen 37:35].",
+   "en": "6 Tammuz, Wednesday [26 June 1754]: I hired a calesse from my own pocket to go to the rabbi mentioned above, whose name is our teacher R. Heschel ⚠1. He was lying on a couch [Amos 3:12], and he told me that he used to know all the emissaries of Hebron and knew their signatures; but in the end he said that he recognized none of the signatures. As for the signature of MHRḤ\"K ⚠2, which R. David in Ansbach recognized, that is nothing, for he is from Moravia ⚠3, and they are all men without understanding; there is no faith in them [Deut 32:20]. I pressed him for a long time [2 Kings 2:17], and he put me off with words. I went back to Ansbach, and when the people of the city saw that their rabbi had turned a stubborn shoulder [Neh 9:29], they gave not even a penny. And I had no face left: I shall go down to Sheol for nothing ⚠4 [Gen 37:35].",
    "notes": {
     "1": {
      "he": "מהר\"ר העשיל",
@@ -53,7 +53,8 @@
     },
     "3": {
      "he": "ממערר\"ין",
-     "note": "So printed. Probably for ממערבין, \"of the westerners\", i.e. a Sephardi or Maghrebi rabbi."
+     "note": "מעררין is Mähren, Moravia: R. Heschel sets aside R. David of Ansbach, who recognized the signature, as a Moravian. The marks may also point to a play on מערערין, \"those who contest\".",
+     "kind": "note"
     },
     "4": {
      "he": "ארד הב\"ל שאול\"ה",
