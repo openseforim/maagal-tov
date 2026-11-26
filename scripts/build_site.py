@@ -15,6 +15,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 from paragraphs import FRONT, PAGE, paragraphs  # noqa: E402
+import build_full  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).resolve().parents[1]
@@ -187,6 +188,9 @@ def scan_bar(scans):
             f'<label class="scantoggle"><input type="checkbox" class="os-scan-toggle"> Show the scan beside the text</label></p>')
 
 
+BACK = {}  # (1885 part, paragraph as str) -> [(href, label)] in the full diary, filled by main()
+
+
 def part_page(num, he_paras, start_no, para_pages):
     title, subtitle, scans = PARTS[num]
     en = read_blocks(ROOT / "data" / "en" / f"part-{num:02d}.en.txt")
@@ -210,8 +214,10 @@ def part_page(num, he_paras, start_no, para_pages):
         nli = [scan_name(pg) for pg in para_pages[i] if pg in NLI_PAGES][:1]
         lab = f'paragraph {shown_no}, ' + ", ".join(
             ([f'scan {vs[0]}' if len(vs) == 1 else f'scans {vs[0]}–{vs[-1]}'] if vs else []) + nli)
+        bk = BACK.get((num, shown_no), [])
+        bk = (' <span class="x1885">Full diary: ' + ", ".join(f'<a href="{h}">{l}</a>' for h, l in bk) + '</span>') if bk else ""
         rows.append(f'<div class="row{" head" if head else ""}" id="{anchor}" data-scans="{sc}" data-label="{lab}"><a class="ln" href="#{anchor}">{shown_no}</a>'
-                    f'<p class="en">{fmt_en(x)}</p>'
+                    f'<p class="en">{fmt_en(x)}{bk}</p>'
                     f'<p class="he" lang="he" dir="rtl">{fmt_he(h)}</p></div>')
     marks = set(re.findall(r"⚠(\d+)", " ".join(en)))
     missing = marks - set(notes)
@@ -258,7 +264,7 @@ abbreviations are left as printed.</p>
     return len(he_paras)
 
 
-def index_page(counts, complete):
+def index_page(counts, complete, full_rows=()):
     rows = "\n".join(
         f'<tr class="done"><td><a href="part-{k:02d}.html">{k if k else "–"}</a></td><td><a href="part-{k:02d}.html">{e(PARTS[k][0])}</a>: {e(PARTS[k][1])}</td>'
         f'<td><a href="{ia(scan_list(PARTS[k][2])[0])}" rel="noopener">{shown(PARTS[k][2])}</a></td><td>{counts[k]} paragraphs</td></tr>' for k in sorted(PARTS))
@@ -271,7 +277,8 @@ Land of Israel, in the 1750s and the 1770s, through Egypt, Italy, Germany, Holla
 he saw, and his own grief and melancholy. It was not printed in his lifetime.</p>
 </header>
 <article>
-<h2>Parts</h2>
+{full_section(full_rows)}
+<h2>{"The 1885 printing" if full_rows else "Parts"}</h2>
 <div class="tablewrap">
 <table>
 <tr><th>Part</th><th>Contents</th><th>Scans</th><th>Status</th></tr>
@@ -301,7 +308,10 @@ scans.</li>
 <li><b>OCR:</b> Kraken with the PP-OCRv6 model, line by line, then checked against the scan by eye. Spelling, abbreviations and
 punctuation are as printed.</li>
 <li><b>Complete text:</b> A. Freimann's edition, <i>Ma'agal Tov ha-Shalem</i> (Mekize Nirdamim, Berlin 1921 and Jerusalem 1934),
-holds both journeys. Its only scan found online (HebrewBooks) is too poor for OCR at present.</li>
+holds both journeys; it is the text of <a href="full-01.html">the full diary</a> above. Its pages 1–180 (the diary) were read by
+OCR from the copy at the National Library of Israel (shelfmark S 32 V 929), checked against the scan line by line and translated
+paragraph by paragraph. Freimann's notes and introduction are not reproduced. In that copy the lower corner of the leaf with pages
+119–120 is torn away; the lost words are marked [...]. The autograph (Jewish Theological Seminary, MS 5388–5389) was not consulted.</li>
 </ul>
 
 <h2>Method</h2>
@@ -325,16 +335,36 @@ holds both journeys. Its only scan found online (HebrewBooks) is too poor for OC
     print("wrote docs/index.html")
 
 
+def full_section(full_rows):
+    """The index rows of the full diary (Freimann's edition), or nothing while none is translated."""
+    if not full_rows:
+        return ""
+    rows = "\n".join(
+        f'<tr class="done"><td><a href="{f}">{n}</a></td><td><a href="{f}">{e(pt["title"])}</a>: {e(pt["subtitle"])}</td>'
+        f'<td>{a}–{b}</td><td>{k} paragraphs</td></tr>' for n, f, pt, a, b, k in full_rows)
+    return f"""<h2>The full diary</h2>
+<p>Both journeys, 1753–58 and 1772–78, from A. Freimann's edition, <i>Ma'agal Tov ha-Shalem</i> (Berlin 1921, Jerusalem 1934),
+in its order. The 1885 printing below has only parts of the second journey, rearranged by its editors; rows of the full diary
+link to the matching 1885 paragraph and back.</p>
+<div class="tablewrap">
+<table>
+<tr><th>Part</th><th>Contents</th><th>Freimann pp.</th><th>Status</th></tr>
+{rows}
+</table>
+</div>
+<a class="cta" href="full-01.html">Read the full diary from the start →</a>"""
+
+
 def work_json():
     w = {
         "schema": 1, "slug": "maagal-tov", "order": 30, "kind": "translation",
         "title": "Ḥida, *Ma'agal Tov*", "short_title": "*Ma'agal Tov*", "title_he": "מעגל טוב",
         "author": "Ḥayyim Yosef David Azulai (1724–1806)",
-        "status_label": "Complete · the 1885 printing, 12 parts",
-        "start": "part-01.html", "start_label": "Part 1, Tunis, Livorno and Pisa",
+        "status_label": "Complete · both journeys (Freimann) and the 1885 printing",
+        "start": "full-01.html", "start_label": "The full diary, from Jerusalem to the Alps",
         "summary": "The Ḥida's travel diary as an emissary of the Land of Israel, with an English translation paragraph by paragraph.",
-        "base_edition": {"label": "Przemyśl 1885 printing (the second journey only)", "scan_url": "https://archive.org/details/maagaltob00azul"},
-        "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scan.",
+        "base_edition": {"label": "A. Freimann, Ma'agal Tov ha-Shalem (Berlin–Jerusalem 1921–34), and the Przemyśl 1885 printing", "scan_url": "https://www.nli.org.il/he/books/NNL_ALEPH990011568950205171/NLI"},
+        "method": "Paragraph-aligned Hebrew and English; Hebrew from Kraken OCR checked against the scans of both editions.",
         "cite": "Ḥayyim Yosef David Azulai, *Ma'agal Tov*, Hebrew text with English translation, ed. Ezra Brand. Open Seforim",
         "url": "https://openseforim.org/maagal-tov/",
         "repo": "https://github.com/openseforim/maagal-tov",
@@ -367,11 +397,12 @@ def background_page():
     print("wrote docs/background.html")
 
 
-def names_page(anchors):
+def names_page(anchors, full_blocks=None):
     """docs/names.html: index of people, places and books (scripts/names_index.py, data/index/entities.json).
     anchors: {(part, paragraph block): (href, label)}."""
     import names_index as ni
     parts = {k: read_blocks(ROOT / "data" / "en" / f"part-{k:02d}.en.txt") for k in sorted(PARTS)}
+    parts.update(full_blocks or {})
     ents = ni.load()
     hits = ni.find(ents, parts)
     body = ni.page(ents, hits, lambda p, b: anchors[(p, b)])
@@ -403,6 +434,8 @@ educated guess that the note on that passage explains; such guesses are marked "
 
 def main():
     DOCS.mkdir(exist_ok=True)
+    full_rows, full_anchors, back, full_blocks = build_full.build(HEAD, roman)
+    BACK.update(back)
     he = paragraphs()
     # scan pages of each paragraph: the page it starts on, then any page that begins inside it
     pages, cur = [], None
@@ -434,9 +467,10 @@ def main():
         pos += k
     if pos != len(he):
         print(f"note: {len(he) - pos} Hebrew paragraphs are not in any part yet")
-    index_page(counts, pos == len(he))
+    index_page(counts, pos == len(he), full_rows)
     background_page()
-    names_page(anchors)
+    anchors.update(full_anchors)
+    names_page(anchors, full_blocks)
     work_json()
 
 

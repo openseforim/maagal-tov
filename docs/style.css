@@ -111,3 +111,5 @@ ul.idx .desc { color: var(--muted); font-size: .92em; }
 ul.idx .hits { font: .85rem system-ui, sans-serif; margin-top: 2px; }
 ul.idx .ip { white-space: nowrap; }
 h2 .cnt { color: var(--muted); font-weight: 400; font-size: .8em; }
+.x1885 { display: block; margin-top: .25em; font: .76rem/1.4 system-ui, sans-serif; color: var(--muted); }
+.x1885 a { text-decoration: none; }

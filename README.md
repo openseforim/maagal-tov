@@ -10,6 +10,13 @@ scripts that build the reader.
 
 ## Status
 
+**The full diary (Freimann), 26-Nov-2026: complete.** Both journeys, A. Freimann's pp. 1–180, in 17 parts
+(`docs/full-NN.html`), 907 paragraphs, Hebrew proofread against the NLI scan line by line and translated paragraph by
+paragraph. Each row links to the matching 1885 paragraph and back (123 paragraphs of the 1885 printing are found in
+Freimann). Decisions on base text, layout, copyright and numbering: [issue 2](https://github.com/openseforim/maagal-tov/issues/2).
+
+The 1885 printing:
+
 | Part | Scans | Status |
 |---|---|---|
 | 1. Tunis, Livorno and Pisa | 7–11 | 24-Nov-2026. Hebrew checked against the scan line by line; 11 paragraphs translated; 9 uncertain renderings. Allusions not verified against a concordance. |
@@ -46,8 +53,13 @@ leaves out the first image file, so scan N is image file N+1; the data files kee
   *Sefer ha-Zikkaron*, stories). Scan: [archive.org maagaltob00azul](https://archive.org/details/maagaltob00azul)
   (University of Illinois, 650 ppi); see "Order of the leaves" above.
 - **Complete text:** A. Freimann's edition, *Ma'agal Tov ha-Shalem* (Mekize Nirdamim, Berlin 1921 and Jerusalem
-  1934), holds both journeys. Its only scan found online ([HebrewBooks 21838](https://www.hebrewbooks.org/21838),
-  1-bit, about 300 dpi) gave 26% wrong words with the OCR used here, so it is not used yet.
+  1934), holds both journeys; it is the text of the full diary. Scan: the National Library of Israel copy, shelfmark
+  S 32 V 929 ([NLI](https://www.nli.org.il/he/books/NNL_ALEPH990011568950205171/NLI)); OCR by Kraken with baseline
+  segmentation (`../openseforim-scans/kaggle`). Only the Ḥida's text is used: Freimann's notes and introduction are
+  not reproduced, and no page images of his edition are published (the 1934 fascicle may be protected in the US to the
+  end of 2029). In this copy the lower corner of the leaf with pp. 119–120 is torn away; the lost words are marked
+  [...]. The HebrewBooks scan ([21838](https://www.hebrewbooks.org/21838)) is too poor for OCR (26% wrong words).
+  The autograph (JTS MS 5388–5389) was not consulted.
 - **Translations that exist:** English by B. Cymerman (1997) and French (1997), both in copyright. Three Hebrew editions
   of 2022 (Raviv; Mekhon ha-Maor; Mandelbaum) are in copyright and are not used.
 
@@ -75,6 +87,9 @@ leaves out the first image file, so scan N is image file N+1; the data files kee
 | `docs/scans/sNNNN.jpg`, `docs/app.js`, `scripts/make_scans.py` | Page images for the "Show the scan beside the text" panel (greyscale, 900 px; made from the archive.org jp2 set), and the panel script. `build_site.py` stops if a paragraph's page image is missing. |
 | `scripts/split_*.py`, `ocr_*.py`, `eval_gt.py` | OCR tools; `data/gt/` a hand transcription of one Freimann page used to score OCR |
 | `NOTES.md` | OCR tests and findings |
+| `data/fr/uNN.json` | The full diary, one file per unit of five Freimann pages: paragraphs with `start` (page:line), proofread Hebrew (`{f107}` = page 107 begins), English and notes |
+| `data/fr/parts.json`, `data/fr/map_1885.json` | The part division of the full diary; the Freimann range of each 1885 paragraph (from the collation) |
+| `scripts/fr_units.py`, `fr_check.py`, `build_full.py` | Unit inputs (to `data/fr/work/`, not committed; the agents' brief is `data/fr/BRIEF.md`); checks against the OCR; the full-diary pages |
 | `scripts/bands.py` | Horizontal bands of a page at 1800 px, for checking the OCR by eye |
 | `scripts/hebdate.py` | Civil dates and weekly readings (diaspora) for the bracketed dates; needs `pyluach` |
 

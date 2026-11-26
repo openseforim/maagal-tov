@@ -79,6 +79,17 @@ def sortkey(name):
     return re.sub(r"^(the |rabbi |r\. )", "", n)
 
 
+def part_order(p):
+    """1885 parts (0-12) first, then the parts of the full diary ("F1", "F2" ...)."""
+    return (1, int(p[1:])) if isinstance(p, str) else (0, p)
+
+
+def part_label(p):
+    if isinstance(p, str):
+        return f"Full diary {p[1:]}"
+    return "Front matter" if p == 0 else f"Part {p}"
+
+
 def page(ents, hits, anchor):
     """anchor(part, block) -> (href, label). Returns the body HTML of the index page."""
     out, jump = [], []
@@ -92,8 +103,9 @@ def page(ents, hits, anchor):
             for p, b in hs:
                 by_part.setdefault(p, []).append(anchor(p, b))
             links = " · ".join(
-                f'<span class="ip">{"Front matter" if p == 0 else f"Part {p}"}: '
-                + ", ".join(f'<a href="{h}">{l}</a>' for h, l in v) + "</span>" for p, v in sorted(by_part.items()))
+                f'<span class="ip">{part_label(p)}: '
+                + ", ".join(f'<a href="{h}">{l}</a>' for h, l in v) + "</span>"
+                for p, v in sorted(by_part.items(), key=lambda kv: part_order(kv[0])))
             desc = f' <span class="desc">{e(x["desc"])}</span>' if x.get("desc") else ""
             items.append(f'<li id="{x["id"]}"><b>{e(x["name"])}</b>{desc}<div class="hits">{links}</div></li>')
         jump.append(f'<a href="#t-{t}">{lab}</a> ({len(items)})')

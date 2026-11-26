@@ -1,0 +1,415 @@
+{
+ "unit": 9,
+ "pages": [
+  41,
+  45
+ ],
+ "paras": [
+  {
+   "start": "41:1",
+   "head": false,
+   "he": "אדר א' 2. תרומה ג' בחצות נסענו מטורינו ובאנו לוירצילי תחלת ליל חמשי ונתאכסנתי בבית האחים הנעימים כמהר\"ר יעקב וכמהח\"ר בנימין סיגרי הי\"ו ודרשתי פ' תרומה ופ' תצוה והטו אלי חסד ושם ראיתי א\"ז גדול כ\"י וצבי מודח וקול הרמ\"ז גדול מאד מהנדפס וקינת הרמ\"ז על ה' נד\"ת ז\"ל וסיפורי ש\"ץ ומאמרות הרמ\"ע ז\"ל כ\"י.",
+   "en": "2 Adar I [Tuesday 3 February 1756], the week of Terumah: at midday we set out from Turin, and we came to Vercelli at the beginning of the night of Thursday [the evening of Wednesday 4 February 1756]. I lodged in the house of the pleasant brothers, our teacher R. Jacob and our teacher R. Benjamin Segre, may their Rock keep them, and I preached on the portions Terumah and Tetzaveh, and they showed me kindness. There I saw the Or Zarua ha-Gadol in manuscript; Tsevi Mudaḥ ⚠1; the Kol ha-Remez [of Moses Zacuto], much larger than the printed one; the lament of the Remez on ה' נד\"ת ⚠2, of blessed memory; the stories of Sh. Ts. ⚠3; and the Ma'amarot of the Rema [Menaḥem Azariah of Fano], of blessed memory, in manuscript.",
+   "notes": {
+    "1": {
+     "he": "וצבי מודח",
+     "note": "Title of a work, given as printed; apparently a text about Shabbetai Tsevi (\"Tsevi the outcast\"). Not identified further."
+    },
+    "2": {
+     "he": "וקינת הרמ\"ז על ה' נד\"ת ז\"ל",
+     "note": "The abbreviation ה' נד\"ת is not resolved; a lament of Zacuto on a person or event, left as printed."
+    },
+    "3": {
+     "he": "וסיפורי ש\"ץ",
+     "note": "ש\"ץ is most likely שבתי צבי, \"stories of Shabbetai Tsevi\"; it could also be read as שליח ציבור."
+    }
+   }
+  },
+  {
+   "start": "41:6",
+   "head": false,
+   "he": "אדר א' 14. תשא א' אחר חצות נסענו מוירצילי ובאנו לקאסאלי די מונפיראט ליל ב' והיה לנו צער אצל החכם ושלחו היאודים ולקחונו לשלום ונתאכסנתי אצל הקצין כמהח\"ר שמעון חיים לוי מורילו הי\"ו והפליא לעשות עמדי חסד וכל בני ביתו ודרשתי פ' תשא והיה לי אהבה יתירה עם הרב הג' מ\"ד מהר\"ש דיל ויקייו נר\"ו.",
+   "en": "14 Adar I [Sunday 15 February 1756], the week of Ki Tissa: after midday we set out from Vercelli, and we came to Casale Monferrato on the night of Monday [the evening of Sunday 15 February 1756]. We had trouble at the ḥakham ⚠1, and the Jews sent and took us in peace. I lodged with the notable, our teacher R. Simeon Ḥayyim Levi Morello, may his Rock keep him, who did me wonderful kindness, he and all his household. I preached on the portion Ki Tissa, and I had a special affection with the great rabbi, the head of the court, our teacher R. Samuel Del Vecchio, may his light shine.",
+   "notes": {
+    "1": {
+     "he": "צער אצל החכם",
+     "note": "So printed. The trouble may rather have been at the customs house (המכס), which a one-letter change would give; \"the ḥakham\" (here perhaps a gentile official) is kept."
+    }
+   }
+  },
+  {
+   "start": "41:10",
+   "head": false,
+   "he": "אדר ב' 1. פקודי ד' מקאסאלי לאליסאנדריא ובאו ללוותנו הרב וסי' מורילו הנז' כשני פרסאות ובאנו לאליסאנדריא בערב ונתאכסננו אצל סי' ישראל הכהן ויטאלי די לה טורי ויט אלינו חסד ובריתי היה עם הרב הג' מ\"ד החריף כמהר\"א הלוי ה\"י והרבה לעשות חסד עמדי יהא שלמ\"א רבא משמיא.",
+   "en": "1 Adar II [Wednesday 3 March 1756], the week of Pekudei: from Casale to Alessandria. The rabbi and Signor Morello mentioned above came to escort us about two parasangs, and we came to Alessandria in the evening. We lodged with Signor Israel ha-Kohen Vitali della Torre, who showed us kindness. My bond was with the great rabbi, the head of the court, the keen scholar, our teacher R. A. ha-Levi ⚠1, may God keep him, who did me much kindness. May there be great peace from heaven.",
+   "notes": {
+    "1": {
+     "he": "כמהר\"א הלוי",
+     "note": "Given by initial only; the first name (A.) is not resolved."
+    }
+   }
+  },
+  {
+   "start": "41:14",
+   "head": false,
+   "he": "אדר ב' 15. צו ד' בחצות נסענו מאליסאנדריא די לה פאליא ובאנו לגינובה אור הששי ונתאכסנתי אצל סי' משה פואה הי\"ו ורב חסד מט\"ה משה זכות אבות בעזרו והיה אדירו.",
+   "en": "15 Adar II [Wednesday 17 March 1756], the week of Tzav: at midday we set out from Alessandria della Paglia, and we came to Genoa on the eve of Friday [the evening of Thursday 18 March 1756]. I lodged with Signor Moses Foa, may his Rock keep him, abundant in kindness ⚠1, Moses; may the merit of the fathers be his help, and may [God] be his mighty one ⚠2.",
+   "notes": {
+    "1": {
+     "he": "ורב חסד מט\"ה משה",
+     "note": "The abbreviation מט\"ה is not resolved. Perhaps מטה (כלפי חסד), \"inclining toward kindness\", or a title before the name Moses."
+    },
+    "2": {
+     "he": "והיה אדירו",
+     "note": "Literally \"and he was his mighty one\"; read as a blessing, \"may [God] be his mighty one\"."
+    }
+   }
+  },
+  {
+   "start": "41:17",
+   "head": false,
+   "he": "אדר ב' 29. תזריע ד' תחילת הלילה יצאנו בפלוקא ללכת לליוורנו ואני הייתי חגור קימי\"ר ובתוכו יותר מארבע מאות ויניציאנוס וגם היו לי רילוייוזו ושאר חפצים ויום הששי בערב בהיותנו באמצע הדרך וגם היה איזה סער בים והיו עמנו הרבה גוים בצנעה הוצאתי הקימי\"ר וכל אשר היה עמדי והנחתי אותו בסל שבו כלי האכילה ויום ש\"ק נשבה הרוח ובאנו בהעלות המנחה לליוורנו. ובשגם לפום דינא היה מותר לצאת לא הייתי רוצה לצאת משום חומרא אבל הוציאונו בעל כרחנו אנשי משמר הסאניט\"ה ונתרוקנה הפלוק\"א והוליכונו באמצע העיר אצל העומדים על משמרת הסאניט\"א. ואני הייתי לבוש בלוי הסחבות והיה לי צער גדול אי משום שפגעתי את הגבירים פני העדה והייתי אחוז בחבלי בו\"ש. ואי משום המעות והחפצים שנשארו בסל בפלוק\"א ואחרי שובי ציויתי למשרת יעמוד מנגד לפלוק\"א ובלילה יישן בה. וביום ראשון בבקר הלכתי ומצאתי הכל בשלימות תלי\"ת: ולקחתי בית בחצר אהובי וחמודי ח\"ר דוד רקח נר\"ו ולעת האוכל הייתי הולך אצל הגביר המשכיל המהולל והמשובח סי' מיכאל פירירא די ליאון ונתגוררתי אצלו ט\"ו חדשים והפליא לעשות עמדי חסדים גדולים וכבוד גדול יתר מאד הוא וכל בני ביתו השומר אמת {f42}לעולם ישמרם ויושיבם לנצח על כל ברכה ותהלה כי\"ר וגם החר\"ד רקח ה\"י הנז' טרח מאד בגופו וממונו ה' יצרנהו כאישון עינו כי\"ר והרבה אהובים היו לי מהחכמים והגבירים וביחוד הרב מהר\"ר חנניא בונדי נר\"ו והח' הש' כמהר\"ר יצחק נונים ואיס והח' הש' כמהר\"ר אליאו כהן יהי ה' אלדינו עמם כי\"ר וראיתי בליוורנו אצל סי' דוד מדינה ג' מאקינ\"ה ניאומאטיקה ומלאכתה להוציא האור, גם ראיתי מונד\"ו נואוב\"ו לאנטירנ\"ה מאגיק\"ה מארזוק\"י-פיניר: ובעוה\"ר כ\"ב תמוז הלך ח' שב\"ח לטבול בים בלי ידיעתי ונטבע והוציאוהו ושלחו סולדאטוס לשמרו בלילה ובבקר יום כ\"ב נקבר בכבוד גדול. אוי לי אהה על פרידה טובה ומקרה רע ומר כזה ברוך דיין האמת וחיים שבק לנו וכל ישראל וזרעו לברכה ירב בארץ כי\"ר: ואני הצעיר הדפסתי שם ספרי הקטן שער יוסף התהלה והתפארת לחי העולמים אשר עד כה ברכני ה': וראיתי בליוורנו שבלי הלקט כ\"י ביאור סדר זרעים לר\"י מסמפונט הוא הר\"י בר מלכי צדק. ופי' הזהר להרמ\"ז ואגרות הרמ\"ז וליקוטי הרמ\"ז וס' שמות.",
+   "en": "29 Adar II [Wednesday 31 March 1756], the week of Tazria: at the beginning of the night [the evening of Tuesday 30 March 1756] we set out in a felucca to go to Livorno. I was girded with a money belt (kemer) holding more than four hundred Venetian sequins, and I also had a watch (relogio) and other things. On Friday evening, when we were in the middle of the way, there was also something of a storm at sea, and many gentiles were with us. In secret I took out the belt and all that I had with me and put it in the basket that held the eating vessels. On the holy Sabbath the wind blew, and we came to Livorno at the time of the afternoon offering. Although by the letter of the law it was permitted to go ashore, I did not want to go ashore, out of strictness; but the men of the health guard (sanità) took us off against our will, and the felucca was emptied, and they led us through the middle of the city to those who keep the watch of the sanità. I was dressed in worn-out rags and I was very distressed: on the one hand because I met the gevirim, the leaders of the community, and I was caught in the bonds of shame; and on the other hand because of the money and the things that had stayed in the basket in the felucca. After I came back I ordered the servant to stand opposite the felucca and to sleep in it at night. On Sunday morning I went and found everything whole, praise God. I took a house in the courtyard of my beloved and dear friend, the ḥakham R. David Rakaḥ, may his light shine, and at mealtimes I would go to the house of the gevir, the learned, the praised and lauded Signor Michael Pereira de Leon. I lived with him fifteen months, and he did me wonderful, great kindnesses and very great honor, he and all his household. May He who keeps faith for ever [Ps 146:6] keep them and set them for ever above all blessing and praise, amen, may it be His will. Also the ḥakham R. David Rakaḥ mentioned above, may God keep him, took much trouble with his person and his money; may the Lord guard him as the apple of His eye, amen. I had many friends among the sages and the gevirim, above all the rabbi, our teacher R. Ḥananiah Bondi, may his light shine, the complete sage, our teacher R. Isaac Nunes Vais, and the complete sage, our teacher R. Eliau Kohen; may the Lord our God be with them, amen. In Livorno I saw, at the house of Signor David Medina, three pneumatic machines (macchina pneumatica), whose work is to draw out the air ⚠1. I also saw a mondo nuovo, a magic lantern (lanterna magica), and a marzuki-finer ⚠2. For our many sins, on 22 Tammuz [Tuesday 20 July 1756] Ḥ. Sh. b. Ḥ. ⚠3 went to bathe in the sea without my knowledge and drowned. They brought him out and sent soldiers to guard him at night, and in the morning of the 22nd ⚠4 he was buried with great honor. Woe is me, alas, for a good parting and so evil and bitter a happening! Blessed is the true Judge. May He leave life to us and to all Israel, and may his seed be for a blessing and multiply in the land, amen. I, the least of men, printed there my little book Sha'ar Yosef; praise and glory to Him who lives for ever, for until now the Lord has blessed me [Josh 17:14]. In Livorno I saw the Shibbolei ha-Leket in manuscript; the commentary on the Order Zera'im by R. Isaac of Siponto, who is R. Isaac son of Malkizedek; and the commentary on the Zohar by the Remez [Moses Zacuto], the letters of the Remez, the collections of the Remez, and the book Shemot.",
+   "notes": {
+    "1": {
+     "he": "להוציא האור",
+     "note": "Printed האור; read as האויר, \"the air\" (an air pump), which the pneumatic machine requires."
+    },
+    "2": {
+     "he": "מארזוק\"י-פיניר",
+     "note": "Not identified; apparently a Turkish or Arabic name of another optical show or lantern (fener = lantern). Given as printed."
+    },
+    "3": {
+     "he": "ח' שב\"ח",
+     "note": "Initials. Freimann's note identifies him as the Ḥida's servant, Ḥ. Samuel ben Ḥayyim."
+    },
+    "4": {
+     "he": "כ\"ב תמוז ... ובבקר יום כ\"ב נקבר",
+     "note": "Both the drowning and the burial are dated the 22nd; either he drowned on the evening that began the 22nd, or one of the numbers is a slip (perhaps 21 Tammuz for the drowning)."
+    }
+   }
+  },
+  {
+   "start": "42:13",
+   "head": true,
+   "he": "תקי\"ז.",
+   "en": "[5]517 [1756–57].",
+   "notes": {}
+  },
+  {
+   "start": "42:14",
+   "head": false,
+   "he": "תשרי 8. האזינו ז' דרשתי שבת תשובה בליוורנו.",
+   "en": "8 Tishrei [Sabbath 2 October 1756], the week of Ha'azinu: I preached on the Sabbath of Repentance in Livorno.",
+   "notes": {}
+  },
+  {
+   "start": "42:15",
+   "head": false,
+   "he": "סיון 26. קרח ג' יצאתי מליוורנו בלויה גדולה ומהם הרבנים כמהר\"א שפירא ומהר\"י עאייש ומהר\"ח בונדי וחר\"א סיגרי וחר\"א כהן וחר\"ד רקח והגביר המשכיל סי' מיכאל ודעמייהו בכבוד גדול בספינה ראגוזיאה. ורב החובל גואנו קאזילאר.",
+   "en": "26 Sivan [Tuesday 14 June 1757], the week of Koraḥ: I left Livorno with a great escort, among them the rabbis, our teacher R. A. Shapira, R. Y. Ayash, R. Ḥ. Bondi, the ḥakham R. A. Segre, the ḥakham R. E. Kohen and the ḥakham R. David Rakaḥ, and the learned gevir Signor Michael, and those with them, with great honor, in a Ragusan ship; the captain was Giovanni Caselar ⚠1.",
+   "notes": {
+    "1": {
+     "he": "גואנו קאזילאר",
+     "note": "Read Giovanni Caselar; the first letter of גואנו is a marked gimel in the print."
+    }
+   }
+  },
+  {
+   "start": "42:18",
+   "head": false,
+   "he": "סיון 29. קרח ו' עברנו מנגד פורטו פיראייו. פיומבינו.",
+   "en": "29 Sivan [Friday 17 June 1757], the week of Koraḥ: we passed opposite Portoferraio; Piombino.",
+   "notes": {}
+  },
+  {
+   "start": "42:19",
+   "head": false,
+   "he": "תמוז 2. חקת ב' מנגד ציביטה ביינה היספייאגה די רומה.",
+   "en": "2 Tammuz [Monday 20 June 1757], the week of Ḥukkat: opposite Civitavecchia ⚠1, the beach (spiaggia) of Rome.",
+   "notes": {
+    "1": {
+     "he": "ציביטה ביינה",
+     "note": "So printed (the second word may be ביגה with a marked gimel); Civitavecchia is meant."
+    }
+   }
+  },
+  {
+   "start": "42:20",
+   "head": false,
+   "he": "תמוז 3. חקת ג' מנגד נאפולים. ציצילייא.",
+   "en": "3 Tammuz [Tuesday 21 June 1757], the week of Ḥukkat: opposite Naples; Sicily.",
+   "notes": {}
+  },
+  {
+   "start": "42:21",
+   "head": false,
+   "he": "תמוז 4. חקת ד' איים וביניהם שתים הרי האש זו לצפון וזו לדרום וביום נראה עשן והלילה אש יוצא מהם.",
+   "en": "4 Tammuz [Wednesday 22 June 1757], the week of Ḥukkat: islands, and among them two mountains of fire, one to the north and one to the south [Stromboli and Vulcano]; by day smoke is seen, and at night fire comes out of them.",
+   "notes": {}
+  },
+  {
+   "start": "42:23",
+   "head": false,
+   "he": "תמוז 5. חקת ה' מנגד מסינא ולקח רב החובל פילוטו ויניצייאנו לעבור.",
+   "en": "5 Tammuz [Thursday 23 June 1757], the week of Ḥukkat: opposite Messina; the captain took a Venetian pilot (piloto veneziano) to pass through [the strait].",
+   "notes": {}
+  },
+  {
+   "start": "42:24",
+   "head": false,
+   "he": "תמוז 9. בלק ב' מנגד לאיי המוריאה.",
+   "en": "9 Tammuz [Monday 27 June 1757], the week of Balak: opposite the islands of the Morea.",
+   "notes": {}
+  },
+  {
+   "start": "42:25",
+   "head": false,
+   "he": "תמוז 10. בלק ג' מנגד איים סרינו קאנדיאה תחלת הארציפילאג\"ו.",
+   "en": "10 Tammuz [Tuesday 28 June 1757], the week of Balak: opposite the islands of Cerigo [Kythira] and Candia [Crete], the beginning of the Archipelago.",
+   "notes": {}
+  },
+  {
+   "start": "42:26",
+   "head": false,
+   "he": "תמוז 13. בלק ו' ראינו שיאו.",
+   "en": "13 Tammuz [Friday 1 July 1757], the week of Balak: we saw Chios (Scio).",
+   "notes": {}
+  },
+  {
+   "start": "42:27",
+   "head": false,
+   "he": "תמוז 14. בלק ז' יום ש\"ק ראינו קארה בורון. ובבקר קמתי בפסוק תרם ידך על צריך וכל אויביך יכרתו וקרוב לחצות בא קורסאל פראנסיז והלך הקאפיטאן אצלו ועכבו ואחר באו כעשרים מלחים ולקחוני בעל כרחי והוליכוני לספינתם וחיפשו אותי בכל מיני חיפוש ועכבוני עם רב החובל שלי ובעוה\"ר לא קיימתי שתי סעודות {f43}יום שבת והייתי בצער גדול מאד כי הי\"ל ביד הקאפיטאן כיס מלא טאלארוס וחוץ מזה ברשותי כחמש מאות זהובים וזכרתי שהי\"ל איזה כתבים מלונדרים וגם ליטירה די קאמבייו משם. וח\"ו אם היו רואים איזה רמז היו מחזיקים בשקרם שהיו אומרים כי הכל מנכסי האינגליז ואמרתי שם צ\"א פעמים ויהי נועם. ונדרתי הרבה נדרים. ותלי\"ת יום א' ט\"ו בו בחצות הרשונו ללכת לספינתנו. והאורב יושב בחדר כעשרים שולפי חרב מקיפים בספינתנו ות\"ל שהיה בי כח וקלות ליקח הכתבים של לונדרים הנז' ולאבדם ושמתי הקימי\"ר של זהובים על בשרי: ויום ב' ט\"ז תמוז בערב באו האויבים ולקחו כל הגרופו\"ם וכיס אחד מהפקדונות שהיה בחיקי ולקחו כל הסחורות ובקשו וחפשו כל בגדינו ואף על בגדי פשפשו ובחיקי ובכיסי בגדים שעלי וה' ברוב רחמיו עשה שלא ראו הקימי\"ר ועכבונו בגאנדארלי ששה ימים והיו מבקשים עילה לחלוק עם הקאפיטאן ולערוך מלחמה עמנו ורב החובל שלנו היה בעל שכל טוב והיה סובל הכל ובולם פיו.",
+   "en": "14 Tammuz [Sabbath 2 July 1757], the week of Balak, the holy Sabbath: we saw Kara Burun. In the morning I rose with the verse \"Your hand shall be lifted up over your adversaries, and all your enemies shall be cut off\" [Mic 5:8]. Near midday a French corsair (corsale francese) came. The captain went to him, and he held him; afterwards about twenty sailors came and took me against my will and led me to their ship, and they searched me with every kind of search, and they held me with my captain. For our many sins I did not keep the two meals of the Sabbath day. I was in very great distress, for I had in the captain's hand a purse full of thalers, and besides that about five hundred gold coins in my own keeping; and I remembered that I had some letters from London and also a letter of exchange (lettera di cambio) from there. God forbid, if they had seen any hint of it, they would have held to their lie, for they were saying that everything was property of the English. There I said \"May the pleasantness\" [Ps 90:17–91:16] ninety-one times, and I made many vows. Praise God, on Sunday the 15th of the month [3 July 1757] at midday they let us go to our ship. And the ambush was sitting in the chamber [Judg 16:9]: about twenty men with drawn swords surrounding our ship. Thanks to God, I had the strength and quickness to take the London letters mentioned above and destroy them, and I put the belt of gold coins on my body. On Monday 16 Tammuz [4 July 1757] in the evening the enemies came and took all the sealed money bags (gruppi) and one purse of the deposits that was in my bosom, and they took all the merchandise. They sought and searched all our clothes; even my clothes they went through, and my bosom and the pockets of the clothes I had on; and the Lord in His great mercy made it that they did not see the belt. They held us at Çandarlı six days, and they were seeking a pretext to quarrel with the captain and to make war with us; but our captain was a man of good sense, and he bore everything and held his tongue.",
+   "notes": {}
+  },
+  {
+   "start": "43:13",
+   "head": false,
+   "he": "תמוז 20. פנחס ו' נסענו מגאנדארלי ריקם ריקם ובאנו לאיזמיר בערב ובאו לספינה בנו ונכדו של סי' אברהם פירנאנדים דיאס וידידנו ח\"ר משה פארדו ולקחונו אצלם בכבוד גדול והטו אלי חסד וכבוד גדול הי\"ל באיזמיר ובפרט הרב מהר\"י שאול נר\"ו והגבירים ח\"ר אבישלום הלוי וח\"ר אליאו בנו וח\"ר יצחק ארדיטי לא עזבו חסדם וצדקתם שכמ\"ה ושם לאיזמיר חזר כל ממונינו לידינו בשליחות תלי\"ת אשר עשה כיום הזה וראיתי באיזמיר שו\"ת מרן ז\"ל כ\"י והוא ספר אבקת רוכל ושי' מקובצת כתובות כ\"י ממהר\"א לפפא.",
+   "en": "20 Tammuz [Friday 8 July 1757], the week of Pinḥas: we set out from Çandarlı utterly empty-handed, and we came to Izmir in the evening. The son and the grandson of Signor Abraham Fernandes Dias and our friend the ḥakham R. Moses Pardo came to the ship and took us to their homes with great honor, and they showed me kindness. I had great honor in Izmir, above all from the rabbi, our teacher R. Y. Saul, may his light shine, and the gevirim the ḥakham R. Absalom ha-Levi, the ḥakham R. Eliau his son, and the ḥakham R. Isaac Arditi; they did not withhold their kindness and their charity, may their reward be complete from heaven. There in Izmir all our money came back into our hands by an agent, praise God, who has done as on this day. In Izmir I saw the responsa of Maran [Joseph Karo], of blessed memory, in manuscript, that is the book Avkat Rokhel, and a Shitah Mekubbetset on Ketubbot in manuscript, from our teacher R. A. Lapapa.",
+   "notes": {}
+  },
+  {
+   "start": "43:20",
+   "head": false,
+   "he": "אב 19. עקב ו' יצאנו מאיזמיר בחברת החר\"י אלבעלי וסי' יעקב פירנאנדים וח\"ר יצחק מולכו ואביזרייהו.",
+   "en": "19 Av [Friday 5 August 1757], the week of Ekev: we left Izmir in the company of the ḥakham R. Y. Albeli ⚠1, Signor Jacob Fernandes and the ḥakham R. Isaac Molkho, and those with them.",
+   "notes": {
+    "1": {
+     "he": "החר\"י אלבעלי",
+     "note": "First name given by initial only; the family name is given as printed."
+    }
+   }
+  },
+  {
+   "start": "43:22",
+   "head": false,
+   "he": "אלול ר\"ח שופטים ג' באתי לבוגאס חיצאר ויצאתי בו ביום.",
+   "en": "Rosh Ḥodesh Elul [Tuesday 16 August 1757, 30 Av], the week of Shofetim: I came to Boğaz Hisar [the Dardanelles] and went ashore that same day.",
+   "notes": {}
+  },
+  {
+   "start": "43:23",
+   "head": false,
+   "he": "אלול 1. שופטים ד' עברתי בגאליפולי לקבל פני הר' משה ן' חביב נר\"ו.",
+   "en": "1 Elul [Wednesday 17 August 1757], the week of Shofetim: I passed through Gallipoli to greet the rabbi, R. Moses ibn Ḥabib, may his light shine.",
+   "notes": {}
+  },
+  {
+   "start": "43:24",
+   "head": false,
+   "he": "אלול 4. שופטים ז' יום ש\"ק הייתי בטיקיר דאגי אצל הג' ישעיא אשכנזי.",
+   "en": "4 Elul [Sabbath 20 August 1757], the week of Shofetim, the holy Sabbath: I was in Tekirdağ with the great rabbi Isaiah Ashkenazi.",
+   "notes": {}
+  },
+  {
+   "start": "43:25",
+   "head": false,
+   "he": "אלול 6. תצא ב' נכנסתי לקושטא' ולקחתי הודה בייני חאן ואח\"ך נתאכסנתי אצל השר המרומם ומתנהג בחסידות כמה\"ר שמואל הלוי הי' והפליא להיטיב ולהסביר לי פנים הוא וכל בני ביתו וביחוד חתנו החכם המ' הן גביר כמ\"ה משה אנגיל הי' וינטלם וינשאם כל ימי עולם ולא יזח החוש\"ן ולא יטה לארץ מנלם כי\"ר.",
+   "en": "6 Elul [Monday 22 August 1757], the week of Ki Tetze: I entered Constantinople and took a room (oda) in the Yeni Han. Afterwards I lodged with the exalted official, who conducts himself in piety, our teacher R. Samuel ha-Levi, may God keep him. He did me wonderful good and showed me a friendly face, he and all his household, above all his son-in-law, the ḥakham, the exalted one, a gevir, our teacher R. Moses Angel, may God keep him. May He lift them and carry them all the days of old [Isa 63:9]; may the breastplate not be loosed [Ex 28:28], and may their possessions not be bent to the ground [Job 15:29], amen, may it be His will.",
+   "notes": {}
+  },
+  {
+   "start": "43:29",
+   "head": true,
+   "he": "תקי\"ח.",
+   "en": "[5]518 [1757–58].",
+   "notes": {}
+  },
+  {
+   "start": "43:30",
+   "head": false,
+   "he": "תשרי 27. נח הלכתי לפתח שר הרגליים וראיתי כיצד מביאין האוליפי'.",
+   "en": "27 Tishrei [Tuesday 11 October 1757], the week of Noaḥ: I went to the gate of the commander of the foot soldiers ⚠1 and saw how they bring the ulufe [the soldiers' pay].",
+   "notes": {
+    "1": {
+     "he": "שר הרגליים",
+     "note": "Probably the aga of the Janissaries, the infantry corps."
+    }
+   }
+  },
+  {
+   "start": "43:31",
+   "head": false,
+   "he": "חשון 2. לך לך א' ראיתי נור די הוצמאנייה. פתח המשנה מנגד. ייאסופיא סבילאני. פלטין של התאראפאנה. אצלאאנה. ליאון קאפלאן. קורט. אוריגה {f44}די דראגו. ראש פיל. ראש מימסאח. בישיסטין אגוגה אלפיניטי. חצר משוגעים: ולהבדיל הלכתי והתפללתי מנחה בק\"ק אחריד\"ה ושם ראיתי כתובים על קלף נכתבו ש' ה' אלפים מ\"ד. וראיתי ק\"ק ייאנבול. וק\"ק גאנה. וק\"ק וידיא. וק\"ק חברה. וק\"ק אליאו מחוץ לבאלאט. וראיתי בית החיים של היגרי קאפי ונשתטחתי על מצבת הגאון הרא\"ם ז\"ל וראיתי אוצר המים אשר ממנו הולכים לכל קושטא' ובנותיה וראיתי שו\"ת ה' כנה\"ג ז\"ל י\"ד וח\"מ. קמיעות. וחרב של מהר\"ר נפתלי ז\"ל דברים מופלאים. וראיתי ספר שחיבר ממזר א' שטיהר זרעו בשפחה ומהריב\"ל והר\"א ן' יעיש פקפקי והוא חיבר ס' על זה והסכימו עמו מרן והרדב\"ז והמבי\"ט והרב אלשיך ז\"ל ושם ראיתי חתימתם. וספר משמרת המצות ומגילת ספר ח\"ב וחלקו של בנימין.",
+   "en": "2 Ḥeshvan [Sunday 16 October 1757], the week of Lekh Lekha: I saw the Nuruosmaniye [mosque]; the gate of the second to the king [the Sublime Porte] opposite; Hagia Sophia; the sebils ⚠1; the palace of the Tarapana [the mint]; the Aslanhane [the house of lions]: a lion, a leopard (kaplan), a wolf (kurt), an oriega di drago ⚠2, an elephant's head, a crocodile's (timsah) head; the Bedesten; aguja alfinete ⚠3; the court of the madmen ⚠4. And, to make a distinction, I went and prayed the afternoon prayer in the holy congregation Aḥrida, and there I saw writings on parchment that were written in the year 5044 [1284]. I saw the holy congregation Yanbol, the holy congregation Gana, the holy congregation Vidia, the holy congregation Ḥevrah, and the holy congregation Eliau outside Balat. I saw the cemetery of Eğri Kapı, and I prostrated myself on the tombstone of the gaon the Re'em [Elijah Mizraḥi], of blessed memory. I saw the reservoir of water from which [the waters] go to all Constantinople and its suburbs. I saw the responsa of the rabbi of the Kenesset ha-Gedolah [Ḥayyim Benveniste], of blessed memory, on Yoreh De'ah and Ḥoshen Mishpat; amulets; and the sword of our teacher R. Naphtali, of blessed memory: wonderful things. I saw a book written by a mamzer who had purified his seed through a slave woman. The Maharibal [Joseph ibn Lev] and R. A. ibn Ya'ish had doubts, and he wrote a book on it, and Maran [Joseph Karo], the Radbaz, the Mabit and Rabbi Alshekh, of blessed memory, agreed with him; I saw their signatures there. And the book Mishmeret ha-Mitsvot, Megillat Sefer part 2, and Ḥelko shel Binyamin.",
+   "notes": {
+    "1": {
+     "he": "ייאסופיא סבילאני",
+     "note": "סבילאני read as the sebils (public fountains), perhaps those near Hagia Sophia."
+    },
+    "2": {
+     "he": "אוריגה די דראגו",
+     "note": "Unclear; a 'dragon' exhibit among the animals, perhaps a stuffed crocodile or a large lizard."
+    },
+    "3": {
+     "he": "בישיסטין אגוגה אלפיניטי",
+     "note": "Ladino words, \"needle, pin\"; perhaps the needle-makers' market by the Bedesten. Not certain."
+    },
+    "4": {
+     "he": "חצר משוגעים",
+     "note": "Literally \"court of the madmen\": a madhouse, or perhaps the lodge of the howling dervishes."
+    }
+   }
+  },
+  {
+   "start": "44:11",
+   "head": false,
+   "he": "חשון 16. חיי שרה א' ליל מש\"ק מת סולטאן עוצמאן ומלך תכף סולטאן מוסטאפה בן סולטאן אחמיט.",
+   "en": "16 Ḥeshvan [Sunday 30 October 1757], the week of Ḥayyei Sarah: on the night after the holy Sabbath [the evening of Saturday 29 October 1757] Sultan Osman [III] died, and at once Sultan Mustafa [III], son of Sultan Ahmed [III], became king.",
+   "notes": {}
+  },
+  {
+   "start": "44:13",
+   "head": false,
+   "he": "חשון 20. חיי שרה ה' חגרו לו חרב באייוב והלכתי לקארה יימברוק בחנות אחד וראיתי האלאיי וכל טכסיסי מלכות ובירכתי על המלך וזה סדר האלייא: ייני שארי אי טופגי אי גיביגי סדורים ובאים מהיכל המלך שבקושטא' עד בית תפלתם של האייוב מב' צדדין. ואחר יעבורו: חאסאס באשי קון איסקובא. צו באשי. גאוגים קון מוזאביגים אי פלומאס סון ספאים אי ויזיר שאושלארי זאימים. זאימים יידיקלים. קאפיגי באשים. אולאמאדי מודיריזים. גאוש באשי טופגי באשי. גיביגי באשי. זאגארגי באשי. סאמסונגי באשי קון קיהאייאסי. ביש יוז ארגיליק מולאס. קאפיגי באשים. שאלאורים בייוק הימרור. קוגוק הימרור. אורומילי קאדיעיזקיר. אנאדול קאדיעים' יינשיר אגאסי. קאפיטאן {f45}פאשה קון קאן ליבי. שיך היסלאם. ויזיר. מלך. סיליקטאר. גוהאראר. קיזלאר אגאסי. אונאדער. כל השרים האלו לבושי מכלול רוכבים על סוסים מזויינים ורובם בסאמורים. דיבאס. וחיטאים מזוהבים והאולאמאז באטלאז לבן. ולכל אחד כמה עבדים מימינו ומשמאלו יעברו ברגל ולפני המלך מאטארה גוהירי מיהלום. כסא גוהירי ועוד אחרת ראיז די פירלה 8 יידיקים קון קאלקאנים גוהירים אי 9 סין קאלקאנים ואחריו לא היה חרב גוהירי אשר עתיד לחגור בתכריך מזוהב כרב גודלו והזנאדאר בשתי ידיו מפזר ונוסף עוד בשוק ובחנויות פאראס. מלבד מתן בסדר לגורבאגים וקולקים ככל אשר יעבור. ואני לקטתי שבע פארו\"ת הטובות: ה' יזכנו להבחין ועין בעין נראה משיח אלהי יעקב מוכתר בכתרי כתרים בבי\"א.",
+   "en": "20 Ḥeshvan [Thursday 3 November 1757], the week of Ḥayyei Sarah: they girded him with the sword at Eyüp. I went to Kara Gümrük, to a shop, and saw the alay [the procession] and all the ceremonies of kingship, and I said the blessing over the king. This is the order of the procession: janissaries (yeniçeri), gunners (topçu) and armorers (cebeci), drawn up and coming from the king's palace in Constantinople to their house of prayer at Eyüp, on both sides. After them pass: the asesbaşı [the chief of the watch] with his helmet (üsküf); the subaşı; the çavuşes with ceremonial turbans (mücevveze) and plumes; the sipahis and the vizier's çavuşes; the zaims; the zaims' gediklis; the kapıcıbaşıs [chamberlains]; the ulema, the müderrises; the çavuşbaşı; the topçubaşı; the cebecibaşı; the zağarcıbaşı; the samsuncubaşı with his kâhya; five hundred argılık mules ⚠1; the kapıcıbaşıs; the şalvar-wearers ⚠2; the great master of the horse (büyük imrahor); the lesser master of the horse (küçük imrahor); the kadıasker of Rumeli; the kadıasker of Anatolia; the aga of the janissaries; the Kapudan Pasha with his kallavi [turban]; the şeyhülislam; the vizier; the king; the silahdar; the çuhadar; the kızlar ağası; the אונאדער ⚠3. All these officials were dressed in finery, riding on armored horses, most of them in sables; brocades (dibas) and gilded caftans ⚠4, and the ulema in white satin (atlas). Each one had several slaves at his right and his left, who walked on foot. Before the king were a jeweled water flask (matara) of diamond; a jeweled seat ⚠5; and another, a string of pearls ⚠6: eight rows with jeweled kalkans and nine without kalkans; and after him ⚠7 a jeweled sword, which he was to gird on, in a gilded wrapper as large as itself. The treasurer (hazinedar) scattered with both his hands, and he also added paras [small coins] in the market and in the shops, besides a gift in order to the çorbacıs and the kulkulcus [household officers], as each one passed. And I gathered seven good paras. May the Lord grant us to discern, and to see eye to eye [Isa 52:8] the anointed of the God of Jacob [2 Sam 23:1], crowned with the crowns of crowns, speedily in our days, amen.",
+   "notes": {
+    "1": {
+     "he": "ביש יוז ארגיליק מולאס",
+     "note": "Beş yüz = five hundred; מולאס read as mules. ארגיליק is not identified."
+    },
+    "2": {
+     "he": "שאלאורים",
+     "note": "Read as şalvarlı, men in baggy trousers; uncertain."
+    },
+    "3": {
+     "he": "אונאדער",
+     "note": "Not identified; a court office, given as printed."
+    },
+    "4": {
+     "he": "וחיטאים מזוהבים",
+     "note": "חיטאים not identified; perhaps a kind of robe or caftan. \"Caftans\" is a guess."
+    },
+    "5": {
+     "he": "כסא גוהירי",
+     "note": "Read as Hebrew כסא, a seat or throne; it may also be Turkish kese, a purse."
+    },
+    "6": {
+     "he": "ראיז די פירלה",
+     "note": "Ladino; read as a string or rope of pearls."
+    },
+    "7": {
+     "he": "ואחריו לא היה חרב",
+     "note": "So printed; לא does not fit the sense and is left untranslated."
+    }
+   }
+  },
+  {
+   "start": "45:10",
+   "head": false,
+   "he": "כסליו 12. וישלח ה' ראיתי למלך במיבלוד חוזר מתפלותם ובו בפרק נתנו לו ארזואלים וציוה ולקחום.",
+   "en": "12 Kislev [Thursday 24 November 1757], the week of Vayishlaḥ: I saw the king at the Mevlid ⚠1, returning from their prayers, and at that moment they gave him petitions (arzuhal), and he ordered them taken.",
+   "notes": {
+    "1": {
+     "he": "במיבלוד",
+     "note": "Read as the Mevlid, the Prophet's birthday, 12 Rabi' I 1171, which fell on 24 November 1757; the sultan went in procession to the mosque that day. It could also be the name of a place."
+    }
+   }
+  },
+  {
+   "start": "45:12",
+   "head": false,
+   "he": "כסליו 25. מקץ ד' יום א' של חנוכה הלכתי לקיהאת חאני עם החה\"ש כמהר\"ר אליא פאלומבו והח' המ' נפתלי הכהן הי' וראיתי שני סדרי יורות מים מקלחים ושם ג' קיושקים נחשת מוזהב שעשאן סולטאן אחמיט לבניו והוא מקום נוי ומרחב יפה אף נעים בהיכלות וביריונות יפות.",
+   "en": "25 Kislev [Wednesday 7 December 1757], the week of Miketz, the first day of Ḥanukkah: I went to Kâğıthane with the complete sage, our teacher R. Elijah Palombo, and the ḥakham, the exalted Naphtali ha-Kohen, may God keep them. I saw two rows of cascades of flowing water, and there are three kiosks of gilded copper there, which Sultan Ahmed made for his sons. It is a place of beauty and a fine open space, pleasant too with palaces and fine mansions.",
+   "notes": {}
+  },
+  {
+   "start": "45:16",
+   "head": false,
+   "he": "טבת 22. וארא ב' ראיתי המלך הולך וחוזר בגאלאטה ובירכתי ברך.",
+   "en": "22 Tevet [Monday 2 January 1758], the week of Va'era: I saw the king going and returning in Galata, and I said the blessing ⚠1.",
+   "notes": {
+    "1": {
+     "he": "ובירכתי ברך",
+     "note": "ברך is unclear: perhaps \"I blessed on bended knee\", or an abbreviation of the blessing over a king."
+    }
+   }
+  },
+  {
+   "start": "45:17",
+   "head": false,
+   "he": "אדר שני ר\"ח פקודי ו' רכבתי בספינה פראנציסה וקאפיטאן מוסיו קולומבו עם המולא ההולך לעיה\"ק ירושלם ת\"ו ושבתנו בספינה.",
+   "en": "Rosh Ḥodesh Adar II [Friday 10 March 1758, 30 Adar I], the week of Pekudei: I boarded a French ship, the captain Monsieur Colombo, with the molla [the judge] who was going to the holy city of Jerusalem, may it be rebuilt and established; and we kept the Sabbath on the ship.",
+   "notes": {}
+  },
+  {
+   "start": "45:19",
+   "head": false,
+   "he": "אדר שני 3. ויקרא ב' קרוב לחצות נסענו מבישיק תאשי לחיים טובים ולשלום ובאנו בערב למארמארה.",
+   "en": "3 Adar II [Monday 13 March 1758], the week of Vayikra: near midday we set out from Beşiktaş, for good life and for peace, and in the evening we came to Marmara.",
+   "notes": {}
+  },
+  {
+   "start": "45:21",
+   "head": false,
+   "he": "אדר שני 4. ויקרא ג' עברנו מנגד טיקיר דאגי.",
+   "en": "4 Adar II [Tuesday 14 March 1758], the week of Vayikra: we passed opposite Tekirdağ.",
+   "notes": {}
+  },
+  {
+   "start": "45:22",
+   "head": false,
+   "he": "אדר שני 5. ויקרא ד' מנגד גאליפולי.",
+   "en": "5 Adar II [Wednesday 15 March 1758], the week of Vayikra: opposite Gallipoli.",
+   "notes": {}
+  },
+  {
+   "start": "45:23",
+   "head": false,
+   "he": "אדר שני 6. ויקרא ה' לבוגאס חיצאר ויצאנו שם והיינו אצל ח\"ר ישראל הכהן אור הששי.",
+   "en": "6 Adar II [Thursday 16 March 1758], the week of Vayikra: to Boğaz Hisar. We went ashore there, and we were at the house of the ḥakham R. Israel ha-Kohen on the eve of Friday [the evening of Thursday 16 March 1758].",
+   "notes": {}
+  },
+  {
+   "start": "45:25",
+   "head": false,
+   "he": "אדר שני 7. ויקרא ו' בערב חזרנו לספינה והרוח גדולה וחזק מאד.",
+   "en": "7 Adar II [Friday 17 March 1758], the week of Vayikra: in the evening we went back to the ship, and the wind was great and very strong.",
+   "notes": {}
+  },
+  {
+   "start": "45:26",
+   "head": false,
+   "he": "אדר שני 8. ויקרא ז' יום ש\"ק בבקר נסענו מבוגאס חיצאר ובערב ראינו שיאו.",
+   "en": "8 Adar II [Sabbath 18 March 1758], the week of Vayikra, the holy Sabbath: in the morning we set out from Boğaz Hisar, and in the evening we saw Chios.",
+   "notes": {}
+  },
+  {
+   "start": "45:27",
+   "head": false,
+   "he": "אדר שני 9. צו א' ראינו שושן הדסי ואמרו המלחים שיש הר קרוב ויש שם מטמון וחיה שומרת למען אשר לא יקרב איש.",
+   "en": "9 Adar II [Sunday 19 March 1758], the week of Tzav: we saw Susam Adası [Samos]. The sailors said that there is a mountain nearby, and there is a treasure there, and a beast guards it so that no one may come near.",
+   "notes": {}
+  },
+  {
+   "start": "45:29",
+   "head": false,
+   "he": "אדר שני 10. צו ב' עברנו איסטאנקייוי והיה רוח מנגד חזק מאד וחזר לאחור ונתעכבנו בכפר פאטינו.",
+   "en": "10 Adar II [Monday 20 March 1758], the week of Tzav: we passed Istanköy [Kos]. There was a very strong head wind, and [the ship] turned back, and we were held up at the village of Patino [Patmos].",
+   "notes": {}
+  }
+ ],
+ "report": "Pages 41-45 done (end of the first journey: Vercelli, Casale, Alessandria, Genoa, Livorno 1756-57, capture by a French corsair, Izmir, Constantinople 1757-58, departure for the Land of Israel). OCR fixes: many ג read as נ, ס/ם and פ/ס (סואה→פואה, הקאסיטאן→הקאפיטאן, בוגאם→בוגאס), כ/ב (וכאנו→ובאנו), dropped numbers 8 and 9 on p. 45 and the dropped day number of Tammuz 4, footnote signs removed; Freimann's dotted gimel in the Turkish words is written as plain ג. The editor should check the Turkish/Ladino procession list (44:13-45:9) and the unresolved abbreviations noted there and on p. 41."
+}
