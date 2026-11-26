@@ -204,6 +204,11 @@ with OCR and checked line by line against the scan; spelling and abbreviations a
 the Hebrew paragraph by paragraph; dates, biblical phrases and identifications added by the translator are in gray
 brackets, and uncertain renderings are marked ⚠ with a note at the foot of each part.
 
+The full diary (both journeys) follows Freimann's edition, read from the National Library of Israel copy. In that copy a
+corner of pp. 119–120 is torn away and a few lines on pp. 50, 51 and 80 are covered by a stain or a repair strip; these
+words were restored from a second copy of the same edition (HebrewBooks 21838). For the Paris weeks of 1777–78 the
+readings were also checked against Marx and Liber's transcription from the autograph (1913, below).
+
 ---
 
 ## Further reading
@@ -213,6 +218,17 @@ brackets, and uncertain renderings are marked ⚠ with a note at the foot of eac
 - Benjamin Cymerman (tr.), *The Diaries of Rabbi Ha'im Yosef David Azulai ("Ma'agal Tov – The Good Journey")*
   (Jerusalem: Bnei Issakhar Institute, 1997). English translation.
 - Elijah Benamozegh (ed.), *Sefer Ma'agal Tov* (Livorno, 1879). The first printing.
+- M. Liber (with Alexander Marx), "Le séjour d'Azoulai à Paris", *Revue des études juives* 65 (1913), pp. 243–273;
+  [Persée](https://www.persee.fr/doc/rjuiv_0484-8616_1913_num_65_130_5170). A French chronology and translation of the
+  Paris weeks, with the Hebrew transcribed by Marx from the autograph. It supplies the torn words of
+  Freimann p. 120 and identifies the Bible of 1061 as probably Latin.
+- Henri Gross, *Gallia Judaica: dictionnaire géographique de la France d'après les sources rabbiniques* (Paris, 1897);
+  [Frankfurt University Library](https://sammlungen.ub.uni-frankfurt.de/freimann/download/pdf/699175). Freimann's
+  source for the French place and family names.
+- Jean-Claude Cohen, *Les communautés juives d'Avignon et du Comtat Venaissin* (genealogical dictionary);
+  [PDF, ACJP](https://acjp.fr/uploads/articles/f5945b525aa5fac0f8c96a49e80990ba.pdf). Births, marriages and variant
+  surnames of the Avignon and Carpentras families the Ḥida met: for example the marriage of Azariel Crémieux (the
+  diary's Azriel Carmi) to Léa Montel, daughter of Benjamin de Montélis, at Carpentras on 23 March 1776 (p. 179).
 - Meir Benayahu, *Rabbi Ḥayyim Yosef David Azulai* (Hebrew; Jerusalem: Mossad Harav Kook, 1959). The standard
   biography.
 - Avraham Ya'ari, *Sheluḥei Eretz Yisrael* (Hebrew; Jerusalem: Mossad Harav Kook, 1951). The history of the emissaries

@@ -101,7 +101,7 @@
    "notes": {
     "1": {
      "he": "דמונטיליץ",
-     "note": "So printed; perhaps de Monteux (a Comtat family name) or de Montélimar. Not identified."
+     "note": "De Montélis, an Avignon surname also written Montel and Monteux; Freimann gives de Monteaux. Benjamin's daughter Léa Montel married Azariel Crémieux at Carpentras on 23 March 1776 (J.-C. Cohen, Les communautés juives d'Avignon et du Comtat Venaissin, genealogy, p. 179): this is the son-in-law Azriel Carmi named here."
     },
     "2": {
      "he": "או לא ישמע",
@@ -184,11 +184,15 @@
    "start": "169:27",
    "head": false,
    "he": "אב 14. יום הו' הידיד סי' ארייאני היה בקדחת שלישית והייתי בצער גדול וביום ה' הנז' בא הרופא מוסו ראסט והביא גלח גדול עמו והיה רשימה בידו כמו ד' שאלות לשאול אותי ולא נמצא שום אדם והיו שואלין בלשון צרפת ואני משיב קצת בצרפת וקצת בטאליאנו באופן שהיינו מבינים זה את זה והגלח היה לו נחת מתשובותי כפי הנשמע.",
-   "en": "14 Av, Friday [7 August 1778]: our friend Signor Ariani had a tertian fever, and I was very worried. On the said Thursday ⚠1 the doctor Monsieur Rast came and brought a great priest with him, who had in his hand a list of about four questions to ask me. No one [else] was there; they asked in French, and I answered partly in French and partly in Italian, so that we understood each other; and the priest was pleased with my answers, as I heard.",
+   "en": "14 Av, Friday [7 August 1778]: our friend Signor Ariani had a tertian fever, and I was very worried. On the said Thursday ⚠1 the doctor Monsieur Rast came and brought a great priest with him, who had in his hand a list of about four questions ⚠2 to ask me. No one [else] was there; they asked in French, and I answered partly in French and partly in Italian, so that we understood each other; and the priest was pleased with my answers, as I heard.",
    "notes": {
     "1": {
      "he": "וביום ה' הנז'",
      "note": "Read as \"on the Thursday mentioned above\" (13 Av), told under Friday's entry."
+    },
+    "2": {
+     "he": "כמו ד' שאלות",
+     "note": "So Freimann (ד'); the 1885 printing has כ', twenty."
     }
    }
   },

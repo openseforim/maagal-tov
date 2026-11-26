@@ -60,7 +60,7 @@
    "notes": {
     "1": {
      "he": "הרמת\"י",
-     "note": "The abbreviation appears as הרמת\"י, חרמת\"י, חר\"ם תמ\"ה and חר\"ם תמה יצ\"ו; read as חכם ר' מ' תמה יצ\"ו, \"the ḥakham R. M. Tamah\". Not identified."
+     "note": "The abbreviation appears as הרמת\"י, חרמת\"י, חר\"ם תמ\"ה and חר\"ם תמה יצ\"ו: the ḥakham R. Mordecai Tama (the final י of the short form is the blessing יצ\"ו). Probably Mordecai son of Isaac Tama of Hebron, who published Pe'er ha-Dor (Amsterdam 1765) and later lived in France."
     },
     "2": {
      "he": "ואנ\"י כתב שתי שורות",
@@ -179,7 +179,7 @@
    "notes": {
     "1": {
      "he": "באש\"ג פלצות",
-     "note": "Freimann gives no identification. Perhaps a place name (Pleine-Selve lies on this road), or \"an inn of horror\"."
+     "note": "פלצות is a biblical word for horror (Job 21:6, Ps 55:6). Perhaps an exclamation, \"a gentile inn, horrors!\", which suits \"and they were wicked\"; or a place name (Pleine-Selve lies on this road). Not decided."
     }
    }
   },
@@ -284,40 +284,40 @@
   {
    "start": "119:28",
    "head": false,
-   "he": "כסלו 21. א' מקץ נסענו אחר תפלה והגענו בערב לעיר לוגומו והיה יריד בעיר ובשתי אושפיזות לא רצו לקבלנו ואל השלשה בגאוה ובוז נתן ל[...] בית קטן ומכוער ושאל מחיר רב והוכרחנו לתת שאלתו.",
-   "en": "21 Kislev, Sunday of Miqetz [21 December 1777]: we set out after prayers and reached in the evening the town of Longjumeau. There was a fair in the town, and at two inns they would not take us; and at the third, with pride and contempt, he gave [us] ⚠1 a small, ugly room and asked a high price, and we were forced to give what he asked.",
+   "he": "כסלו 21. א' מקץ נסענו אחר תפלה והגענו בערב לעיר לוגומו והיה יריד בעיר ובשתי אושפיזות לא רצו לקבלנו ואל השלשה בגאוה ובוז נתן לנו בית קטן ומכוער ושאל מחיר רב והוכרחנו לתת שאלתו.",
+   "en": "21 Kislev, Sunday of Miqetz [21 December 1777]: we set out after prayers and reached in the evening the town of Longjumeau. There was a fair in the town, and at two inns they would not take us; and at the third, with pride and contempt, he gave us ⚠1 a small, ugly room and asked a high price, and we were forced to give what he asked.",
    "notes": {
     "1": {
-     "he": "נתן ל[...]",
-     "note": "The end of the line is lost: the bottom corner of the leaf is torn away in this copy. Read as נתן לנו, \"gave us\"."
+     "he": "נתן לנו",
+     "note": "The end of the line is torn away in the NLI copy; the HebrewBooks copy of Freimann's edition (hebrewbooks.org 21838) reads נתן לנו."
     }
    }
   },
   {
    "start": "119:31",
    "head": false,
-   "he": "כסלו 22. ב' בבקר נסענו לפאריץ ולבי ירא וחרד על הבגדים ש[...] מחפשים ומבלשים מחוט ועד שרוך נעל שמא ח\"ו יתגוללו עלינו ול[...] בלבול הבגדים ומילי קטנ\"י עבידי דמגנבי או אבדורי אבדור [...] בחצות והשומרים עשו לנו כבוד גדול ושוב לקח המפתח [...] {f120} וראיה בעלמא לעילא מכל סגיא. והכהול הגדול לא נפתח, ואח\"כ נתתי לו מעות ולא רצה לקבל. ולקחנו קארוסא ובאנו אל בית הנעלה סי' דוד נאקיט ולא היה בביתו ואשתו אשת חיל קבלנו בשמחה ואח\"כ בא סי' דוד והלכתי עמו לשני חדרים שהשכיר בעדי ואח\"ך באו הגבירים לבקר ישלם ה' פעלם בבני סמיכי וחיי אריכי והעושר והכבוד נס\"ו. והזאת העיר פאריץ מטרפולין של צרפת עיר גדולה אמרו שיש מ\"ו מילין בהקפה והשווקים ומבואות רחבות שעוברות שתי קארוסאס בריוח עם שיהיו אנשים מן הצדדים ויש בה נהר סינא וממימיו מסתפקא ויש גשר א' רחב וארוך קורין לו פונוף ר\"ל פונטי נובו ולא תכלה רגל מן הגשר הנז' כל היום וכל הלילה ושם רילוג' סאמאריטאנה שהמים מקיפה. ואמרו שאין רגע בכ\"ד שעות של יום ולילה שלא נמצא בגשר הנז' סוס לבן וגלח וזונה. והעיר יפה ונמצא בה הכל רק שהכל הוא ביוקר אבל הזנות בזול ופרסום אמרו שיש שלשים אלף זונות מופקרות כתובות בפנקס חוץ מרבבות שאינם מופקרות לכל עובר. ויש בה קאדימייאס לרוב ופאבריקאס מכל דבר והיאודים בשלוה ויש הרבה אשכנזים והרבה פורטוגיזים מבורדיאוס ובאיונה והרבה אביניוניזים. ויש קהלות שמתפללים בכל שבת. אבל לא יש בה קהלה רק רובם אורחים סוחרים שם. וגם בתי כנסיות אינם בפריוויליחיו רק על פי הנס.",
-   "en": "22 Kislev [Monday 22 December 1777]: in the morning we set out for Paris, and my heart feared and trembled for the clothes, that [...] ⚠1 search and pry, from a thread to a shoelace [Gen 14:23], lest, God forbid, they fall upon us and [...] the clothes thrown into disorder; and small things are apt to be stolen or to be scattered [...] ⚠2 at midday. The guards did us great honor; then he took the key [...] and a mere look over the top of everything ⚠3. The large trunk ⚠4 was not opened. Afterwards I gave him money, and he would not take it. We took a carriage (carrozza) and came to the house of the noble Signor David Naquet. He was not at home, and his wife, a woman of valor, received us with joy; afterwards Signor David came, and I went with him to two rooms that he had rented for me. After that the gevirim came to visit. May the Lord repay their deeds with sons who are a support and with long life, wealth and honor, for ever, selah, and ever. This city of Paris is the metropolis of France, a great city; they say it is 46 ⚠5 miles round. The markets and streets are wide, so that two carriages pass with room to spare while there are people at the sides. The river Seine is in it, and it draws its water from it. There is a wide and long bridge they call Pont-Neuf, that is, Ponte Nuovo, and feet never cease from this bridge all day and all night; and there is the clock (orologio) of the Samaritaine, around which is the water. They say that there is not a moment in the twenty-four hours of day and night when there is not on this bridge a white horse, a priest and a harlot. The city is beautiful and everything is found in it, only everything is dear, but harlotry is cheap and open: they say there are thirty thousand registered prostitutes written in a ledger, besides tens of thousands who are not open to every passer-by. There are many academies in it and factories of every kind. The Jews live in quiet; there are many Ashkenazim and many Portuguese from Bordeaux and Bayonne, and many Avignonese. There are congregations that pray every Sabbath, but there is no [established] community in it; most of them are guests, merchants there. Nor are the synagogues by privilege (privilegio), only by a miracle ⚠6.",
+   "he": "כסלו 22. ב' בבקר נסענו לפאריץ ולבי ירא וחרד על הבגדים ששם מחפשים ומבלשים מחוט ועד שרוך נעל שמא ח\"ו יתגוללו עלינו ולא יהא אלא בלבול הבגדים ומילי קטנ\"י עבידי דמגנבי או אבדורי אבדור וכיוצא ובאנו בחצות והשומרים עשו לנו כבוד גדול ושוב לקח המפתח ופתח קצת מהסגרים {f120} וראיה בעלמא לעילא מכל סגיא. והכהול הגדול לא נפתח, ואח\"כ נתתי לו מעות ולא רצה לקבל. ולקחנו קארוסא ובאנו אל בית הנעלה סי' דוד נאקיט ולא היה בביתו ואשתו אשת חיל קבלנו בשמחה ואח\"כ בא סי' דוד והלכתי עמו לשני חדרים שהשכיר בעדי ואח\"ך באו הגבירים לבקר ישלם ה' פעלם בבני סמיכי וחיי אריכי והעושר והכבוד נס\"ו. והזאת העיר פאריץ מטרפולין של צרפת עיר גדולה אמרו שיש מ\"ו מילין בהקפה והשווקים ומבואות רחבות שעוברות שתי קארוסאס בריוח עם שיהיו אנשים מן הצדדים ויש בה נהר סינא וממימיו מסתפקא ויש גשר א' רחב וארוך קורין לו פונוף ר\"ל פונטי נובו ולא תכלה רגל מן הגשר הנז' כל היום וכל הלילה ושם רילוג' סאמאריטאנה שהמים מקיפה. ואמרו שאין רגע בכ\"ד שעות של יום ולילה שלא נמצא בגשר הנז' סוס לבן וגלח וזונה. והעיר יפה ונמצא בה הכל רק שהכל הוא ביוקר אבל הזנות בזול ופרסום אמרו שיש שלשים אלף זונות מופקרות כתובות בפנקס חוץ מרבבות שאינם מופקרות לכל עובר. ויש בה קאדימייאס לרוב ופאבריקאס מכל דבר והיאודים בשלוה ויש הרבה אשכנזים והרבה פורטוגיזים מבורדיאוס ובאיונה והרבה אביניוניזים. ויש קהלות שמתפללים בכל שבת. אבל לא יש בה קהלה רק רובם אורחים סוחרים שם. וגם בתי כנסיות אינם בפריוויליחיו רק על פי הנס.",
+   "en": "22 Kislev [Monday 22 December 1777]: in the morning we set out for Paris, and my heart feared and trembled for the clothes, for there ⚠1 they search and pry, from a thread to a shoelace [Gen 14:23], lest, God forbid, they fall upon us; and even if it were only the clothes thrown into disorder, small things are apt to be stolen or to be scattered ⚠2, and the like. We came at midday. The guards did us great honor; then he took the key and opened a few of the cases ⚠3: a mere look over the top of everything. The large trunk ⚠4 was not opened. Afterwards I gave him money, and he would not take it. We took a carriage (carrozza) and came to the house of the noble Signor David Naquet. He was not at home, and his wife, a woman of valor, received us with joy; afterwards Signor David came, and I went with him to two rooms that he had rented for me. After that the gevirim came to visit. May the Lord repay their deeds with sons who are a support and with long life, wealth and honor, for ever, selah, and ever. This city of Paris is the metropolis of France, a great city; they say it is 46 ⚠5 miles round. The markets and streets are wide, so that two carriages pass with room to spare while there are people at the sides. The river Seine is in it, and it draws its water from it. There is a wide and long bridge they call Pont-Neuf, that is, Ponte Nuovo, and feet never cease from this bridge all day and all night; and there is the clock (orologio) of the Samaritaine, around which is the water. They say that there is not a moment in the twenty-four hours of day and night when there is not on this bridge a white horse, a priest and a harlot. The city is beautiful and everything is found in it, only everything is dear, but harlotry is cheap and open: they say there are thirty thousand registered prostitutes written in a ledger, besides tens of thousands who are not open to every passer-by. There are many academies in it and factories of every kind. The Jews live in quiet; there are many Ashkenazim and many Portuguese from Bordeaux and Bayonne, and many Avignonese. There are congregations that pray every Sabbath, but there is no [established] community in it; most of them are guests, merchants there. Nor are the synagogues by privilege (privilegio), only by a miracle ⚠6.",
    "notes": {
     "1": {
-     "he": "על הבגדים ש[...]",
-     "note": "Here and in the next three lines the ends of the lines are lost: the bottom corner of the leaf (p. 119) is torn away in this copy. The 1885 printing does not have this passage."
+     "he": "ששם מחפשים",
+     "note": "The ends of this line and the next three are torn away in the NLI copy; restored from the HebrewBooks copy of Freimann's edition (hebrewbooks.org 21838): ששם, ולא יהא אלא, וכיוצא ובאנו, ופתח קצת מהסגרים. Marx and Liber, REJ 65 (1913), p. 249, who collated the autograph, have the same words. The 1885 printing does not have this passage."
     },
     "2": {
      "he": "ומילי קטנ\"י עבידי דמגנבי או אבדורי אבדור",
      "note": "Aramaic in the style of the Talmud: \"small things are apt to be stolen or scattered\"."
     },
     "3": {
-     "he": "וראיה בעלמא לעילא מכל סגיא",
-     "note": "The words before are lost; read as a mere look at the top of the luggage, not a full search. Uncertain."
+     "he": "ופתח קצת מהסגרים ... וראיה בעלמא לעילא מכל סגיא",
+     "note": "So Freimann; Marx and Liber, REJ 65 (1913), p. 249, read ופתח קצת מהבגדים, \"opened some of the clothes\". Either way the officer only glanced at the top of the luggage."
     },
     "4": {
      "he": "והכהול הגדול",
-     "note": "כהול is not clear; read from the context as the large trunk or case."
+     "note": "Freimann's own note corrects to והבהול, the large trunk (Italian baule), as Marx and Liber, REJ 65 (1913) also print."
     },
     "5": {
      "he": "מ\"ו מילין",
-     "note": "So printed (46); the 1885 printing has ט\"ו (15), the likelier figure."
+     "note": "So printed (46). The 1885 printing has ט\"ו (15), and so does Marx and Liber, REJ 65 (1913), p. 249, for a passage they collated with the autograph; 15 is the likelier figure."
     },
     "6": {
      "he": "רק על פי הנס",
@@ -344,28 +344,28 @@
   {
    "start": "120:27",
    "head": false,
-   "he": "כסלו 26. יום הששי הלכתי לקבל פני הגוי הנז' וישבתי שם שתי שעות והראה לי ספר בצרפת שכתוב שם שמות המלאכים וחותמיהן ואותיותיהן ושאלות חלום בהשבעות הכל בלשון צרפת והגוי הסביר לי פנים מאירות והלכתי [שם] עם סי' מרדכי וינטורה מדקדק ובקי בלשונות. והוא טורח עמי הרבה ישלם [ה' פע]לו.",
-   "en": "26 Kislev, Friday [26 December 1777]: I went to pay my respects to the gentile mentioned above and sat there two hours. He showed me a book in French in which are written the names of the angels, their seals and their letters, and dream questions with adjurations, all in French. The gentile showed me a shining face. I went [there] ⚠1 with Signor Mordecai Ventura, a grammarian and expert in languages; he takes much trouble for me; may [the Lord] repay his deed.",
+   "he": "כסלו 26. יום הששי הלכתי לקבל פני הגוי הנז' וישבתי שם שתי שעות והראה לי ספר בצרפת שכתוב שם שמות המלאכים וחותמיהן ואותיותיהן ושאלות חלום בהשבעות הכל בלשון צרפת והגוי הסביר לי פנים מאירות והלכתי שם עם סי' מרדכי וינטורה מדקדק ובקי בלשונות. והוא טורח עמי הרבה ישלם ה' פעלו.",
+   "en": "26 Kislev, Friday [26 December 1777]: I went to pay my respects to the gentile mentioned above and sat there two hours. He showed me a book in French in which are written the names of the angels, their seals and their letters, and dream questions with adjurations, all in French. The gentile showed me a shining face. I went there ⚠1 with Signor Mordecai Ventura, a grammarian and expert in languages; he takes much trouble for me; may the Lord repay his deed.",
    "notes": {
     "1": {
-     "he": "[שם] ... [ה' פע]לו",
-     "note": "The starts of these lines are lost (torn corner of the leaf); restored from the 1885 printing, which has שם and ה' פעלו."
+     "he": "שם ... ה' פעלו",
+     "note": "The starts of these lines are torn away in the NLI copy; the HebrewBooks copy of Freimann's edition (hebrewbooks.org 21838) reads שם and ה' פעלו, as does the 1885 printing."
     }
    }
   },
   {
    "start": "120:32",
    "head": false,
-   "he": "[כסלו] 27. ז'. שבת קדש בלילה הלכתי לסעוד אצל הגביר דוד נאקיט [...] פרנסים מבה\"כ וכמה יחידים והוא מהלך רב ועשו לי כבוד גדול. [...] ר\"ם וינטורה ור' מרדכי אשכנזי מעיר אברה די גראס בצרפת [...] וגם אשתו אשת חיל. וביום הלכנו לבה\"כ והיו משוררים [...] אשר יסדו עתה ושמו את שמי לראש. וקנו לי מצות {f121} פתיחה והולכת ס\"ת והתנדבו כמה שמן לבה\"כ לכבודי. וסעדתי אצל ר' דוד וסעדו עמנו סי' אליא פירפינייאן אחי בעלת הבית ואשתו שהיה להם מחלקת גדול ועדיין הם מטין ובקשו ממני בבורדיאוס שאעשה ש' ביניהם. ואחר הסעודה הלכנו לבה\"כ וציוו לי שאדרוש ודרשתי קצת תוכחות מוסר ובשבח חברת ג\"ח ואח\"ז מעצמם עשו נדבה לי בלי שאלה ישלם ה' פעלם.",
-   "en": "27 Kislev, Sabbath [27 December 1777]: on the night of the holy Sabbath [the evening of 26 December] I went to eat at the house of the gevir David Naquet. [...] ⚠1 wardens of the synagogue and several private men, and it is a long way; they did me great honor. [...] R. M. Ventura and R. Mordecai Ashkenazi of the town of Havre-de-Grâce in France [...] and his wife too is a woman of valor. In the day we went to the synagogue, and they sang [...] which they have now composed, and they set my name at the head ⚠2. They bought for me the honors of opening the ark and carrying the Torah scroll, and several pledged oil for the synagogue in my honor. I ate with R. David, and with us ate Signor Elijah Perpignan, the brother of the mistress of the house, and his wife; they had had a great quarrel, and they are still at odds ⚠3, and in Bordeaux they had asked me to make peace between them. After the meal we went to the synagogue, and they asked me to preach; I preached some moral reproof and in praise of the society for acts of kindness (gemilut ḥasadim). After this, of their own accord, they made a gift for me without being asked. May the Lord repay their deeds.",
+   "he": "[כסלו] 27. ז'. שבת קדש בלילה הלכתי לסעוד אצל הגביר דוד נאקיט ושם באו הפרנסים מבה\"כ וכמה יחידים והוא מהלך רב ועשו לי כבוד גדול. ואח\"ך סעדנו שם עם ר\"ם וינטורה ור' מרדכי אשכנזי מעיר אברה די גראס בצרפת ועשה הבעה\"ב כבוד גדול וגם אשתו אשת חיל. וביום הלכנו לבה\"כ והיו משוררים לכבוד חברת גמילות חסדים אשר יסדו עתה ושמו את שמי לראש. וקנו לי מצות {f121} פתיחה והולכת ס\"ת והתנדבו כמה שמן לבה\"כ לכבודי. וסעדתי אצל ר' דוד וסעדו עמנו סי' אליא פירפינייאן אחי בעלת הבית ואשתו שהיה להם מחלקת גדול ועדיין הם מטין ובקשו ממני בבורדיאוס שאעשה ש' ביניהם. ואחר הסעודה הלכנו לבה\"כ וציוו לי שאדרוש ודרשתי קצת תוכחות מוסר ובשבח חברת ג\"ח ואח\"ז מעצמם עשו נדבה לי בלי שאלה ישלם ה' פעלם.",
+   "en": "27 Kislev, Sabbath [27 December 1777]: on the night of the holy Sabbath [the evening of 26 December] I went to eat at the house of the gevir David Naquet, and there came the wardens ⚠1 of the synagogue and several private men, and it is a long way; they did me great honor. Afterwards we dined there with R. M. Ventura and R. Mordecai Ashkenazi of the town of Havre-de-Grâce in France, and the master of the house did [me] great honor, and his wife too is a woman of valor. In the day we went to the synagogue, and they sang in honor of the society for acts of kindness (gemilut ḥasadim) that they have now founded, and they set my name at the head ⚠2. They bought for me the honors of opening the ark and carrying the Torah scroll, and several pledged oil for the synagogue in my honor. I ate with R. David, and with us ate Signor Elijah Perpignan, the brother of the mistress of the house, and his wife; they had had a great quarrel, and they are still at odds ⚠3, and in Bordeaux they had asked me to make peace between them. After the meal we went to the synagogue, and they asked me to preach; I preached some moral reproof and in praise of the society for acts of kindness (gemilut ḥasadim). After this, of their own accord, they made a gift for me without being asked. May the Lord repay their deeds.",
    "notes": {
     "1": {
-     "he": "[...] פרנסים",
-     "note": "The starts of lines 33 to 36 of p. 120 are lost (torn corner of the leaf in this copy); the 1885 printing does not have this entry."
+     "he": "ושם באו הפרנסים",
+     "note": "The starts of lines 33-36 of p. 120 are torn away in the NLI copy; restored from the HebrewBooks copy of Freimann's edition (hebrewbooks.org 21838): ושם באו הפרנסים, ואח\"ך סעדנו שם עם, ועשה הבעה\"ב כבוד גדול, לכבוד חברת גמילות חסדים. Marx and Liber, REJ 65 (1913), p. 250, have the same words from the autograph. The 1885 printing does not have this entry."
     },
     "2": {
      "he": "ושמו את שמי לראש",
-     "note": "Perhaps a hymn with his name in acrostic, or simply \"they put my name first\"."
+     "note": "They put his name first, probably on the list of the new society; no hymn or acrostic is named. That evening he preached in praise of the same society."
     },
     "3": {
      "he": "ועדיין הם מטין",

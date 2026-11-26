@@ -3684,7 +3684,8 @@
     "at": [
      "F2.15"
     ]
-   }
+   },
+   "Ḥ\\[akham\\] S\\[amuel\\] b\\[en\\] Ḥ\\[ayyim\\]"
   ],
   "desc": "A sage who went with the Ḥida from Jerusalem as his servant; he was lost one night in the desert and was questioned by the parnasim of Bamberg."
  },
@@ -7565,7 +7566,7 @@
   "patterns": [
    "R\\. Joshua Kohen Tanugi"
   ],
-  "desc": "Sage of Tunis named with Moses, son of the qaid; the sentence may instead make him the qaid."
+  "desc": "The qaid of Tunis and the Ḥida's host there in 1773; his son Moses invited the Ḥida in his father's name."
  },
  {
   "id": "joseph-karo",
@@ -13739,7 +13740,7 @@
    "Ḥ\\. R\\. M\\. T\\.",
    "Mordecai Tama"
   ],
-  "desc": "Sage who met the Ḥida on the road and showed him manuscripts. Took great trouble for the Ḥida in Bordeaux; later he heard that Tama read Voltaire and had a concubine in America."
+  "desc": "Sage who met the Ḥida on the road and showed him manuscripts. Took great trouble for the Ḥida in Bordeaux; later he heard that Tama read Voltaire and had a concubine in America. Probably Mordecai son of Isaac Tama of Hebron, publisher of Pe'er ha-Dor (Amsterdam 1765)."
  },
  {
   "id": "benjamin-abraham",
@@ -14048,9 +14049,9 @@
  {
   "id": "meze",
   "type": "place",
-  "name": "Mèze",
+  "name": "Moux (printed Mitz; Freimann: Mèze)",
   "patterns": [
-   "Mèze"
+   "Mitz \\[probably Moux\\]"
   ]
  },
  {
@@ -16503,7 +16504,7 @@
   "patterns": [
    "Benjamin de Mont(?:eux|ilitz)"
   ],
-  "desc": "Very rich; father-in-law of Azriel Carmi."
+  "desc": "Very rich; father-in-law of Azriel Carmi. Surname also written Montélis, Montel, Monteux: his daughter Léa Montel married Azariel Crémieux at Carpentras, 23 March 1776 (J.-C. Cohen, genealogy)."
  },
  {
   "id": "azriel-carmi",
@@ -16518,7 +16519,7 @@
     ]
    }
   ],
-  "desc": "Brother of Solomon and Mordecai of Carpentras; a gambler who lost six thousand francs."
+  "desc": "Brother of Solomon and Mordecai of Carpentras; a gambler who lost six thousand francs. In French records Azariel Crémieux; married Léa Montel, daughter of Benjamin, at Carpentras on 23 March 1776 (J.-C. Cohen, genealogy)."
  },
  {
   "id": "solomon-carmi",
