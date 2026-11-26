@@ -341,11 +341,15 @@
    "start": "5:4",
    "head": false,
    "he": "תשרי 27. יום ה' נסענו והגענו לפלורינציא אור הששי כ\"ח בו וחנינו באושפיזת יצחק גאליטי ה\"י והלכתי שם בחצ\"ר הד\"ר ושם ראיתי אריות ונמרים ושאר כנותהן כי חיו\"ת הנה ומידי עוברי ראתה עיני גנות הטיול שקורין גיארדינים.",
-   "en": "27 Tishrei, Thursday [25 October 1753]: we set out and reached Florence on the night of Friday, the 28th [the evening of Thursday 25 October 1753], and lodged at the inn of Isaac Galletti, may God keep him. There I went into the court of the Duke ⚠1, and there I saw lions, leopards and the rest of their kind, for they are alive [Exod 1:19]; and in passing my eyes saw the pleasure gardens they call giardini.",
+   "en": "27 Tishrei, Thursday [25 October 1753]: we set out and reached Florence on the night of Friday, the 28th [the evening of Thursday 25 October 1753], and lodged at the inn of Isaac Galletti, may God keep him. There I went into the court of the Duke ⚠1, and there I saw lions, leopards and the rest of their kind, alive, \"for they are ḥayot\" ⚠2 [Exod 1:19]; and in passing my eyes saw the pleasure gardens they call giardini.",
    "notes": {
     "1": {
      "he": "בחצ\"ר הד\"ר",
      "note": "Both words marked; read as \"the court of the Duke\" (the grand-ducal palace). Uncertain."
+    },
+    "2": {
+     "he": "כי חיו\"ת הנה",
+     "note": "Exod 1:19, \"for they are lively (ḥayot)\", said of the Hebrew midwives; here ḥayot, marked as a pun, also means wild beasts. The point is that he saw the animals living, in the Duke's menagerie. Cf. \"as if, God forbid, a wild beast (ḥayah ra'ah) had come\" a few entries later."
     }
    }
   },
@@ -374,11 +378,11 @@
    "start": "5:29",
    "head": false,
    "he": "חשון 15. פ' וירא יום ב' נסענו מליפייאנו והגענו לעיר אורבינו אור לארבעה טו\"ב חשון הזאת העיר ראשית ממלכת האפיפיור ובני ישראל אשר שם עניים מרודים.",
-   "en": "15 Ḥeshvan, the week of Vayera, Monday [12 November 1753]: we set out from Lippiano and reached the city of Urbino on the night of Wednesday ⚠1 [the evening of Tuesday 13 November 1753]. This city is the first of the Pope's dominion, and the Jews who are there are wretchedly poor.",
+   "en": "15 Ḥeshvan, the week of Vayera, Monday [12 November 1753]: we set out from Lippiano and reached the city of Urbino on the night of Wednesday, the seventeenth ⚠1 of Ḥeshvan [the evening of Tuesday 13 November 1753]. This city is the first of the Pope's dominion, and the Jews who are there are wretchedly poor.",
    "notes": {
     "1": {
      "he": "אור לארבעה טו\"ב חשון",
-     "note": "So printed. The night of Wednesday fell on 17 Ḥeshvan, not 15; טו\"ב may be a play on \"good\" rather than a date. Uncertain."
+     "note": "טו\"ב is 17 (9 + 6 + 2), written so as to spell \"good\". The night of Wednesday 17 Ḥeshvan 5514 was the evening of Tuesday 13 November 1753, so the date and the weekday agree."
     }
    }
   }
