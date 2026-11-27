@@ -8,16 +8,18 @@
   {
    "start": "41:1",
    "head": false,
-   "he": "אדר א' 2. תרומה ג' בחצות נסענו מטורינו ובאנו לוירצילי תחלת ליל חמשי ונתאכסנתי בבית האחים הנעימים כמהר\"ר יעקב וכמהח\"ר בנימין סיגרי הי\"ו ודרשתי פ' תרומה ופ' תצוה והטו אלי חסד ושם ראיתי א\"ז גדול כ\"י וצבי מודח וקול הרמ\"ז גדול מאד מהנדפס וקינת הרמ\"ז על ה' נד\"ת ז\"ל וסיפורי ש\"ץ ומאמרות הרמ\"ע ז\"ל כ\"י.",
-   "en": "2 Adar I [Tuesday 3 February 1756], the week of Terumah: at midday we set out from Turin, and we came to Vercelli at the beginning of the night of Thursday [the evening of Wednesday 4 February 1756]. I lodged in the house of the pleasant brothers, our teacher R. Jacob and our teacher R. Benjamin Segre, may their Rock keep them, and I preached on the portions Terumah and Tetzaveh, and they showed me kindness. There I saw the Or Zarua ha-Gadol in manuscript; Tsevi Mudaḥ ⚠1; the Kol ha-Remez [of Moses Zacuto], much larger than the printed one; the lament of the Remez on ה' נד\"ת ⚠2, of blessed memory; the stories of Sh. Ts. ⚠3; and the Ma'amarot of the Rema [Menaḥem Azariah of Fano], of blessed memory, in manuscript.",
+   "he": "אדר א' 2. תרומה ג' בחצות נסענו מטורינו ובאנו לוירצילי תחלת ליל חמשי ונתאכסנתי בבית האחים הנעימים כמהר\"ר יעקב וכמהח\"ר בנימין סיגרי הי\"ו ודרשתי פ' תרומה ופ' תצוה והטו אלי חסד ושם ראיתי א\"ז גדול כ\"י וצבי מודח וקול הרמ\"ז גדול מאד מהנדפס וקינת הרמ\"ז על ה' גד\"ת ז\"ל וסיפורי ש\"ץ ומאמרות הרמ\"ע ז\"ל כ\"י.",
+   "en": "2 Adar I [Tuesday 3 February 1756], the week of Terumah: at midday we set out from Turin, and we came to Vercelli at the beginning of the night of Thursday [the evening of Wednesday 4 February 1756]. I lodged in the house of the pleasant brothers, our teacher R. Jacob and our teacher R. Benjamin Segre, may their Rock keep them, and I preached on the portions Terumah and Tetzaveh, and they showed me kindness. There I saw the Or Zarua ha-Gadol in manuscript; Tsevi Mudaḥ ⚠1; the Kol ha-Remez [of Moses Zacuto], much larger than the printed one; the lament of the Remez on the rabbi of Giddulei Terumah [Azariah Figo] ⚠2, of blessed memory; the stories of Sh. Ts. ⚠3; and the Ma'amarot of the Rema [Menaḥem Azariah of Fano], of blessed memory, in manuscript.",
    "notes": {
     "1": {
      "he": "וצבי מודח",
-     "note": "Title of a work, given as printed; the words are from Isa 13:14, כצבי מדח, \"like a hunted gazelle\". Apparently a text about Shabbetai Tsevi (\"Tsevi the outcast\"). Not identified further."
+     "note": "Title of a work, given as printed; the words are from Isa 13:14, כצבי מדח, \"like a hunted gazelle\". A text about Shabbetai Tsevi. Freimann: it was printed in Kovetz al Yad, vol. 1, in 1885.",
+     "kind": "note"
     },
     "2": {
-     "he": "וקינת הרמ\"ז על ה' נד\"ת ז\"ל",
-     "note": "The abbreviation ה' נד\"ת is not resolved; a lament of Zacuto on a person or event, left as printed."
+     "he": "וקינת הרמ\"ז על ה' גד\"ת ז\"ל",
+     "note": "ה' גד\"ת is הרב גידולי תרומה, the author of Giddulei Terumah, R. Azariah Figo (died 1647). Freimann: the lament is printed in Kol Ugav of R. Abraham Baruch Piperno, Livorno 1846, f. 16. In the print the ג is hard to tell from נ; the first reading here was נד\"ת.",
+     "kind": "note"
     },
     "3": {
      "he": "וסיפורי ש\"ץ",
@@ -29,11 +31,16 @@
    "start": "41:6",
    "head": false,
    "he": "אדר א' 14. תשא א' אחר חצות נסענו מוירצילי ובאנו לקאסאלי די מונפיראט ליל ב' והיה לנו צער אצל החכם ושלחו היאודים ולקחונו לשלום ונתאכסנתי אצל הקצין כמהח\"ר שמעון חיים לוי מורילו הי\"ו והפליא לעשות עמדי חסד וכל בני ביתו ודרשתי פ' תשא והיה לי אהבה יתירה עם הרב הג' מ\"ד מהר\"ש דיל ויקייו נר\"ו.",
-   "en": "14 Adar I [Sunday 15 February 1756], the week of Ki Tissa: after midday we set out from Vercelli, and we came to Casale Monferrato on the night of Monday [the evening of Sunday 15 February 1756]. We had trouble at the ḥakham ⚠1, and the Jews sent and took us in peace. I lodged with the notable, our teacher R. Simeon Ḥayyim Levi Morello, may his Rock keep him, who did me wonderful kindness, he and all his household. I preached on the portion Ki Tissa, and I had a special affection with the great rabbi, the head of the court, our teacher R. Samuel Del Vecchio, may his light shine.",
+   "en": "14 Adar I [Sunday 15 February 1756], the week of Ki Tissa: after midday we set out from Vercelli, and we came to Casale Monferrato on the night of Monday [the evening of Sunday 15 February 1756]. We had trouble at the ḥakham ⚠1, and the Jews sent and took us in peace. I lodged with the notable, our teacher R. Simeon Ḥayyim Levi Morello, may his Rock keep him, who did me wonderful kindness, he and all his household. I preached on the portion Ki Tissa, and I had a special affection with the great rabbi, the head of the court, our teacher R. Shabbetai Elḥanan Del Vecchio ⚠2, may his light shine.",
    "notes": {
     "1": {
      "he": "צער אצל החכם",
-     "note": "So printed. The trouble may rather have been at the customs house (המכס), which a one-letter change would give; \"the ḥakham\" (here perhaps a gentile official) is kept."
+     "note": "So printed. Freimann: perhaps read המכס, the customs house. That fits the sense: the trouble was at the customs, and the Jews sent and brought them in."
+    },
+    "2": {
+     "he": "מהר\"ש דיל ויקייו",
+     "kind": "note",
+     "note": "Printed with the initial only (מהר\"ש). Freimann: R. Shabbetai Elḥanan Del Vecchio (מהזקנים); see Nepi-Ghirondi, Toledot Gedolei Yisrael, p. 321."
     }
    }
   },
@@ -45,7 +52,7 @@
    "notes": {
     "1": {
      "he": "כמהר\"א הלוי",
-     "note": "Given by initial only; the first name (A.) is not resolved."
+     "note": "Given by initial only. Freimann does not give the name; he refers to Nepi-Ghirondi, p. 13."
     },
     "2": {
      "he": "יהא שלמ\"א רבא משמיא",
@@ -83,7 +90,7 @@
     },
     "2": {
      "he": "מארזוק\"י-פיניר",
-     "note": "Not identified; apparently a Turkish or Arabic name of another optical show or lantern (fener = lantern). Given as printed."
+     "note": "Not identified; apparently a Turkish or Arabic name of another optical show or lantern (fener = lantern). Freimann gives the word in Arabic letters, without a translation."
     },
     "3": {
      "he": "ח' שב\"ח",
@@ -123,11 +130,16 @@
    "start": "42:15",
    "head": false,
    "he": "סיון 26. קרח ג' יצאתי מליוורנו בלויה גדולה ומהם הרבנים כמהר\"א שפירא ומהר\"י עאייש ומהר\"ח בונדי וחר\"א סיגרי וחר\"א כהן וחר\"ד רקח והגביר המשכיל סי' מיכאל ודעמייהו בכבוד גדול בספינה ראגוזיאה. ורב החובל גואנו קאזילאר.",
-   "en": "26 Sivan [Tuesday 14 June 1757], the week of Koraḥ: I left Livorno with a great escort, among them the rabbis, our teacher R. A. Shapira, R. Y. Ayash, R. Ḥ. Bondi, the ḥakham R. A. Segre, the ḥakham R. E. Kohen and the ḥakham R. David Rakaḥ, and the learned gevir Signor Michael, and those with them, with great honor, in a Ragusan ship; the captain was Giovanni Caselar ⚠1.",
+   "en": "26 Sivan [Tuesday 14 June 1757], the week of Koraḥ: I left Livorno with a great escort, among them the rabbis, our teacher R. A. Shapira, R. Judah Ayash ⚠2, R. Ḥ. Bondi, the ḥakham R. A. Segre, the ḥakham R. E. Kohen and the ḥakham R. David Rakaḥ, and the learned gevir Signor Michael, and those with them, with great honor, in a Ragusan ship; the captain was Giovanni Caselar ⚠1.",
    "notes": {
     "1": {
      "he": "גואנו קאזילאר",
      "note": "Read Giovanni Caselar; the first letter of גואנו is a marked gimel in the print."
+    },
+    "2": {
+     "he": "מהר\"י עאייש",
+     "kind": "note",
+     "note": "Printed with the initial only. Freimann: R. Judah Ayash, head of the court and of the yeshivah for all the kingdom of Algiers, who gave his approbation to Sha'ar Yosef on Rosh Ḥodesh Tevet 5517 (December 1756)."
     }
    }
   },
@@ -229,8 +241,14 @@
    "start": "43:23",
    "head": false,
    "he": "אלול 1. שופטים ד' עברתי בגאליפולי לקבל פני הר' משה ן' חביב נר\"ו.",
-   "en": "1 Elul [Wednesday 17 August 1757], the week of Shofetim: I passed through Gallipoli to greet the rabbi, R. Moses ibn Ḥabib, may his light shine.",
-   "notes": {}
+   "en": "1 Elul [Wednesday 17 August 1757], the week of Shofetim: I passed through Gallipoli to greet the rabbi, R. Moses ibn Ḥabib ⚠1, may his light shine.",
+   "notes": {
+    "1": {
+     "he": "הר' משה ן' חביב",
+     "note": "Freimann: perhaps the author of Etz ha-Da'at.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "43:24",
@@ -242,12 +260,12 @@
   {
    "start": "43:25",
    "head": false,
-   "he": "אלול 6. תצא ב' נכנסתי לקושטא' ולקחתי הודה בייני חאן ואח\"ך נתאכסנתי אצל השר המרומם ומתנהג בחסידות כמה\"ר שמואל הלוי הי' והפליא להיטיב ולהסביר לי פנים הוא וכל בני ביתו וביחוד חתנו החכם המ' הן גביר כמ\"ה משה אנגיל הי' וינטלם וינשאם כל ימי עולם ולא יזח החוש\"ן ולא יטה לארץ מנלם כי\"ר.",
+   "he": "אלול 6. תצא ב' נכנסתי לקושטא' ולקחתי הודה בייני חאן ואח\"ך נתאכסנתי אצל השר המרומם ומתנהג בחסידות כמה\"ר שמואל הלוי הי' והפליא להיטיב ולהסביר לי פנים הוא וכל בני ביתו וביחוד חתנו החכם המ' הן גביר כמ\"ה משה אנגיל הי' וינטלם וינשאם כל ימי עולם ולא יזח החוס\"ן ולא יטה לארץ מנלם כי\"ר.",
    "en": "6 Elul [Monday 22 August 1757], the week of Ki Tetze: I entered Constantinople and took a room (oda) in the Yeni Han. Afterwards I lodged with the exalted official, who conducts himself in piety, our teacher R. Samuel ha-Levi, may God keep him. He did me wonderful good and showed me a friendly face, he and all his household, above all his son-in-law, the ḥakham, the exalted one, a gevir, our teacher R. Moses Angel, may God keep him. May He lift them and carry them all the days of old [Isa 63:9]; may the breastplate not be loosed [Exod 28:28] ⚠1, and may their possessions not be bent to the ground [Job 15:29], amen, may it be His will.",
    "notes": {
     "1": {
-     "he": "ולא יזח החוש\"ן",
-     "note": "Exod 28:28, ולא יזח החשן. The marked חוש\"ן points to חֹסֶן, \"wealth\" (Prov 27:24): may their wealth not move from them. The next words (Job 15:29) say the same.",
+     "he": "ולא יזח החוס\"ן",
+     "note": "Exod 28:28, ולא יזח החשן, \"the breastplate shall not be loosed\". The print has החוס\"ן, with ס and with marks: חֹסֶן, \"wealth\" (Prov 27:24), for חשן. May their wealth not move from them. The next words (Job 15:29) say the same.",
      "kind": "note"
     }
    }
@@ -275,7 +293,7 @@
    "start": "43:31",
    "head": false,
    "he": "חשון 2. לך לך א' ראיתי נור די הוצמאנייה. פתח המשנה מנגד. ייאסופיא סבילאני. פלטין של התאראפאנה. אצלאאנה. ליאון קאפלאן. קורט. אוריגה {f44}די דראגו. ראש פיל. ראש מימסאח. בישיסטין אגוגה אלפיניטי. חצר משוגעים: ולהבדיל הלכתי והתפללתי מנחה בק\"ק אחריד\"ה ושם ראיתי כתובים על קלף נכתבו ש' ה' אלפים מ\"ד. וראיתי ק\"ק ייאנבול. וק\"ק גאנה. וק\"ק וידיא. וק\"ק חברה. וק\"ק אליאו מחוץ לבאלאט. וראיתי בית החיים של היגרי קאפי ונשתטחתי על מצבת הגאון הרא\"ם ז\"ל וראיתי אוצר המים אשר ממנו הולכים לכל קושטא' ובנותיה וראיתי שו\"ת ה' כנה\"ג ז\"ל י\"ד וח\"מ. קמיעות. וחרב של מהר\"ר נפתלי ז\"ל דברים מופלאים. וראיתי ספר שחיבר ממזר א' שטיהר זרעו בשפחה ומהריב\"ל והר\"א ן' יעיש פקפקי והוא חיבר ס' על זה והסכימו עמו מרן והרדב\"ז והמבי\"ט והרב אלשיך ז\"ל ושם ראיתי חתימתם. וספר משמרת המצות ומגילת ספר ח\"ב וחלקו של בנימין.",
-   "en": "2 Ḥeshvan [Sunday 16 October 1757], the week of Lekh Lekha: I saw the Nuruosmaniye [mosque]; the gate of the second to the king [the Sublime Porte] opposite; Hagia Sophia; the sebils ⚠1; the palace of the Tarapana [the mint]; the Aslanhane [the house of lions]: a lion, a leopard (kaplan), a wolf (kurt), an oriega di drago ⚠2, an elephant's head, a crocodile's (timsah) head; the Bedesten; aguja alfinete ⚠3; the court of the madmen ⚠4. And, to make a distinction, I went and prayed the afternoon prayer in the holy congregation Aḥrida, and there I saw writings on parchment that were written in the year 5044 [1284]. I saw the holy congregation Yanbol, the holy congregation Gana, the holy congregation Vidia, the holy congregation Ḥevrah, and the holy congregation Eliau outside Balat. I saw the cemetery of Eğri Kapı, and I prostrated myself on the tombstone of the gaon the Re'em [Elijah Mizraḥi], of blessed memory. I saw the reservoir of water from which [the waters] go to all Constantinople and its suburbs. I saw the responsa of the rabbi of the Kenesset ha-Gedolah [Ḥayyim Benveniste], of blessed memory, on Yoreh De'ah and Ḥoshen Mishpat; amulets; and the sword of our teacher R. Naphtali, of blessed memory: wonderful things. I saw a book written by a mamzer who had purified his seed through a slave woman. The Maharibal [Joseph ibn Lev] and R. A. ibn Ya'ish had doubts, and he wrote a book on it, and Maran [Joseph Karo], the Radbaz, the Mabit and Rabbi Alshekh, of blessed memory, agreed with him; I saw their signatures there. And the book Mishmeret ha-Mitsvot, Megillat Sefer part 2, and Ḥelko shel Binyamin.",
+   "en": "2 Ḥeshvan [Sunday 16 October 1757], the week of Lekh Lekha: I saw the Nuruosmaniye [mosque]; the gate of the second to the king [the Sublime Porte] opposite; Hagia Sophia; the sebils ⚠1; the palace of the Tarapana [the mint]; the Aslanhane [the house of lions]: a lion, a leopard (kaplan), a wolf (kurt), an oriega di drago ⚠2, an elephant's head, a crocodile's (timsah) head; the Bedesten; aguja alfinete ⚠3; the court of the madmen ⚠4. And, to make a distinction, I went and prayed the afternoon prayer in the holy congregation Aḥrida, and there I saw writings on parchment that were written in the year 5044 [1284]. I saw the holy congregation Yanbol, the holy congregation Gana, the holy congregation Vidia, the holy congregation Ḥevrah, and the holy congregation Eliau outside Balat. I saw the cemetery of Eğri Kapı, and I prostrated myself on the tombstone of the gaon the Re'em [Elijah Mizraḥi], of blessed memory. I saw the reservoir of water from which [the waters] go to all Constantinople and its suburbs ⚠5. I saw the responsa of the rabbi of the Kenesset ha-Gedolah [Ḥayyim Benveniste], of blessed memory, on Yoreh De'ah and Ḥoshen Mishpat; amulets; and the sword of our teacher R. Naphtali, of blessed memory: wonderful things. I saw a book written by a mamzer who had purified his seed through a slave woman. The Maharibal [Joseph ibn Lev] and R. Abraham ibn Ya'ish had doubts, and he wrote a book on it, and Maran [Joseph Karo], the Radbaz, the Mabit and Rabbi Alshekh, of blessed memory, agreed with him; I saw their signatures there. And the book Mishmeret ha-Mitsvot, Megillat Sefer part 2, and Ḥelko shel Binyamin ⚠6.",
    "notes": {
     "1": {
      "he": "ייאסופיא סבילאני",
@@ -283,15 +301,26 @@
     },
     "2": {
      "he": "אוריגה די דראגו",
-     "note": "Unclear; a 'dragon' exhibit among the animals, perhaps a stuffed crocodile or a large lizard."
+     "note": "Ladino. Freimann explains דראגו as תנין: a crocodile or a great reptile among the animals. אוריגה is not explained."
     },
     "3": {
      "he": "בישיסטין אגוגה אלפיניטי",
-     "note": "Ladino words, \"needle, pin\"; perhaps the needle-makers' market by the Bedesten. Not certain."
+     "note": "Ladino words, \"needle, pin\"; perhaps the needle-makers' market by the Bedesten. Freimann gives only the transcription (Aguga Alfinete). Not certain."
     },
     "4": {
      "he": "חצר משוגעים",
-     "note": "Literally \"court of the madmen\": a madhouse, or perhaps the lodge of the howling dervishes."
+     "note": "Literally \"court of the madmen\". Freimann: the howling dervishes.",
+     "kind": "note"
+    },
+    "5": {
+     "he": "אוצר המים",
+     "note": "Freimann: built by Mahmud I in 1732.",
+     "kind": "note"
+    },
+    "6": {
+     "he": "ומגילת ספר ח\"ב וחלקו של בנימין",
+     "note": "Freimann: Megillat Sefer is on the Semag and Ḥelko shel Binyamin is on the Rambam; both are by R. Benjamin Kazes. R. Abraham ibn Ya'ish is printed with the initial only; the name is Freimann's.",
+     "kind": "note"
     }
    }
   },
@@ -334,7 +363,7 @@
     },
     "7": {
      "he": "ואחריו לא היה חרב",
-     "note": "So printed; לא does not fit the sense and is left untranslated."
+     "note": "So printed; לא does not fit the sense and is left untranslated. Freimann: this is the sword of Osman, with which they girded the sultan in the Eyüp mosque."
     },
     "8": {
      "he": "שבע פארו\"ת הטובות",
@@ -356,7 +385,7 @@
    "notes": {
     "1": {
      "he": "במיבלוד",
-     "note": "Read as the Mevlid, the Prophet's birthday, 12 Rabi' I 1171, which fell on 24 November 1757; the sultan went in procession to the mosque that day. It could also be the name of a place."
+     "note": "Read as the Mevlid, the Prophet's birthday, 12 Rabi' I 1171, which fell on 24 November 1757; the sultan went in procession to the mosque that day. Freimann takes it as the name of a palace in Istanbul, and ארזואלים as \"amnesty\"; arzuhal is a petition."
     }
    }
   },
@@ -364,8 +393,14 @@
    "start": "45:12",
    "head": false,
    "he": "כסליו 25. מקץ ד' יום א' של חנוכה הלכתי לקיהאת חאני עם החה\"ש כמהר\"ר אליא פאלומבו והח' המ' נפתלי הכהן הי' וראיתי שני סדרי יורות מים מקלחים ושם ג' קיושקים נחשת מוזהב שעשאן סולטאן אחמיט לבניו והוא מקום נוי ומרחב יפה אף נעים בהיכלות וביריונות יפות.",
-   "en": "25 Kislev [Wednesday 7 December 1757], the week of Miketz, the first day of Ḥanukkah: I went to Kâğıthane with the complete sage, our teacher R. Elijah Palombo, and the ḥakham, the exalted Naphtali ha-Kohen, may God keep them. I saw two rows of cascades of flowing water, and there are three kiosks of gilded copper there, which Sultan Ahmed made for his sons. It is a place of beauty and a fine open space, pleasant too with palaces and fine mansions.",
-   "notes": {}
+   "en": "25 Kislev [Wednesday 7 December 1757], the week of Miketz, the first day of Ḥanukkah: I went to Kâğıthane with the complete sage, our teacher R. Elijah Palombo ⚠1, and the ḥakham, the exalted Naphtali ha-Kohen, may God keep them. I saw two rows of cascades of flowing water, and there are three kiosks of gilded copper there, which Sultan Ahmed made for his sons. It is a place of beauty and a fine open space, pleasant too with palaces and fine mansions.",
+   "notes": {
+    "1": {
+     "he": "כמהר\"ר אליא פאלומבו",
+     "note": "Freimann: the author of Yad ha-Melekh.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "45:16",

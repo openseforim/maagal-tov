@@ -6796,11 +6796,11 @@
  {
   "id": "samuel-del-vecchio",
   "type": "person",
-  "name": "Samuel Del Vecchio, rabbi of Casale",
+  "name": "Shabbetai Elḥanan Del Vecchio, rabbi of Casale",
   "patterns": [
-   "R\\. Samuel Del Vecchio"
+   "R\\. Shabbetai Elḥanan Del Vecchio"
   ],
-  "desc": "Head of the court at Casale Monferrato, with whom the Ḥida had a special affection."
+  "desc": "Head of the court at Casale Monferrato, with whom the Ḥida had a special affection. The diary has the initial only; the name is Freimann's."
  },
  {
   "id": "israel-ha-kohen-vitali",
@@ -6903,16 +6903,16 @@
  {
   "id": "y-ayash",
   "type": "person",
-  "name": "Y. Ayash",
+  "name": "Judah Ayash of Algiers",
   "patterns": [
    {
-    "rx": "R\\. Y\\. Ayash",
+    "rx": "R\\. Judah Ayash",
     "at": [
      "F5.7"
     ]
    }
   ],
-  "desc": "Rabbi who escorted the Ḥida out of Livorno in June 1757; probably Judah Ayash of Algiers, then on his way to Jerusalem."
+  "desc": "Rabbi who escorted the Ḥida out of Livorno in June 1757. Freimann: head of the court of Algiers, who gave his approbation to Sha'ar Yosef in Tevet 5517."
  },
  {
   "id": "a-segre-livorno",
@@ -7085,7 +7085,7 @@
   "patterns": [
    "R\\. Elijah Palombo"
   ],
-  "desc": "Sage who went with the Ḥida to Kâğıthane on Ḥanukkah 1757."
+  "desc": "Sage who went with the Ḥida to Kâğıthane on Ḥanukkah 1757. Freimann: the author of Yad ha-Melekh."
  },
  {
   "id": "naphtali-ha-kohen-constantinople",
@@ -7655,9 +7655,9 @@
  {
   "id": "a-ibn-yaish",
   "type": "author",
-  "name": "A. ibn Ya'ish",
+  "name": "Abraham ibn Ya'ish",
   "patterns": [
-   "R\\. A\\. ibn Ya'ish"
+   "R\\. Abraham ibn Ya'ish"
   ],
   "desc": "Had doubts with the Maharibal on the case of the mamzer who purified his seed."
  },
@@ -7827,7 +7827,7 @@
   "patterns": [
    "Megillat Sefer"
   ],
-  "desc": "Its part 2 was seen in Constantinople."
+  "desc": "Its part 2 was seen in Constantinople. Freimann: on the Semag, by R. Benjamin Kazes."
  },
  {
   "id": "b-helko-shel-binyamin",
@@ -7836,7 +7836,7 @@
   "patterns": [
    "Ḥelko shel Binyamin"
   ],
-  "desc": "Book seen in Constantinople."
+  "desc": "Book seen in Constantinople. Freimann: on the Rambam, by R. Benjamin Kazes."
  },
  {
   "id": "b-parashat-derakhim",
