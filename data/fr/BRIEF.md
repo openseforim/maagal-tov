@@ -71,7 +71,7 @@ so you do not know the people of the pages before yours: identify people from yo
 
 ### What the first pass missed (reviews of parts 2–5, 27-Nov-2026)
 
-Four outside reviews and one own review of parts 2–5 found the same two faults again and again. Check for both before
+Three outside reviews and one own review of parts 2–5 found the same three faults again and again. Check for all before
 you write "uncertain", "not resolved" or "read as":
 
 1. **Rabbinic allusions, above all the Talmud.** The first pass found most Bible verses, but it missed the Mishnah,
@@ -90,9 +90,18 @@ you write "uncertain", "not resolved" or "read as":
    חיכ"י for חיקי (Ps 35:13), חיי"ם (life, and his own name Ḥayyim), לטע"ון (to load, to plead), הספור for הספר.
    Often the changed word is a homophone (צ/ש, כ/ק, ס/ש, ח/ה, ע/א) of the word in the source.
 
-Three smaller patterns: a verb next to חיי"ם, יוסף or דוד usually tells what happened to the writer himself; ליל ה'
-is the evening before Thursday, so do not write "Thursday night"; and Freimann's footnotes often settle a name or a
-date, so read them before you mark a name as not identified (say "Freimann:" in the note).
+3. **Freimann's footnotes were not read on every page.** `input.txt` has no footnote block, and the OCR of the small
+   footnote type is not usable, so the first pass used the footnotes on some pages and not on others. Read the
+   footnotes of **every** page from the image (crop the part below the rule and upscale it 2×). Then go through them
+   one by one against your notes. They settle names (מהרא"ג = R. Abraham Gedaliah; the rabbi of Fürth = R. David
+   Strauss; the son at Bordeaux = R. David Athias), dates of death (R. Wolf Rintel, 8 December 1754), corrected
+   readings (כצ"ל, אולי צ"ל), abbreviations (ושכמ"ה) and the sense of hard words (בלשון כלביך; מלוגא דשטרי). Give the
+   fact in your own words and begin with "Freimann:". Do not copy his text. A note must not say "not identified" or
+   "initials only" where Freimann gives the answer. Also check the reading of his note itself: a review misread
+   תקט"ז as תקמ"ז.
+
+Two smaller patterns: a verb next to חיי"ם, יוסף or דוד usually tells what happened to the writer himself; and ליל ה'
+is the evening before Thursday, so do not write "Thursday night".
 
 ## 4. Output
 
