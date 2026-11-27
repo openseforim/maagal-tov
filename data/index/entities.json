@@ -7297,10 +7297,10 @@
  {
   "id": "isaac-alshekh",
   "type": "person",
-  "name": "Isaac Alshekh (Eliashar) of Hebron",
+  "name": "Isaac Elyashar of Hebron",
   "patterns": [
-   "R\\. Isaac Alshekh",
-   "R\\. Y\\. Alishar",
+   "R\\. Isaac Elyashar",
+   "R\\. Y\\. Elyashar",
    {
     "rx": "R\\. Y\\. A\\.",
     "at": [
@@ -7308,7 +7308,7 @@
     ]
    }
   ],
-  "desc": "Sage of Hebron who travelled with the Ḥida to Egypt in 1772; printed אלישר, rendered both Alshekh and Alishar."
+  "desc": "Sage of Hebron who travelled with the Ḥida to Egypt in 1772. Freimann: son of R. Ḥayyim Yeruḥam of Vilna and great-grandfather of the Ḥakham Bashi Jacob Saul Elyashar."
  },
  {
   "id": "y-nahmias",
@@ -7336,7 +7336,7 @@
    "Bakir son of al-Ṣalīṭ",
    "(?<=the )son of (?:Sheikh )?al-Ṣalīṭ"
   ],
-  "desc": "Sheikh of the Arabs whose caravan the Ḥida joined in 1772; he asked Isaac Alshekh about Hebron's debt."
+  "desc": "Sheikh of the Arabs whose caravan the Ḥida joined in 1772; he asked Isaac Elyashar about Hebron's debt."
  },
  {
   "id": "sheikh-al-salit",
@@ -7377,7 +7377,7 @@
   "patterns": [
    "Joseph ha-Levi Sakandari"
   ],
-  "desc": "Gevir and official of Egypt killed by Ali Bey, who seized all his property."
+  "desc": "Gevir and official of Egypt killed by Ali Bey, who seized all his property. Freimann: the collector of the customs."
  },
  {
   "id": "nissim-egypt",
@@ -7574,7 +7574,7 @@
   "patterns": [
    "R\\. Joshua Kohen Tanugi"
   ],
-  "desc": "The qaid of Tunis and the Ḥida's host there in 1773; his son Moses invited the Ḥida in his father's name."
+  "desc": "The qaid of Tunis and the Ḥida's host there in 1773; his son Moses invited the Ḥida in his father's name. Freimann: he set up the printing house in Tunis in 1768."
  },
  {
   "id": "joseph-karo",
