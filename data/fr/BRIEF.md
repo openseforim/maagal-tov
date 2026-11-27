@@ -69,6 +69,31 @@ so you do not know the people of the pages before yours: identify people from yo
   `{"he": "<the Hebrew words>", "note": "<why it is uncertain; your best reading>"}`. Use notes also for unresolved
   abbreviations, unreadable words, and dates that do not fit. Keep notes short and factual; no notes on things you are sure of.
 
+### What the first pass missed (reviews of parts 2–5, 27-Nov-2026)
+
+Four outside reviews and one own review of parts 2–5 found the same two faults again and again. Check for both before
+you write "uncertain", "not resolved" or "read as":
+
+1. **Rabbinic allusions, above all the Talmud.** The first pass found most Bible verses, but it missed the Mishnah,
+   the Talmud, Onkelos and the prayer book. A phrase that looks strange, or a legal term in a travel story, is nearly
+   always a quotation. Examples: שונא לטעון (Bava Metzia 32b; it was "emended" to שונה), שתוקו לא אומר לכם (m. Shevi'it
+   8:9; it was translated as its opposite), ריוח בין הדבקים (Berakhot 15b), מחיים תפיסנא (Ketubot 85a), לא ישב אדם לפני
+   הספר (m. Shabbat 1:2), גדול המעשה (Bava Batra 9a), פרידה טובה (Bava Kamma 38b, "a good dove", not "a good parting"),
+   ריש בריוני (Gittin 56a), נפקין בריש גלי (Onkelos, Exod 14:8), מלאים זיו ומפיקים נגה (the hymn El Adon), נפשות רבות
+   וחסרונן (the blessing after food), יזכה ויבחין (Berakhot 58a). Never emend a word before you search for the phrase
+   as a quotation.
+2. **Gershayim mark a word play, not only an abbreviation.** The Ḥida puts the marks inside a word where he changed one
+   letter of a known phrase, or where the word has two senses. Do not expand such a word as initials. Find the phrase
+   he changed, then say what the change does. Examples: בצע"ריך for בשעריך (Deut 17:8, "sorrows" for "gates"; it was
+   read as צרכי), נ"ר רשעים (the number 250 and Prov 13:9), פארו"ת הטובות (paras and the cows of Gen 41:26), מט"ה משה
+   (מטה כלפי חסד, Rosh Hashanah 17a, and the staff of Moses), החסר"ים for החצרים (Lev 25:31), הב"ל for אבל (Gen 37:35),
+   חיכ"י for חיקי (Ps 35:13), חיי"ם (life, and his own name Ḥayyim), לטע"ון (to load, to plead), הספור for הספר.
+   Often the changed word is a homophone (צ/ש, כ/ק, ס/ש, ח/ה, ע/א) of the word in the source.
+
+Three smaller patterns: a verb next to חיי"ם, יוסף or דוד usually tells what happened to the writer himself; ליל ה'
+is the evening before Thursday, so do not write "Thursday night"; and Freimann's footnotes often settle a name or a
+date, so read them before you mark a name as not identified (say "Freimann:" in the note).
+
 ## 4. Output
 
 Write `C:\Users\ezrab\Ezra Brandt\Claude\maagal-tov\data\fr\uNN.json` (UTF-8, `ensure_ascii=False`, indent 1):

@@ -30,11 +30,17 @@
    "start": "46:5",
    "head": false,
    "he": "אדר שני 18. שמיני יום ג' ויום ד' וליל ה' ך' בו עברנו בים צרה מכל הסער הגדול יתר מאד והמים להם חומה גבוהה נפקין בריש גל\"י הפלא ופלא וכל אשר לנו חפצים וכלים מכלים שונים אף נע\"ים ונדים וכל גבר ידיו על חלציו עני וכואב נד ונבדל הולך וחוזר שב על קיאו. ורב החובל אז יסיר הוילאות ועשה המצאות לבלתי לכת הספינה. ונפשנו מאד נבהלה.",
-   "en": "18 Adar II [Tuesday 28 March 1758]: the week of Shemini. On Tuesday, Wednesday and the night of Thursday, the 20th of the month, we passed through the sea in distress from the very great storm. The waters were a wall to them [Exod 14:22], high, going up at the head of the waves ⚠1, a wonder of wonders. All that we had, goods and vessels of various kinds [Esth 1:7], also wandered and moved about [Gen 4:12], and every man had his hands on his loins [Jer 30:6], poor and in pain [Ps 69:30], wandering and set apart, going and coming back, returning to his vomit [Prov 26:11]. Then the captain took down the sails (vele) and made devices so that the ship would not run. And our souls were greatly terrified.",
+   "en": "18 Adar II [Tuesday 28 March 1758]: the week of Shemini. On Tuesday, Wednesday and the night of Thursday, the 20th of the month, we passed through the sea in distress from the very great storm. The waters were a wall to them [Exod 14:22], high, \"going out with a high hand\" [Onkelos, Exod 14:8] ⚠1, a wonder of wonders. All that we had, goods and vessels of various kinds [Esth 1:7], were \"also pleasant\" [Song 1:16] ⚠2, wandering and moving about [Gen 4:12], and every man had his hands on his loins [Jer 30:6], poor and in pain [Ps 69:30], wandering and set apart, going and coming back, returning to his vomit [Prov 26:11]. Then the captain took down the sails (vele) and made devices so that the ship would not run. And our souls were greatly terrified [Ps 6:4].",
    "notes": {
     "1": {
      "he": "נפקין בריש גל\"י",
-     "note": "Aramaic, \"going out at the head of the waves\"; perhaps a quotation (cf. Bava Batra 73a on the waves of the sea). Rendered literally."
+     "note": "Onkelos on Exod 14:8: the Israelites went out of Egypt בריש גלי, \"with head uncovered\", that is openly, with a high hand. The marked גל\"י is read as גלים, \"waves\": the waters went up at the head of the waves. The verse before it in the sentence is from the same chapter (Exod 14:22).",
+     "kind": "note"
+    },
+    "2": {
+     "he": "אף נע\"ים ונדים",
+     "note": "Song 1:16, אף נעים, \"also pleasant\". The marked נע\"ים is read as נָעִים, \"moving\": everything in the ship rolled about. With נע ונד, Gen 4:12.",
+     "kind": "note"
     }
    }
   },
@@ -42,7 +48,7 @@
    "start": "46:10",
    "head": false,
    "he": "אדר שני 20. שמיני יום ה' הוכרח רב החובל ללכת לבירות והגענו לנמל שתי שעות קודם חצות ופינו מלא תהלות לאל המושעות אשר הצילנו ושם בנמל בירות מצאנו שלשה ספינות. הם המדברים מכל הרפתקי דעדו עלייהו ונפישי חלוות\"ייהו. ואחת מהנה השליכה בים חצי הסחורה והסאנדאל לחיות נפשם. הודאות ותשבחות לבעל הרחמים אשר הצילנו ואת כל אשר לנו יהי שמו הגדול מבורך מעתה ועד עולם הללויה.",
-   "en": "20 Adar II [Thursday 30 March 1758]: Thursday of the week of Shemini. The captain was forced to go to Beirut, and we reached the port two hours before midday, our mouths full of praises to the God of salvations [Ps 68:21] who saved us. There in the port of Beirut we found three ships. They told of all the hardships that had passed over them, and their troubles were many ⚠1. One of them had thrown half its cargo into the sea, and the boat (sandal) ⚠2, to save their lives. Thanks and praises to the Merciful One, who saved us and all that we have. May His great name be blessed from now and for ever, hallelujah.",
+   "en": "20 Adar II [Thursday 30 March 1758]: Thursday of the week of Shemini. The captain was forced to go to Beirut, and we reached the port two hours before midday, our mouths full of praises to the God of salvations [Ps 68:21] who saved us. There in the port of Beirut we found three ships. They told of all the hardships that had passed over them [b. Kid 33a], and their troubles were many ⚠1. One of them had thrown half its cargo into the sea, and the boat (sandal) ⚠2, to save their lives. Thanks and praises to the Merciful One, who saved us and all that we have. May His great name be blessed from now and for ever, hallelujah.",
    "notes": {
     "1": {
      "he": "ונפישי חלוות\"ייהו",
@@ -58,7 +64,7 @@
    "start": "46:16",
    "head": false,
    "he": "אדר שני 25. תזריע יום ג' בתחילת הלילה הגענו לנמל יפו ורוח עועים אלבישיה לרב החובל וגזר אומר להוציאנו באישון לילה וכבר הטעים דבריו באזן המו\"לא ונתרצו והיה סכנה גדולה הן על עצמינו בנשף בערב ללכת בים ומפחד המאלטי\"ז והן על בגדינו וה' הפיר עצת גוים וחיכינו עד אור הבקר ואחר תפלה יצאנו אנחנו ובגדינו לשלום לעיר יפו וחנינו בח\"אן אשר בנה השר המ' גיליסי יעקב זונאנה הי\"ו בהשקט ובטח הודו לה' כי טוב כל\"ח ומה יקרו חסדיו יתברך שהצילנו מסער הים והצילנו מהאינגליז שלא ראינו ספינה אחת מהם כי אף שהיה בידינו פאטינטה מהאילגי אינגליז וכתב לי הצעיר בפרטות האילגי בעצמו כותב בידו ומבטל בלבו ובפירושא אתמר כי כתבא די רשים לא לעזר ולא להועיל אבל בקושטא גדול אדונינו ורב כח דדר בקשת\"א בעלית\"א הסתירנו בצל כנפיו לחיותנו כיום הזה.",
-   "en": "25 Adar II [Tuesday 4 April 1758]: Tuesday of the week of Tazria. At nightfall we reached the port of Jaffa. A spirit of perverseness [Isa 19:14] took hold of the captain, and he decreed to put us ashore in the dead of night. He had already put his words in the ear of the mullah ⚠1, and they agreed. It was a great danger, both to ourselves, going on the sea in the twilight, in the evening [Prov 7:9], and for fear of the Maltese, and to our goods. But the Lord frustrated the counsel of the nations [Ps 33:10]: we waited until the morning light, and after prayers we went out, we and our goods, in peace to the city of Jaffa. We lodged in the khan that the minister, the honored Çelebi Jacob Zonana, may God keep him, built, in quiet and security. Give thanks to the Lord, for He is good, for His mercy endures for ever. How precious are His kindnesses [Ps 36:8], blessed be He, that He saved us from the storm of the sea and saved us from the English, for we did not see a single ship of theirs. For although we had in our hand a patent from the English ambassador, and the ambassador himself wrote to me, the least, in detail with his own hand, he writes with his hand and annuls it in his heart; and it is said plainly that the writing that is inscribed [Dan 5:24] is of no help and no profit [Isa 30:5]. But in truth great is our Lord and mighty in power [Ps 147:5], who dwells in truth on high ⚠2; He hid us in the shadow of His wings to keep us alive, as at this day [Deut 6:24].",
+   "en": "25 Adar II [Tuesday 4 April 1758]: Tuesday of the week of Tazria. At nightfall we reached the port of Jaffa. A spirit of perverseness [Isa 19:14] took hold of the captain, and he decreed to put us ashore in the dead of night. He had already put his words in the ear of the mullah ⚠1, and they agreed. It was a great danger, both to ourselves, going on the sea in the twilight, in the evening [Prov 7:9], and for fear of the Maltese, and to our goods. But the Lord frustrated the counsel of the nations [Ps 33:10]: we waited until the morning light, and after prayers we went out, we and our goods, in peace to the city of Jaffa. We lodged in the khan that the minister, the honored Çelebi Jacob Zonana, may God keep him, built, in quiet and security. Give thanks to the Lord, for He is good, for His mercy endures for ever. How precious are His kindnesses [Ps 36:8], blessed be He, that He saved us from the storm of the sea and saved us from the English, for we did not see a single ship of theirs. For although we had in our hand a patent from the English ambassador, and the ambassador himself wrote to me, the least, in detail with his own hand, he writes with his hand and annuls it in his heart [m. Pes 3:7]; and it is said plainly that the writing that is inscribed [Dan 5:24] is of no help and no profit [Isa 30:5]. But \"in Kushta\" great is our Lord and mighty in power [Ps 147:5], who dwells in truth [b. Sanh 97a] on high ⚠2; He hid us in the shadow of His wings to keep us alive, as at this day [Deut 6:24].",
    "notes": {
     "1": {
      "he": "באזן המו\"לא",
@@ -66,7 +72,7 @@
     },
     "2": {
      "he": "דדר בקשת\"א בעלית\"א",
-     "note": "Aramaic; read בקשטא, \"in truth\", and בעליתא, \"on high\" (literally \"in the upper room\"). The marks on the two words may point to a wordplay."
+     "note": "A play on קושטא, which is both Constantinople (Kushta) and Aramaic \"truth\". The English ambassador in Kushta wrote a patent that was of no use; the Lord, who \"dwells in Kushta\", saved them. Sanhedrin 97a tells of a place named Kushta whose people never lie. בעלית\"א, \"in the upper room\", is heaven (Ps 104:3). The same marked pair, בקש\"תה בעלית\"ה, is in the Fürth entry (16.5), where its sense is not clear."
     }
    }
   },
@@ -105,7 +111,7 @@
    "start": "47:2",
    "head": false,
    "he": "בחדש שבט יצאתי מעיה\"ק ירושלם ת\"ו בחברת הר' באלי באבאני והר' משה מורפורגו ויהי בדרך בא אלינו התנין הגדול ריש בריוני אבו גוש והיו סמוכים לו נ\"ר רשעים עדת מרעים מאתים וחמשים ורצה לבלענו חנם וכראותי בצאת נפשנו כי לא היו ימים מועטים קרה מקרה בכפר ביתר אשר שבו שיירת ארחי ופרחי וענו אותם ולקחו מהם אלף ות\"ק אריות ומרוב הצער נפקד מהם איש הח\"ר שולימא אלבו זלה\"ה ואחז בשרי פלצות הן עתה כי סבבוני כלבים מידי העלותי על לבבי ענין ביתר. ולזה הוצרכתי להזכיר שם קדוש משמירת הדרך ושל\"ית כי לא קרבו בד' אמות שלנו והכו הכה ופצוע לפילאמים אשר עמנו ונתפשרנו במאה זולו\"טאס ברוך פודה ומציל.",
-   "en": "In the month of Shevat I went out from the holy city Jerusalem, may it be built and established, in the company of R. Bali Babani ⚠1 and R. Moses Morpurgo. On the way the great dragon [Ezek 29:3], the chief of the outlaws, Abu Ghosh, came upon us, and with him were 250 wicked men, a congregation of evildoers [Ps 22:17], two hundred and fifty, and he wanted to swallow us up for nothing. When I saw that our soul was going out [Gen 35:18] — for not many days before, a thing had happened in the village of Battir, where they captured a caravan of wayfarers and young men and tortured them, and took from them one thousand five hundred lions ⚠2, and from the great suffering one of them died, the sage R. Shulima Albo, may his memory be for the life of the world to come — trembling took hold of my flesh [Job 4:15]: behold, now dogs have surrounded me [Ps 22:17], whenever I called to mind the affair of Battir. So I had to invoke a holy Name, of those for the protection of the way, and praise to God, blessed be He, they did not come within four cubits of us. They beat and wounded [1 Kgs 20:37] the pilgrims ⚠3 who were with us, and we settled for a hundred zolotas. Blessed is He who redeems and saves.",
+   "en": "In the month of Shevat I went out from the holy city Jerusalem, may it be built and established, in the company of R. Bali Babani ⚠1 and R. Moses Morpurgo. On the way the great dragon [Ezek 29:3], the \"chief of the outlaws\" [b. Git 56a], Abu Ghosh, came upon us, and with him was \"the lamp of the wicked\" [Prov 13:9] ⚠4, a congregation of evildoers [Ps 22:17], two hundred and fifty, and he wanted to swallow us up for nothing [Prov 1:11–12]. When I saw that our soul was going out [Gen 35:18] — for not many days before, a thing had happened in the village of Battir, where they captured a caravan of wayfarers ⚠5 and tortured them, and took from them one thousand five hundred lions ⚠2, and from the great suffering one of them was missing [Num 31:49], the sage R. Shulima Albo, may his memory be for the life of the world to come — trembling took hold of my flesh [Job 21:6]: behold, now dogs have surrounded me [Ps 22:17], whenever I called to mind the affair of Battir. So I had to invoke a holy Name, of those for the protection of the way, and praise to God, blessed be He, they did not come within four cubits of us. They beat and wounded [1 Kgs 20:37] the pilgrims ⚠3 who were with us, and we settled for a hundred zolotas. Blessed is He who redeems and saves.",
    "notes": {
     "1": {
      "he": "הר' באלי באבאני",
@@ -117,7 +123,17 @@
     },
     "3": {
      "he": "לפילאמים",
-     "note": "Unclear word; perhaps the pilgrims (Italian pellegrini) or the muleteers travelling with them. Uncertain."
+     "note": "So printed. Perhaps for פילאחים, fellahin, the peasants who went with the caravan as drivers (ח and מ are alike in this type); or the pilgrims (Italian pellegrini). Uncertain."
+    },
+    "4": {
+     "he": "נ\"ר רשעים",
+     "note": "נ\"ר רשעים: נר רשעים, \"the lamp of the wicked\" (Prov 13:9; 24:20), with נ\"ר read as the number 250, which the Ḥida then writes out in words. ריש בריוני is the title of Abba Sikra, head of the outlaws of Jerusalem, in Gittin 56a.",
+     "kind": "note"
+    },
+    "5": {
+     "he": "ארחי ופרחי",
+     "note": "ארחי ופרחי is one term of the rabbinic writers for people who pass through, wayfarers; \"young men\" is not meant.",
+     "kind": "note"
     }
    }
   },
@@ -125,7 +141,7 @@
    "start": "47:10",
    "head": false,
    "he": "שבט 2. אחר קצת ימים בא הרב כמהרי\"ט אלגאזי נר\"ו ובני ישעיא ודעתנו היה ללכת לקושט\"א על דברי ריבות בצע\"ריך ירושלם שכן הדריכונו ז' טובי העיר והיינו ממתינים כתבים.",
-   "en": "Shevat, 2 ⚠1: After some days the rabbi, our teacher R. Yom Tov Algazi, may his lamp shine, came, and my son Isaiah. Our intention was to go to Constantinople about matters of dispute concerning the needs ⚠2 of Jerusalem, for so the seven good men of the city had directed us; and we were waiting for letters.",
+   "en": "Shevat, 2 ⚠1: After some days the rabbi, our teacher R. Yom Tov Algazi, may his lamp shine, came, and my son Isaiah. Our intention was to go to Constantinople about \"matters of dispute in your gates\" [Deut 17:8] ⚠2, Jerusalem [Ps 122:2], for so the seven good men of the city had directed us; and we were waiting for letters.",
    "notes": {
     "1": {
      "he": "שבט 2.",
@@ -133,7 +149,8 @@
     },
     "2": {
      "he": "בצע\"ריך",
-     "note": "Read as בצרכי, \"the needs of\"; the abbreviation mark is unexplained."
+     "note": "Deut 17:8, דברי ריבת בשעריך, \"matters of dispute in your gates\", joined to Ps 122:2, בשעריך ירושלם. The marked בצע\"ריך puts צער, \"sorrow\", for שער, \"gate\": the disputes in your sorrows, Jerusalem. It is not an abbreviation and not a form of צרכי, \"needs\".",
+     "kind": "note"
     }
    }
   },
@@ -191,7 +208,7 @@
     },
     "2": {
      "he": "הצור\"ים",
-     "note": "Read as צרורים, \"bundles\" (of money or goods) entrusted to the captain. Uncertain."
+     "note": "Read as צרורים, \"bundles\" (of money or goods) entrusted to the captain. The marks may point to another sense: the people of Jaffa knew of the danger, so the caique may have come for the passengers themselves. Uncertain."
     }
    }
   },
@@ -223,7 +240,7 @@
     },
     "3": {
      "he": "במע\"איש",
-     "note": "A kind of ship (also 48:10); the word is not identified."
+     "note": "Probably Arabic ma'āsh, a large cargo boat of the Egyptian and Syrian coast (also 48:10)."
     }
    }
   },
@@ -238,7 +255,7 @@
    "start": "48:3",
    "head": false,
    "he": "אדר 6. אור הששי נח הים ונשבה רוח טוב ללכת ונסע הרב כמהר\"א והיה הרב כמהר\"י מצטער על הליכתו כי נפרד ממנו ואיך יצאה מחשבתו ללכת בספינה ההיא ואני מרוב צערי מכמה צדדין אמרתי לו בזאת אני בוטח כי הרוח תשוב ויהי הסע\"ר עד כי יצטרך לחזור הרב כמהר\"א ולחלות שישלחו לו קאי\"ק לחזור כי יודע אלדים כמו הצער עלה בשבוע זו שנסתכן כמה ימים ולילות.",
-   "en": "Adar, 6 [the evening of Thursday 15 March 1764]: On the night of Friday the sea calmed and a good wind for sailing blew, and the rabbi R. A. set sail. The rabbi R. Y. was sorry about his going, for he had parted from him, and how had he made up his mind to go in that ship? And I, from my great distress on several sides, said to him: in this I trust [Ps 27:3], that the wind will turn and there will be a storm, so that the rabbi R. A. will have to come back and beg them to send him a caique to return. For God knows how much distress there was this week, that he was in danger for several days and nights.",
+   "en": "Adar, 6 [the evening of Thursday 15 March 1764]: On the night of Friday the sea calmed and a good wind for sailing blew, and the rabbi R. A. set sail. The rabbi R. Y. was sorry about his going, for he had parted from him, and how had he made up his mind to go in that ship? And I, from my great distress on several sides, said to him: in this I trust [Ps 27:3], that the wind will turn and there will be a storm, so that the rabbi R. A. will have to come back and beg them to send him a caique to return. For God knows how \"the distress rose\" [Gen 19:15, צער for שחר] this week, that he was in danger for several days and nights.",
    "notes": {}
   },
   {
