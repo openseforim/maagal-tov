@@ -2029,15 +2029,6 @@
   "desc": "The Ḥida's host in Pisa in 1778; probably the father or a near kinsman of his second wife (see the note there)."
  },
  {
-  "id": "ferridas",
-  "type": "person",
-  "name": "Ferridas",
-  "patterns": [
-   "Signor Ferridas"
-  ],
-  "desc": "Of Livorno."
- },
- {
   "id": "miranda",
   "type": "person",
   "name": "Miranda",
@@ -8993,7 +8984,7 @@
   "patterns": [
    "(?:Ḥakham )?Ephraim Navon"
   ],
-  "desc": "Son of the Ḥida's teacher (Jonah Navon); came from Turin about his mother-in-law's debt."
+  "desc": "Son of the Ḥida's chief teacher, Jonah Navon (Freimann); in Turin he pressed the Ḥida over his mother-in-law's debt."
  },
  {
   "id": "elijah-nahmu",
@@ -16626,7 +16617,7 @@
  {
   "id": "solomon-jona",
   "type": "person",
-  "name": "Solomon Jona, rabbi of Turin",
+  "name": "Michael Solomon Jona, rabbi of Turin",
   "patterns": [
    "R\\. Solomon Jona"
   ],
@@ -16762,7 +16753,7 @@
   "patterns": [
    "R\\. S\\. Bachi"
   ],
-  "desc": "An old rabbi of eighty-five in Casale, 1778."
+  "desc": "An old rabbi of eighty-five in Casale, 1778; author of Refu'ah la-Makkah on Lamentations (Freimann)."
  },
  {
   "id": "benjamin-pitigliano",
@@ -16911,7 +16902,7 @@
   "patterns": [
    "Signor Sabbatai Zalman Vitta"
   ],
-  "desc": "Gave the Ḥida no satisfaction."
+  "desc": "A gloomy man; gave the Ḥida no satisfaction."
  },
  {
   "id": "mi-zekenim",
@@ -16934,10 +16925,10 @@
  {
   "id": "elijah-levi-alessandria",
   "type": "person",
-  "name": "Elijah (E.) ha-Levi, rabbi of Alessandria",
+  "name": "Elijah son of Raphael Solomon Levi of Finale, rabbi of Alessandria",
   "patterns": [
    {
-    "rx": "R\\. E\\. L\\.|R\\. E\\. ha-Levi",
+    "rx": "R\\. Elijah Levi|R\\. Elijah ha-Levi",
     "at": [
      "F17.23"
     ]

@@ -9,18 +9,24 @@
    "start": "176:6",
    "head": false,
    "he": "אלול 18. ה' בבקר בא הרב ונתחנן שאקח מה שהתנדבו ולא רציתי וא\"ל שיתנם לעני א' שיבא מא\"י ונתארכו הדברים באהבה ואחוה ונסעתי קודם תפלה ועשו לי לויה הרב ובניו וסי' גרשון וכמה אנשים והייתי בצער גדול שא\"ל בקאסאל דיש סכנה גדולה מאלישאנדריא לנובי ות\"ל עברנו לש' באין שופ\"ר ובאנו שתי שעות קודם חצות לנובי והיא תחילת ממשלת ג'ינובא.",
-   "en": "18 Elul [Thursday 10 September 1778]: in the morning the rabbi came and begged me to take what they had pledged. I did not want to, and told him to give it to a poor man who will come from the Land of Israel. The talk went on long, in love and brotherhood. I set out before prayers, and the rabbi and his sons, Signor Gershon and some other men escorted me. I was in great distress, because they had told me in Casale that there is great danger between Alessandria and Novi; but praise God we passed in peace, without Satan or evil mishap. We came to Novi two hours before midday; it is the beginning of the territory of Genoa.",
-   "notes": {}
+   "en": "18 Elul [Thursday 10 September 1778]: in the morning the rabbi came and begged me to take what they had pledged. I did not want to, and told him to give it to a poor man who will come from the Land of Israel. The talk went on long, in love and brotherhood. I set out before prayers, and the rabbi and his sons, Signor Gershon and some other men escorted me. I was in great distress, because they had told me in Casale that there is great danger between Alessandria and Novi; but praise God we passed in peace, without Satan or evil mishap ⚠1 [1 Kings 5:18]. We came to Novi two hours before midday; it is the beginning of the territory of Genoa.",
+   "notes": {
+    "1": {
+     "he": "באין שופ\"ר",
+     "note": "Freimann: שופ\"ר = שטן ופגע רע.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "176:11",
    "head": false,
    "he": "אלול 19. אור הששי באנו לעיר אוטאג'ייו והיה לנו חדר יפה ומטות של שרים אך לקחו ביותר והבקר אור בע\"ה נסענו והיו גשמים מרובים בזעף ואנחנו עולים ויורדים בבוקיטא ובאנו שתי שעות קודם חצות לקאנפו מארוני והגשמים מתגברים והויטורינו לא רצה ללכת והייתי בצער על שבת סוף דבר פייסתיו ברצי כסף יותר מחצי סיקינו ובא מקלל יומו ובאמת שהיה צער גדול ובאנו לג'יינובא בשתי שעות אחר חצות ורבת שבעה נפשנו מרוב הגשמים והניחנו בפאייסא כי הקאליסו אינו עובר אח\"ך וריבוי המטר ורשעת הסבלים הרוונו לענה עד שבאתי לבית סי' משה פואה וקבלנו בכבוד ישלם ה' פעלו כי\"ר.",
-   "en": "19 Elul, the night of Friday [the evening of Thursday 10 September 1778]: we came to the town of Voltaggio. We had a fine room and beds fit for princes, but they charged too much. When the morning was light [Gen 44:3], with God's help, we set out. There was heavy rain with storm, and we went up and down through the Bocchetta. We came to Campomorone two hours before midday; the rain grew stronger, and the vetturino would not go on. I was distressed about the Sabbath. In the end I appeased him with pieces of silver [Ps 68:31], more than half a sequin, and he came on cursing his day [Job 3:1]. In truth it was a great distress. We came to Genoa two hours after midday, our soul exceedingly filled [Ps 123:4] with the heavy rain. They left us at the piazza ⚠1, because the calesse goes no farther, and the heavy rain and the wickedness of the porters made us drunk with wormwood [Lam 3:15], until I came to the house of Signor Moses Foa, and he received us with honor. May the Lord repay his deed, so may it be His will.",
+   "en": "19 Elul, the night of Friday [the evening of Thursday 10 September 1778]: we came to the town of Voltaggio. We had a fine room and beds fit for princes, but they charged too much. When the morning was light [Gen 44:3], with God's help, we set out. There was heavy rain with storm, and we went up and down through the Bocchetta. We came to Campomorone two hours before midday; the rain grew stronger, and the vetturino would not go on. I was distressed about the Sabbath. In the end I appeased him with pieces of silver [Ps 68:31], more than half a sequin, and he came on cursing his day [Job 3:1]. In truth it was a great distress. We came to Genoa two hours after midday, our soul exceedingly filled [Ps 123:4] with the heavy rain. They left us at the piazza ⚠1, because the calesse goes no farther, and the heavy rain and the wickedness of the porters made us drunk with wormwood [Lam 3:15], until I came to the house of Signor Moses Foa, and he received us with honor. May the Lord repay his deed [Ruth 2:12], so may it be His will.",
    "notes": {
     "1": {
      "he": "בפאייסא",
-     "note": "Read as piazza, a square where the carriage stopped; the place is not named."
+     "note": "Freimann: piazza, with a question mark; a square where the carriage stopped. The place is not named."
     }
    }
   },
@@ -94,7 +100,7 @@
    "start": "177:1",
    "head": false,
    "he": "אלול 25. ה' לננו בעיר מאסא בפוסטא והשכמנו ללכת ובאנו בחצות לפיזא וחסדי ה' אזכיר תהלות ה' כעל כל אשר גמלנו ה' שבפתח פיזא כמעט לא ראו הבהול רק שפתחוהו ע\"ג הקרון פתיחה וסגירה בעלמא ויהי לנס. ובאתי לבית חמודי סי' רפאל והיה יחיד וברכתי שהחיינו. ואחר איזה שעות נתתי לו ס' תפלה אמשט' חשוב. ב' ויניציאנום דובלא שאינו בנמצא. רידומיקא עם מי ריח. ב' פאצוליטום משי וא' מעלי עץ. דיראל של כסף ואביזריה. קסת לבן עצם מצרפת. פאצוליטו אחר חשוב. היסטוג' כסף שנתן לי סי' ביבאנטי. ומסרתי לה באקראנ' כסף וב' פוזאראם כסף וב' לדרך סכין וגארפו מחושקים. וסל של הנחשת. וקאנוקיאלי. והקאנאביטיקה. ועוד לה כיס מעות ושתי מספריים קטנה וגדולה ומעות.",
-   "en": "25 Elul, Thursday [17 September 1778]: we lodged in the town of Massa, at the post, rose early to go on, and came to Pisa at midday. I will recount the kindnesses of the Lord, the praises of the Lord, according to all that the Lord has bestowed on us [Isa 63:7]: at the gate of Pisa they hardly looked at the trunk; they only opened it on top of the wagon, a mere opening and closing, and it was a miracle. I came to the house of my dear Signor Raphael; he was alone, and I said the blessing she-heḥeyanu. After some hours I gave him a valuable Amsterdam prayer book; two double Venetian pieces (dobla), which are not to be found; a redomica ⚠1 with scented water; two silk handkerchiefs (fazzoletti) and one of מעלי עץ ⚠2; a silver thimble (ditale) with its fittings; an inkstand of white bone from France; another valuable handkerchief; a silver case (estuche), which Signor Bivante gave me. And I handed to her ⚠3 a silver bacaran ⚠4, two silver posadas, two travelling sets of knife and fork, banded; the copper basket; a spyglass (cannocchiale); the canabitica ⚠4; and further, for her, a purse of money, two pairs of scissors, a small one and a large one, and money.",
+   "en": "25 Elul, Thursday [17 September 1778]: we lodged in the town of Massa, at the post, rose early to go on, and came to Pisa at midday. I will recount the kindnesses of the Lord, the praises of the Lord, according to all that the Lord has bestowed on us [Isa 63:7]: at the gate of Pisa they hardly looked at the trunk; they only opened it on top of the wagon, a mere opening and closing, and it was a miracle. I came to the house of my dear Signor Raphael; he was alone, and I said the blessing she-heḥeyanu. After some hours I gave him a valuable Amsterdam prayer book; two double Venetian pieces (dobla), which are not to be found; a redomica ⚠1 with scented water; two silk handkerchiefs (fazzoletti) and one of מעלי עץ ⚠2; a silver thimble (ditale) with its fittings; an inkstand of white bone from France; another valuable handkerchief; a silver case (estuche), which Signor Bivante ⚠5 gave me. And I handed to her ⚠3 a silver bacaran ⚠4, two silver sets of cutlery (posate), two travelling sets of knife and fork, banded; the copper basket; a spyglass (cannocchiale); the canabitica ⚠4; and further, for her, a purse of money, two pairs of scissors, a small one and a large one, and money.",
    "notes": {
     "1": {
      "he": "רידומיקא",
@@ -110,7 +116,12 @@
     },
     "4": {
      "he": "באקראנ' ... פוזאראם ... והקאנאביטיקה",
-     "note": "Household or toilet objects, not identified; Freimann glosses only posadas. Read וגארפו (fork, Portuguese garfo) for the printed ונארפו."
+     "note": "באקראנ' and קאנאביטיקה are household or toilet objects, not identified. For פוזאראם Freimann gives posadas; read as Italian posate, sets of spoon, knife and fork. גארפו is Portuguese garfo, a fork."
+    },
+    "5": {
+     "he": "סי' ביבאנטי",
+     "note": "Freimann: Vivanti.",
+     "kind": "note"
     }
    }
   },
@@ -132,7 +143,7 @@
    "start": "177:13",
    "head": false,
    "he": "אלול 28. א' וילך נסעתי בבקר לליוורנו עם סי' אח\"ל יצ\"ו ובאיסטאניו בא לקראתי ידידי הגביר חתני ואחר באו האהובים סי' פיריראס וסי' מיראנדה וסי' אברהם יאודה פארו בקאליסום ונשתעשעתי עמהם. וסעדתי אצל בתי, וביקרתי להגביר סי' מיכאל יצ\"ו. ולהגבירים סי' פראנקום ומסרתי לזקן העתק הכתב ששלח לי לבייאונה והתלונן בכתבו לאמשט' שלא שלחתיה שהיא ליטרה די קאמבייו והודעתיו שהיא חספא בעלמא וביקרתי איזה ביקורים וגם באו אלי לבקר איזה אהובים בכבוד גדול ת\"ל.",
-   "en": "28 Elul, Sunday of the week of Vayelekh [20 September 1778]: in the morning I set out for Livorno with Signor A.Ḥ.L. ⚠1, may his Rock keep him. At Stagno my friend the gevir, my son-in-law, came to meet me, and afterwards the beloved Signor Ferridas, Signor Miranda and Signor Abraham Judah Faro came in their calessi, and I took delight with them. I ate at my daughter's, and visited the gevir Signor Michael, may his Rock keep him, and the gevirim Signori Franco. I gave the elder one the copy of the letter he had sent me to Bayonne; he had complained in his letter to Amsterdam that I had not sent it on, as it was a bill of exchange (lettera di cambio). I let him know that it is a mere potsherd ⚠2. I paid some visits, and some friends also came to visit me, with great honor, praise God.",
+   "en": "28 Elul, Sunday of the week of Vayelekh [20 September 1778]: in the morning I set out for Livorno with Signor A.Ḥ.L. ⚠1, may his Rock keep him. At Stagno my friend the gevir, my son-in-law, came to meet me, and afterwards the beloved Signori Pereira ⚠3, Signor Miranda and Signor Abraham Judah Faro came in their calessi, and I took delight with them. I ate at my daughter's, and visited the gevir Signor Michael ⚠4, may his Rock keep him, and the gevirim Signori Franco. I gave the elder one the copy of the letter he had sent me to Bayonne; he had complained in his letter to Amsterdam that I had not sent it on, as it was a bill of exchange (lettera di cambio). I let him know that it is a mere potsherd ⚠2. I paid some visits, and some friends also came to visit me, with great honor, praise God.",
    "notes": {
     "1": {
      "he": "סי' אח\"ל",
@@ -140,7 +151,18 @@
     },
     "2": {
      "he": "חספא בעלמא",
-     "note": "\"A mere potsherd\": that is, worthless; it is not clear whether he means the copy or the bill itself."
+     "note": "\"A mere potsherd\" is the Talmud's word for a deed that has no force [b. BB 32b]: the paper was worth nothing as a bill of exchange.",
+     "kind": "note"
+    },
+    "3": {
+     "he": "סי' פיריראס",
+     "note": "פיריראס is the plural of Pereira: the brothers Gabriel and Jacob Pereira of the next entry.",
+     "kind": "note"
+    },
+    "4": {
+     "he": "סי' מיכאל",
+     "note": "Freimann: R. Michael Pereira de Leon, named above on pp. 4 and 41.",
+     "kind": "note"
     }
    }
   },
@@ -169,11 +191,16 @@
    "start": "177:28",
    "head": false,
    "he": "שנת גדו\"ל יהי\"ה כבו\"ד הבי\"ת הז\"ה ד' חשון ברביעי בשבת סדר והיה ברכה הגעתי לפרק הכונס את הבתולה הכבודה והצנועה מ' רחל מב\"ת בביתה בעיר פיזא. יה\"ר שיהיה בס\"ט ומזל צומח ועולה לאורך ימים ושנות חיים ועושר וכבוד ובריאות וזרע קדש ונזכה לעלות לא\"י בישוב והשקט ובטח מרב כל נס\"ו.",
-   "en": "In the year \"Great shall be the glory of this house\" [Hag 2:9; 5539], on 4 Heshvan ⚠1, on Wednesday of the week of the reading \"and be thou a blessing\" [Gen 12:2] [28 October 1778], I came to the chapter \"He who marries a virgin\": the honored and modest maiden, Madam Rachel, may she be blessed among women in the tent [Judg 5:24], in her home in the city of Pisa. May it be His will that it be under a good sign and a star flourishing and rising, for length of days and years of life, wealth and honor and health and holy seed, and may we merit to go up to the Land of Israel in settled peace and quiet and security, with abundance of everything. For ever, selah, and ever.",
+   "en": "In the year \"Great shall be the glory of this house\" [Hag 2:9; 5539], on 4 Heshvan ⚠1, on Wednesday of the week of the reading \"and be thou a blessing\" [Gen 12:2] [28 October 1778], I came to the chapter \"He who marries a virgin\" ⚠2: the honored and modest maiden, Madam Rachel, may she be blessed among women in the tent [Judg 5:24], in her home in the city of Pisa. May it be His will that it be under a good sign and a star flourishing and rising, for length of days and years of life, wealth and honor and health and holy seed, and may we merit to go up to the Land of Israel in settled peace and quiet and security, with abundance of everything. For ever, selah, and ever.",
    "notes": {
     "1": {
      "he": "ד' חשון ברביעי בשבת",
      "note": "Freimann prints ד' חשון, which was a Sunday (25 October 1778). The 1885 printing has ז' חשון: Wednesday 28 October 1778, in the week of Lekh Lekha (Gen 12:2), as the entry says. The 1885 reading is right. The chronogram גדו\"ל יהי\"ה כבו\"ד הבי\"ת הז\"ה (Hag 2:9) totals 539."
+    },
+    "2": {
+     "he": "הגעתי לפרק הכונס את הבתולה",
+     "note": "A play on פרק: a chapter of the Mishnah, named by its first words as chapters are, and the \"season\" of marriage [as in b. Yev 62b].",
+     "kind": "note"
     }
    }
   },
@@ -181,11 +208,12 @@
    "start": "177:32",
    "head": false,
    "he": "ונולדה אשתי הנז' שנת התק\"י ניסן אור לארבעה ליל ב' של פסח לאי\"ט ומז\"ט.",
-   "en": "My wife mentioned above was born in the year 5510, in Nisan, on the night of Wednesday, the second night of Passover [the evening of Tuesday 21 April 1750], for ⚠1 a good star and good fortune.",
+   "en": "My wife mentioned above was born in the year 5510, in Nisan, on the night of Wednesday, the second night of Passover [the evening of Tuesday 21 April 1750], for length of good days ⚠1 and good fortune.",
    "notes": {
     "1": {
      "he": "לאי\"ט",
-     "note": "Abbreviation not resolved; perhaps לאורך ימים טובים, \"for long good days\"."
+     "note": "לאי\"ט = לאורך ימים טובים, \"for length of good days\", the wish written after the name of the living.",
+     "kind": "note"
     }
    }
   },
@@ -253,7 +281,7 @@
   {
    "start": "178:15",
    "head": false,
-   "he": "חשון 29. יום ד' נסענו מפיזא בתוקף גשמים אני וסי' אח\"ל ועד שלא יצאנו מהעיר פסקו והתחילו דמדומי חמה עד אשר גבר בכה וזרח השמש ובאנו לש' פה ליוורנו.",
+   "he": "חשון 29. יום ד' נסענו מפיזא בתוקף גשמים אני וסי' אח\"ל ועד שלא יצאנו מהעיר פסקו והתחילו דמדומי חמה עד אשר גבר בכח וזרח השמש ובאנו לש' פה ליוורנו.",
    "en": "29 Heshvan, Wednesday [6 November 1782]: Signor A.Ḥ.L. and I set out from Pisa in heavy rain. Before we were out of the city it stopped, and the glimmer of the sun began, until it grew strong and the sun shone, and we came here to Livorno in peace.",
    "notes": {}
   },
@@ -274,12 +302,12 @@
   {
    "start": "178:21",
    "head": false,
-   "he": "כסלו 12. יום ב' בא לי כתב מידידי בני הקטן יצ\"ו מטראבלום זמנה ע\"כ מהגעתו לש' ושנעשה לו נס שביציאתו מהספינה נפל כלו לים רק שתפסוהו בבגדו בתוקף ברוך פודה ומציל הלכ\"ט כל\"ח.",
-   "en": "12 Kislev, Monday [18 November 1782]: a letter came to me from my friend, my younger son, may his Rock keep him, from Tripoli (Trablus), dated ⚠1 on his arrival in peace; and that a miracle happened to him: as he got off the ship he fell right into the sea, but they caught him firmly by his clothes. Blessed is He who redeems and saves. Give thanks to the Lord, for He is good, for His mercy endures for ever.",
+   "he": "כסלו 12. יום ב' בא לי כתב מידידי בני הקטן יצ\"ו מטראבלום זמנה עי\"כ מהגעתו לש' ושנעשה לו נס שביציאתו מהספינה נפל כלו לים רק שתפסוהו בבגדו בתוקף ברוך פודה ומציל הלכ\"ט כל\"ח.",
+   "en": "12 Kislev, Monday [18 November 1782]: a letter came to me from my friend, my younger son, may his Rock keep him, from Tripoli (Trablus), dated the eve of Yom Kippur ⚠1 [Tuesday 17 September 1782], on his arrival in peace; and that a miracle happened to him: as he got off the ship he fell right into the sea, but they caught him firmly by his clothes. Blessed is He who redeems and saves. Give thanks to the Lord, for He is good, for His mercy endures for ever.",
    "notes": {
     "1": {
-     "he": "זמנה ע\"כ מהגעתו",
-     "note": "Not clear; ע\"כ is not resolved (the OCR read עי\"כ). Perhaps the letter's date and the number of days after his arrival."
+     "he": "זמנה עי\"כ מהגעתו",
+     "note": "The scan has עי\"כ, read as ערב יום כפור: the letter is dated the eve of Yom Kippur 5543 and tells of his arrival. He had sailed on 10 Elul. Uncertain."
     }
    }
   },
@@ -301,7 +329,7 @@
    "start": "178:28",
    "head": true,
    "he": "תקמ\"ד. שנת מכת\"ם לדו\"ד קדמ\"ת.",
-   "en": "5544 [1783–84]. The year \"A michtam of David\" [Ps 16:1], counted by kadmat [= 5544]",
+   "en": "5544 [1783–84]. The year \"A michtam of David\" [Ps 16:1; = 5544]; kadmat [the letters of the year, תקמ\"ד, in another order]",
    "notes": {}
   },
   {
@@ -322,11 +350,12 @@
    "start": "178:34",
    "head": false,
    "he": "כסלו ר\"ח מעלה מטה הלכו תרי גיסי הנז' לפיזא פלורינציא מודינא וחזרו {f179}ממודינא כ\"ד כסליו לפרינצי וביום ש\"ק חלה חר\"ש הנז' והיה בצער וה' ברחמיו שלח דברו וירפאהו ובאו פה מ\"מ בט\"ו טבת לש'.",
-   "en": "Kislev, about Rosh Ḥodesh [about 26 November 1783]: the two brothers-in-law mentioned above went to Pisa, Florence and Modena. They came back from Modena on 24 Kislev [Friday 19 December 1783] to Florence, and on the holy Sabbath ḥakham R. Samuel mentioned above fell ill and was in pain; and the Lord in His mercy sent His word and healed him [Ps 107:20]. They came here all the same ⚠1 on 15 Tevet [Friday 9 January 1784], in peace.",
+   "en": "Kislev, about Rosh Ḥodesh [about 26 November 1783]: the two brothers-in-law mentioned above went to Pisa, Florence and Modena. They came back from Modena on 24 Kislev [Friday 19 December 1783] to Florence, and on the holy Sabbath ḥakham R. Samuel mentioned above fell ill and was in pain; and the Lord in His mercy sent His word and healed him [Ps 107:20]. They came here about ⚠1 15 Tevet [Friday 9 January 1784], in peace.",
    "notes": {
     "1": {
      "he": "מ\"מ",
-     "note": "Read as מכל מקום, \"all the same\"; not certain."
+     "note": "מ\"מ = מעלה מטה, \"more or less\", as Freimann explains it on p. 171.",
+     "kind": "note"
     }
    }
   },
@@ -353,11 +382,12 @@
    "start": "179:9",
    "head": false,
    "he": "22. אייר יום ה' בחוקותי נסע בני חר\"א הי\"ו לש' בספינה ראגוזיאה לתונס עם ח\"ה טובייאנא וכמה יהודים הוא ברחמיו יוליכהו לש' ויצליחהו בכל ויזכני לראות פניו לש' בעה\"ק ת\"ו כי\"ר.",
-   "en": "22 Iyar, Thursday of the week of Beḥukkotai [13 May 1784]: my son ḥakham R. Abraham, may God keep him, set out in peace on a Ragusan ship for Tunis, with Ḥ. H. Tubiana ⚠1 and some Jews. May He in His mercy lead him in peace and give him success in everything, and may I merit to see his face in peace in the Holy City, may it be rebuilt and established, so may it be His will.",
+   "en": "22 Iyar, Thursday of the week of Beḥukkotai [13 May 1784]: my son ḥakham R. Abraham, may God keep him, set out in peace on a Ragusan ship for Tunis, with the accomplished sage ⚠1 Tubiana and some Jews. May He in His mercy lead him in peace and give him success in everything, and may I merit to see his face in peace in the Holy City, may it be rebuilt and established, so may it be His will.",
    "notes": {
     "1": {
      "he": "ח\"ה טובייאנא",
-     "note": "Initials not resolved (perhaps ḥakham H.); Freimann gives the family name Tubiana."
+     "note": "ח\"ה = החכם השלם, \"the accomplished sage\"; his first name is not given. Freimann: Tubiana.",
+     "kind": "note"
     }
    }
   },
@@ -384,14 +414,14 @@
    "start": "179:18",
    "head": false,
    "he": "ניסן 9. ליל ראשון כמעט לא ישנתי והייתי בצער וכאב בקטנים טיף טיף כל הלילה גם היום עברתי צרה גדולה עד שבעונה\"ר לא התפללתי כי אם בדוחק גדול קריתי ק\"ש עם תפילין רש\"י. אך הקב\"ה ריחם עלי ויכולתי להתפלל מנחה אשרי ועמידה בדוחק ובחפזון דמצריים. והייתי מצטער כל השבוע אך לא כיום ראשון. ומים משרש דילאלטיאה היו טובים לי מאד שתכף העבירו הכאב.",
-   "en": "9 Nisan. On the night of Sunday [the evening of Saturday 19 March 1785] I hardly slept; I was in pain, with pain in passing water drop by drop all night. In the day too I went through great distress, so that, for my many sins, I did not pray; only with great difficulty I recited the Shema with Rashi's tefillin. But the Holy One, blessed be He, had mercy on me, and I could pray Minḥah, Ashrei and the Amidah, with difficulty and in the haste of Egypt. I suffered all week, but not as on Sunday. Water of the root of marshmallow (de l'altea) did me much good, for it took the pain away at once.",
+   "en": "9 Nisan. On the night of Sunday [the evening of Saturday 19 March 1785] I hardly slept; I was in pain, with pain in passing water drop by drop all night. In the day too I went through great distress, so that, for my many sins, I did not pray; only with great difficulty I recited the Shema with Rashi's tefillin. But the Holy One, blessed be He, had mercy on me, and I could pray Minḥah, Ashrei and the Amidah, with difficulty and in the haste of Egypt [b. Ber 9a]. I suffered all week, but not as on Sunday. Water of the root of marshmallow (de l'altea) did me much good, for it took the pain away at once.",
    "notes": {}
   },
   {
    "start": "179:23",
    "head": false,
    "he": "ניסן 13. יום ה'. הייתי מוכרח לבדוק איזה דברים בסאל\"א שיש בה קרירות הרבה אך בהכרח עשיתי כי בא מועד.",
-   "en": "13 Nisan, Thursday [24 March 1785]: I had to search some things [for leaven] in the sala, where it is very cold; but I did it from necessity, for the festival had come.",
+   "en": "13 Nisan, Thursday [24 March 1785]: I had to search some things [for leaven] in the sala, where it is very cold; but I did it from necessity, for the appointed time had come [Ps 102:14].",
    "notes": {}
   },
   {
@@ -405,11 +435,12 @@
    "start": "179:27",
    "head": false,
    "he": "ניסן 15. ליל התקדש חג נאספו הסי' אצאייולים ה\"י וטפם עמנו כמנהג והייתי אומר ג' גרגירים בפסקות ראשונות של הגדה ולא עצרתי כח לדרוש ולתור כמנהג וברוך ה' שלפי העובר עלי היה רחמים פשוטים בב' לילות הפסח. ומיום ראשון לא הנחתי לבא אצלי כמעט שום אדם. ואפי' הקרב הקרב בדוחק היה רואה פני והולך. ובעוה\"ר מיום א' עד יום ח' של פסח לא שמעתי קדיש וקדושה וברכו.",
-   "en": "15 Nisan. On the night of the hallowing of the festival [Isa 30:29] [the evening of Friday 25 March 1785] the Signori Acciaioli, may God keep them, and their little ones gathered with us, as is the custom. I said a few words ⚠1 on the first passages of the Haggadah, but I had no strength to expound and search, as is my custom. Blessed be the Lord that, for what I was going through, there was plain mercy on the two nights of Passover. From the first day I let hardly anyone come to me; even the closest relative only saw my face, with difficulty, and went. For my many sins, from the first day to the eighth day of Passover I did not hear Kaddish, Kedushah or Barekhu.",
+   "en": "15 Nisan. On the night of the hallowing of the festival [Isa 30:29] [the evening of Friday 25 March 1785] the Signori Acciaioli, may God keep them, and their little ones gathered with us, as is the custom. I said a few words ⚠1 on the first passages of the Haggadah, but I had no strength to expound and search [Eccl 1:13], as is my custom. Blessed be the Lord that, for what I was going through, there was plain mercy on the two nights of Passover. From the first day I let hardly anyone come to me; even one who came near [Num 17:28] hardly saw my face, and went. For my many sins, from the first day to the eighth day of Passover I did not hear Kaddish, Kedushah or Barekhu.",
    "notes": {
     "1": {
      "he": "ג' גרגירים",
-     "note": "Literally \"three grains\": a few short remarks."
+     "note": "After \"two or three berries\" [Isa 17:6]: a few short remarks.",
+     "kind": "note"
     }
    }
   },
@@ -464,7 +495,7 @@
    "start": "180:17",
    "head": false,
    "he": "29. יצא בני הנז' מהלאזאריטו ונהנינו שנינו עד ד' סיון ולא עד בכלל ומשם אילך הרוני לענה שהיה חולה וכמעט הפליא לעשות עד שאמרתי לו אם תרצה תלך והתחיל לעשות צרכי הליכה ואחר ג' ימים בעש\"ק היה לי צער גדול ושחורה שכמעט לא הייתי בן אדם והוכרחתי לצאת בד' שעות אחר חצות בקאליסו לפכוחי צערין ומהרינ\"ן יצ\"ו הלך אצל בני ועשה בו משפטים. וש\"ק הקב\"ה זיכני להעביר ע\"מ ולהיות שמח. וביום א' עדיין במרדו והלך אצלו מהרבח\"ם יצ\"ו. והפליא לעשות עד שישב ופרעתי קצת מההוצאה ולקחתי הקאהב'י והסוקאר. והתחיל להראות פנים זועפות עד שבילה בשרנו ועורנו. וליל מש\"ק 24 אב א\"ל אני רוצה לילך והשבתי אם תרצה תלך וקם והלך ושלחתי לו חפץ זהב שנתן לדודתו מב\"ת שיקבלנו בגזרה וביום א' הנזכר הלך עם הרח\"ב אשר היו בעצה א' והתאפקתי לעשות לו לויה עד הבארקו ה' יוליכם לש' ואולם עברתי מרורות ועדיין לא נחתי מזר מעשהו מכמה צדדין להפליא שרי ליה מאריה.",
-   "en": "29 [Iyar, Monday 9 May 1785]: my son mentioned above came out of the lazaretto, and we both had pleasure until 4 Sivan, but not including it. From then on he made me drunk with wormwood [Lam 3:15], for he was ill ⚠1 and nearly went to extremes, until I said to him: if you want, go. He began to make the preparations for going. Three days later, on Friday, I had great distress and melancholy, so that I was hardly a human being, and I had to go out at four hours after midday in a calesse to relieve my distress. Our teacher R. Y.N. ⚠2, may his Rock keep him, went to my son and dealt sternly with him [Exod 12:12]. On the holy Sabbath the Holy One, blessed be He, let me overlook it and be glad. On Sunday he was still in his rebellion, and our teacher R. B.Ḥ.M., may his Rock keep him, went to him and did wonders, until he settled down. I paid part of the expense and took the coffee and the sugar. Then he began to show an angry face, until he wore away our flesh and our skin [Lam 3:4]. On the night after the Sabbath, 24 Av [the evening of Saturday 30 July 1785], he said to me: I want to go. I answered: if you want, go. He got up and went. I sent him a gold article he had given to his aunt, my wife, may she be blessed among women, that he should accept it by order ⚠3. On the Sunday mentioned he left with R. Ḥ.B., with whom he was of one counsel. I restrained myself from escorting him to the boat (barca). May the Lord lead them in peace. But I went through bitterness, and I have not yet rested from his strange deed [Isa 28:21], in several respects, a wonder. May his Master forgive him.",
+   "en": "29 [Iyar, Monday 9 May 1785]: my son mentioned above came out of the lazaretto, and we both had pleasure until 4 Sivan, but not including it. From then on he made me drunk with wormwood [Lam 3:15], for he was ill ⚠1 and nearly went to extremes, until I said to him: if you want, go. He began to make the preparations for going. Three days later, on Friday, I had great distress and melancholy, so that I was hardly a human being, and I had to go out at four hours after midday in a calesse to relieve my distress. Our teacher R. Y.N. ⚠2, may his Rock keep him, went to my son and dealt sternly with him [Exod 12:12]. On the holy Sabbath the Holy One, blessed be He, let me forgo my due ⚠4 and be glad. On Sunday he was still in his rebellion, and our teacher R. B.Ḥ.M., may his Rock keep him, went to him and did wonders, until he settled down. I paid part of the expense and took the coffee and the sugar. Then he began to show an angry face, until he wore away our flesh and our skin [Lam 3:4]. On the night after the Sabbath, 24 Av [the evening of Saturday 30 July 1785], he said to me: I want to go. I answered: if you want, go. He got up and went. I sent him a gold article he had given to his aunt, my wife, may she be blessed among women, that he should accept it by order ⚠3. On the Sunday mentioned he left with R. Ḥ.B., with whom he was of one counsel. I forced myself to escort him ⚠5 to the boat (barca). May the Lord lead them in peace. But I went through bitterness, and I have not yet rested from his strange deed [Isa 28:21], in several respects, a wonder. May his Master forgive him.",
    "notes": {
     "1": {
      "he": "שהיה חולה",
@@ -477,6 +508,15 @@
     "3": {
      "he": "שיקבלנו בגזרה",
      "note": "Not clear; perhaps \"that he must take it back\", as a firm request."
+    },
+    "4": {
+     "he": "להעביר ע\"מ",
+     "note": "Freimann: ע\"מ = על מדותי. The phrase is said of one who does not stand on his rights [b. RH 17a].",
+     "kind": "note"
+    },
+    "5": {
+     "he": "והתאפקתי לעשות לו לויה",
+     "note": "התאפק with an infinitive is read as in 1 Sam 13:12, \"I forced myself and offered\": he mastered his feelings and escorted his son to the boat. The other sense, \"I held back from escorting him\", is possible."
     }
    }
   },
