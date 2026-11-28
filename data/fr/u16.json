@@ -37,11 +37,16 @@
    "start": "76:13",
    "head": false,
    "he": "אייר 12. ד' מפהינסא שלח סי' שבתי פאנו ערל גירלונומו שיבא ללוגו ובא עמנו ג\"כ הבחור סי' מיכאל שלמה חזק וב' מילין קודם יצאו לקראתנו קצת מבני העיר ובאנו לש' לעיר לוגו ונחנה בית סי' שבתי שמריה פאנו הנז' חדר יפה בהוצאת הקק\"י. ושם הזקן ר' יאודה פאנו וסיפר לי שהרמ\"ע ז\"ל היה כותב בקלף קטן שמע ישראל בחלב אם ובת מניקות בפרק א' מעורב במיץ לימוני בצום וטבילה והוא סגולה נפלאה לבולע קלף זה שלא ימיר ובדוק.",
-   "en": "12 Iyar [Wednesday 1 May 1776]: from Faenza ⚠1: Signor Shabbetai Fano sent a gentile, Girolamo, to bring me to Lugo, and the young man Signor Michael Solomon Ḥazak came with us too. Two miles before the town some of its people came out to meet us, and we came in peace to the city of Lugo and lodged in the house of Signor Shabbetai Shemariah Fano mentioned above, in a fine room, at the expense of the holy congregation. There the old man R. Judah Fano told me that R. Menaḥem Azariah of Fano, of blessed memory, used to write Shema Yisrael on a small parchment in the milk of a mother and a daughter who were both nursing at the same time, mixed with lemon juice, with fasting and immersion; it is a wonderful segullah, that one who swallows this parchment will not change his religion. It has been tested.",
+   "en": "12 Iyar [Wednesday 1 May 1776]: from Faenza ⚠1: Signor Shabbetai Fano sent a gentile, Girolamo, to bring me to Lugo, and the young man Signor Michael Solomon Ḥazak ⚠2 came with us too. Two miles before the town some of its people came out to meet us, and we came in peace to the city of Lugo and lodged in the house of Signor Shabbetai Shemariah Fano mentioned above, in a fine room, at the expense of the holy congregation. There the old man R. Judah Fano told me that R. Menaḥem Azariah of Fano, of blessed memory, used to write Shema Yisrael on a small parchment in the milk of a mother and a daughter who were both nursing at the same time, mixed with lemon juice, with fasting and immersion; it is a wonderful segullah, that one who swallows this parchment will not change his religion. It has been tested.",
    "notes": {
     "1": {
      "he": "ד' מפהינסא שלח",
      "note": "Read as \"from Faenza (Signor Shabbetai Fano sent ...)\": he left Faenza that day. The sentence is compressed; it could also mean that Shabbetai Fano sent the man from Faenza."
+    },
+    "2": {
+     "he": "חזק",
+     "note": "Ḥazak, \"strong\", is the Hebrew form of the Italian family name Forti; Freimann gives it so for R. Jacob Ḥazak of Padua (82:14).",
+     "kind": "note"
     }
    }
   },
@@ -49,11 +54,12 @@
    "start": "76:19",
    "head": false,
    "he": "אייר 15. ז' בא הרב מה\"ר שלמה דוד מלויקיו אצלי והלכתי עמו לת\"ת לשמוע ב' בחורים מפלפלים דרך ויכוח במאמר מחד בשביך ואמרו הערות וישובים והכל מהרב הנז', ואח\"ז הלכתי אצל הרב ובא עמי לבקר להממונים סי' יעקב פינצי חמיו וסי' גדליא סיניגאליא וסי' יוסף מלויקייו וסי' ברוך שלמה פינטו עשו לי כבוד גדול ובמנחה דרש הרב לעוררם על השליחות ואמר חידושים יפים וקשרי מאמרים סמוכים ופלפול ובא עם גיסו סי' יצחק פינצי לסעוד עמי סעודה ג'.",
-   "en": "15 Iyar [Sabbath 4 May 1776]: the rabbi, our teacher R. Solomon David Del Vecchio, came to me, and I went with him to the Talmud Torah to hear two young men argue in pilpul, by way of debate, on the saying \"מחד בשביך\" ⚠1. They put forward difficulties and answers, all of it from the rabbi mentioned above. After that I went to the rabbi's house, and he came with me to visit the wardens: Signor Jacob Finzi, his father-in-law, Signor Gedaliah Senigaglia, Signor Joseph Del Vecchio and Signor Baruch Solomon Pinto. They did me great honor. At the afternoon prayer the rabbi preached to rouse them for the mission; he said fine new insights, linked adjacent sayings, and argued with pilpul. He came with his brother-in-law, Signor Isaac Finzi, to eat the third meal with me.",
+   "en": "15 Iyar [Sabbath 4 May 1776]: the rabbi, our teacher R. Solomon David Del Vecchio, came to me, and I went with him to the Talmud Torah to hear two young men argue in pilpul, by way of debate, on the saying \"From the first day of your week, for your Sabbath\" [b. Betzah 16a] ⚠1. They put forward difficulties and answers, all of it from the rabbi mentioned above. After that I went to the rabbi's house, and he came with me to visit the wardens: Signor Jacob Finzi, his father-in-law, Signor Gedaliah Senigaglia, Signor Joseph Del Vecchio and Signor Baruch Solomon Pinto. They did me great honor. At the afternoon prayer the rabbi preached to rouse them for the mission; he said fine new insights, linked adjacent sayings, and argued with pilpul. He came with his brother-in-law, Signor Isaac Finzi, to eat the third meal with me.",
    "notes": {
     "1": {
      "he": "במאמר מחד בשביך",
-     "note": "So printed; the source of the saying is not identified, and the reading may be faulty."
+     "note": "The saying of the House of Shammai, מחד שביך לשבתיך, \"from the first day of your week, for your Sabbath\" [b. Betzah 16a]: a man keeps each good thing he finds, from Sunday on, for the Sabbath. The print has בשביך. The two young men debated it on the Sabbath.",
+     "kind": "note"
     }
    }
   },
@@ -68,15 +74,15 @@
    "start": "76:30",
    "head": false,
    "he": "אייר 17. ב' ליל ב' הייתי ד' שעות עם הזקן הנז' וראשו פרזלא מערב בסינרא ולא עשיתי מאומה, ובבקר שמר לי על פתח בהכ\"נ וא\"ל שבלילה חשב בדברי ואני לא הפכתי פני אצלו להיותי מעוטף בצי' ותפי' והוא סבר שאני מתכעס עליו ונתפעל מאד וקנה לי המעיל ואחר תפלה בא לבית הוא והביא חביריו ונתרצו לעשות ש' בתנאים ונכתבו, והתנדבו איזה פרטים יום א' ויום ב' לשליחות.",
-   "en": "17 Iyar [Monday 6 May 1776]: on the night of Monday [the evening of 5 May] I was four hours with the old man mentioned above, and his head was iron mixed with rock ⚠1; I achieved nothing. In the morning he waited for me at the door of the synagogue and told me that in the night he had thought over my words. I did not turn my face toward him, because I was wrapped in tzitzit and tefillin, and he thought I was angry with him. He was much moved, and ⚠2 my cloak. After prayers he came to the house himself and brought his fellows, and they agreed to make peace on terms, and the terms were written down. Some individuals gave donations for the mission on Sunday and Monday.",
+   "en": "17 Iyar [Monday 6 May 1776]: on the night of Monday [the evening of 5 May] I was four hours with the old man mentioned above, and his head was iron mixed with rock ⚠1; I achieved nothing. In the morning he waited for me at the door of the synagogue and told me that in the night he had thought over my words. I did not turn my face toward him, because I was wrapped in tzitzit and tefillin, and he thought I was angry with him. He was much moved, and bought me the cloak ⚠2. After prayers he came to the house himself and brought his fellows, and they agreed to make peace on terms, and the terms were written down. Some individuals gave donations for the mission on Sunday and Monday.",
    "notes": {
     "1": {
      "he": "וראשו פרזלא מערב בסינרא",
-     "note": "Printed בסינרא; probably for טינרא, Aramaic \"rock\": his head was as hard as iron and stone, i.e. he was stubborn."
+     "note": "After the statue in Daniel, \"iron mixed with miry clay\", פרזלא מערב בחסף טינא [Dan 2:41, 43]. The print has בסינרא; read טינרא, Aramaic \"rock\" (or טינא, \"clay\", as in the verse): his head was iron and rock, and he would not yield."
     },
     "2": {
      "he": "וקנה לי המעיל",
-     "note": "So printed, literally \"bought me the cloak\", which does not fit; perhaps a misreading for ונשק לי המעיל, \"kissed my cloak\"."
+     "note": "The print is clear and is kept: \"he bought me the cloak\", a gift to appease him; no cloak is named before. It may also be the legal act of acquisition (kinyan) done by taking hold of a garment, by which he bound himself to make peace."
     }
    }
   },
@@ -91,11 +97,12 @@
    "start": "77:3",
    "head": false,
    "he": "אייר 19. ד' נכתבו התנאים באיטלקי וחתמנו אני הצעיר ומהרשד\"ם ונחתם ונמסר ביד הרב הנז\"ל עד עת בא גזרת האפיפיור כי כבר הריב היה נצב ברומא ויהי לנס לפשר ביניהם וכבר השר סי' משה חיים כהן נתעסק בזה ושלח לסי' רושי והעלה חרס וה' גלגל זכות על ידי הדל. וסי' גדליא היה כמעט קרוב למות ומהשמחה קם ויחי מחוליו והלכתי אצלו והיה מטייל בבית ברוך ה'. והייתי מוכן ליסע והיה עכוב מקלקול הדרכים מאד.",
-   "en": "19 Iyar [Wednesday 8 May 1776]: the terms were written in Italian, and I, the least of men, and R. S. D. M. [Solomon David Del Vecchio] signed. The document was sealed and handed to the rabbi mentioned above until the decree of the Pope should come, for the quarrel was already standing before Rome, and it was a wonder ⚠1 to make peace between them. The noble Signor Moses Ḥayyim Kohen had already dealt with it and sent to Signor Rossi, but came up with nothing; and the Lord brought about the merit through me, the poor one. Signor Gedaliah had been almost at the point of death, and from joy he rose and recovered from his illness [2 Kings 20:1]. I went to him, and he was walking about the house, blessed be the Lord. I was ready to set out, but there was a long delay because the roads were very bad.",
+   "en": "19 Iyar [Wednesday 8 May 1776]: the terms were written in Italian, and I, the least of men, and R. S. D. M. [Solomon David Del Vecchio] signed. The document was sealed and handed to the rabbi mentioned above until the decree of the Pope should come, for the quarrel was already standing before Rome, and it was a wonder ⚠1 to make peace between them. The noble Signor Moses Ḥayyim Kohen had already dealt with it and sent to Signor Rossi, but came up with nothing; and the Lord brought about the merit through me, the poor one. Signor Gedaliah had been almost at the point of death, and from joy he rose and recovered from his illness [Isa 38:9]. I went to him, and he was walking about the house, blessed be the Lord. I was ready to set out, but there was a long delay because the roads were very bad.",
    "notes": {
     "1": {
      "he": "ויהי לנס לפשר ביניהם",
-     "note": "Literally \"it became a banner (or a wonder) to make peace between them\"; the sense is that peace was hard to make. Uncertain."
+     "note": "The words are from Num 26:10. The Ḥida uses them for \"it was a wonder\" (so too at 83:15): the peace that others had failed to make was made through him.",
+     "kind": "note"
     }
    }
   },
@@ -107,7 +114,7 @@
    "notes": {
     "1": {
      "he": "ובית יעקב הגביר זלמן ובניו",
-     "note": "So printed. Probably a family of Lugo that treated him well, but whether \"Zalman\" is a name or a family name, and who \"Jacob\" is here, is not clear."
+     "note": "Jacob is Signor Jacob Finzi, warden of Lugo and father-in-law of the rabbi (76:19); his sons Moses Jedidiah and Isaac are named at 76:19 and 76:25. \"Zalman\" is read as his second name. בית יעקב is also the Bible's \"house of Jacob\" [Isa 2:5]."
     }
    }
   },
@@ -115,11 +122,16 @@
    "start": "77:13",
    "head": false,
    "he": "אייר 24. ב' במדבר נסעתי וסי' משה הנז' שלח שמש הקק\"י עמי לפירארה ולקח קארוסה בד' סוסים וליווני רוב הקק\"י וסי' שבתי שמריה פאנו ואחר ליוונו ה' מילין. ושמש הקק\"י הוא אברהם יצחק שמעיא איש טוב וצווה על פי משה הנז' להוציא כל ההוצאות והיה לי לעינים וסמוך לערב [בא] לקראתי הבחור המושלם סי' בנימין שלמה ואחיו נחמיא בני יעקב הגביר מינירבי ועברנו פתח פירארה לש' בהשתדלות ידידי סי' בש\"ם והי\"ל צער גדול ע\"ז מפני כתיבותי. והקב\"ה ברחמיו רחם שנכנסנו לש' באין שופ\"ר ונחנה אצל הגביר סי' יעקב הנז' ואשתו החסידה מ' ריקא הפליאה לעשות חסדי חסדים עמי גם בניה סי' יוסף מנחם וסי' בש\"ם הנז'. ושם בפירארה אש מתלקחת כו' הקק\"י עם השר סי' משה חיים כהן ע\"ד המס ונכנסו האפיפיור והחשמן בורגיזי וכמה שרים וחכמים ושלוחים וסי' עמרון וסי' מורפורגו והעלו חרס והפצירו בי מאד להשתדל.",
-   "en": "24 Iyar, Monday of the week of Bemidbar [13 May 1776]: I set out. Signor Moses mentioned above sent the beadle of the holy congregation with me to Ferrara and hired a carriage with four horses. Most of the holy congregation and Signor Shabbetai Shemariah Fano escorted me, and then they escorted us five miles. The beadle of the holy congregation is Abraham Isaac Shemaiah, a good man; he was ordered by Moses mentioned above to pay all the expenses, and he was as eyes to me [Num 10:31]. Toward evening the accomplished young man Signor Benjamin Solomon and his brother Nehemiah, sons of the gevir Jacob Minerbi, [came] to meet me, and we passed the gate of Ferrara in peace through the efforts of my friend Signor B. S. M. [Benjamin Solomon Minerbi]. I had great distress over this because of my writings ⚠1, but the Holy One, blessed be He, in His mercy had pity, and we entered in peace without hindrance or mishap. We lodged with the gevir Signor Jacob mentioned above and his pious wife, Madonna Rica, who did wonderfully in showing me the greatest kindness, and so did her sons Signor Joseph Menaḥem and Signor B. S. M. mentioned above. There in Ferrara a fire is blazing, etc., between the holy congregation and the noble Signor Moses Ḥayyim Kohen about the tax. The Pope, Cardinal Borghese, several noblemen, sages and envoys, Signor Amron and Signor Morpurgo had all intervened and came up with nothing, and they pressed me hard to make the effort.",
+   "en": "24 Iyar, Monday of the week of Bemidbar [13 May 1776]: I set out. Signor Moses mentioned above sent the beadle of the holy congregation with me to Ferrara and hired a carriage with four horses. Most of the holy congregation and Signor Shabbetai Shemariah Fano escorted me, and then they escorted us five miles. The beadle of the holy congregation is Abraham Isaac Shemaiah, a good man; he was ordered by Moses mentioned above to pay all the expenses, and he was as eyes to me [Num 10:31]. Toward evening the accomplished young man Signor Benjamin Solomon and his brother Nehemiah, sons of the gevir Jacob Minerbi, [came] to meet me, and we passed the gate of Ferrara in peace through the efforts of my friend Signor B. S. M. [Benjamin Solomon Minerbi]. I had great distress over this because of my writings ⚠1, but the Holy One, blessed be He, in His mercy had pity, and we entered in peace, with no adversary and no evil chance [1 Kings 5:18] ⚠2. We lodged with the gevir Signor Jacob mentioned above and his pious wife, Madonna Rica, who did wonderfully in showing me the greatest kindness, and so did her sons Signor Joseph Menaḥem and Signor B. S. M. mentioned above. There in Ferrara a fire is blazing, etc., between the holy congregation and the noble Signor Moses Ḥayyim Kohen about the tax. The Pope, Cardinal Borghese, several noblemen, sages and envoys, Signor Amron and Signor Morpurgo had all intervened and came up with nothing, and they pressed me hard to make the effort.",
    "notes": {
     "1": {
      "he": "מפני כתיבותי",
      "note": "Read as his manuscripts, which he feared would be examined at the city gate; uncertain."
+    },
+    "2": {
+     "he": "באין שופ\"ר",
+     "note": "Freimann: שופ\"ר stands for שטן ופגע רע, the words of Solomon in 1 Kings 5:18. The initials spell \"shofar\".",
+     "kind": "note"
     }
    }
   },
@@ -134,8 +146,14 @@
    "start": "77:26",
    "head": false,
    "he": "סיון 14. ז' שמענו שמועה רעה כי במנטובה יום הששי נעשו שתי חופות חתנים בבית א' ובחופה הב' נתן החתן קידושין ויצאו החכמים לבית אחר לחתום בהכתובה והתחילו ז' ברכות ובעוה\"ר נפל קרקע הבית והעם עליה לבית שתחתיו ונפל אותו קרקע שני ונפלו לבית ג' ונפל קרקע הבית ג' ומתו בסקילה וחנק ס\"ה נפש ישראל ובכלל הכלה ואמה ואחותה ושלשים נפש הוכו ונפצעו ובכלל החתן. והגברת סי' אסתר אשת סי' פנחס הכהן היתה שם ובא משרת בבלי דעת ודחפה והקפידה ויצאה מהבית ותכף נפל הבית גם גיסה סי' ישראל בעוד שהיה בא לז' ברכות נזכר שהי\"ל לכתוב דבר הכרחי וחזר, ותהי לחרדת אלדים והינו חולים על השמועה רעה ה' יצילנו ולכל ישראל מכל גזרות רעות כי\"ר.",
-   "en": "14 Sivan [Sabbath 1 June 1776]: we heard bad news: in Mantua on Friday two wedding canopies were held in one house. At the second canopy the bridegroom had given the betrothal, and the sages had gone out to another room to sign the marriage contract, and they had begun the seven blessings, when, for our many sins, the floor of the house fell with the people on it into the room beneath; that second floor fell, and they fell into the third room, and the floor of the third room fell. Sixty-five Jewish souls died, as by stoning and strangling, among them the bride, her mother and her sister, and thirty souls were struck and wounded, among them the bridegroom. The lady Signora Esther, wife of Signor Phinehas ha-Kohen, was there; a servant came and pushed her without meaning to, and she took offence and left the house, and at once the house fell. Also her brother-in-law Signor Israel, while he was coming to the seven blessings, remembered that he had to write something necessary and went back. It was a trembling of God [1 Sam 14:15], and we were sick over the bad news. May the Lord save us and all Israel from all evil decrees; so may it be His will.",
-   "notes": {}
+   "en": "14 Sivan [Sabbath 1 June 1776]: we heard bad news ⚠1: in Mantua on Friday two wedding canopies were held in one house. At the second canopy the bridegroom had given the betrothal, and the sages had gone out to another room to sign the marriage contract, and they had begun the seven blessings, when, for our many sins, the floor of the house fell with the people on it into the room beneath; that second floor fell, and they fell into the third room, and the floor of the third room fell. Sixty-five Jewish souls died, as by stoning and strangling, among them the bride, her mother and her sister, and thirty souls were struck and wounded, among them the bridegroom. The lady Signora Esther, wife of Signor Phinehas ha-Kohen, was there; a servant came and pushed her without meaning to, and she took offence and left the house, and at once the house fell. Also her brother-in-law Signor Israel, while he was coming to the seven blessings, remembered that he had to write something necessary and went back. It was a trembling of God [1 Sam 14:15], and we were sick over the bad news. May the Lord save us and all Israel from all evil decrees; so may it be His will.",
+   "notes": {
+    "1": {
+     "he": "שמועה רעה",
+     "note": "The fall of a house in the ghetto of Mantua at a wedding on Friday 13 Sivan [31 May 1776]. Freimann refers to Steinschneider, Die Geschichtsliteratur der Juden, p. 152, no. 63, for the writings about it. This is \"the decree\" for which Mantua took on a public fast (79:27, 81:16).",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "77:35",
@@ -174,11 +192,16 @@
    "start": "78:7",
    "head": false,
    "he": "תמוז ר\"ח. ב' קרח בצער גדול הלכתי לבה\"כ והיו מפצירים ליקח רופא ולא רציתי בטענות ובא סי' משה כהן מבני בניו של ח\"ר אליעזר כהן מליוורנו והראני שלשלת יחוסו בעדות רבני ארם צובא הקדמונים שנמצא בין גנזיהם עד מהר\"ש הכהן מבית דינו של הרשב\"א בברצילונה וזה הרופא נתן לי ג\"ם תרופה ופסק הקיא. בו ביום בא הגביר סי' ח\"ר אהרן שמואל חי כהן ממנטובה וביקרני תכף והזמין אותי לביתו למנטובה.",
-   "en": "Rosh Ḥodesh Tammuz, Monday of the week of Koraḥ [30 Sivan, 17 June 1776]: in great distress I went to the synagogue. They kept pressing me to send for a physician, and I refused, giving reasons. Then Signor Moses Kohen came, a descendant of the sage R. Eliezer Kohen of Livorno. He showed me his chain of descent, attested by the early rabbis of Aleppo and found among their archives, going back to R. S. ha-Kohen of the court of the Rashba in Barcelona. This physician gave me ⚠1 a remedy, and the vomiting stopped. On that same day the gevir Signor R. Aaron Samuel Ḥai Kohen of Mantua came and visited me at once, and invited me to his house in Mantua.",
+   "en": "Rosh Ḥodesh Tammuz, Monday of the week of Koraḥ [30 Sivan, 17 June 1776]: in great distress I went to the synagogue. They kept pressing me to send for a physician, and I refused, giving reasons. Then Signor Moses Kohen came, a descendant of the sage R. Eliezer Kohen of Livorno. He showed me his chain of descent, attested by the early rabbis of Aleppo and found among their archives, going back to R. S. ha-Kohen ⚠2 of the court of the Rashba in Barcelona. This physician gave me ⚠1 a remedy, and the vomiting stopped. On that same day the gevir Signor R. Aaron Samuel Ḥai Kohen of Mantua came and visited me at once, and invited me to his house in Mantua.",
    "notes": {
     "1": {
      "he": "נתן לי ג\"ם תרופה",
      "note": "ג\"ם is not clear: perhaps גם, \"also gave me a remedy\", or an abbreviated name of a drug or a measure."
+    },
+    "2": {
+     "he": "מהר\"ש הכהן",
+     "note": "Freimann: perhaps Samuel ha-Kohen of Valencia, to whom the Rashba wrote (Responsa, part 5, no. 179).",
+     "kind": "note"
     }
    }
   },
@@ -186,7 +209,7 @@
    "start": "78:13",
    "head": false,
    "he": "תמוז 2. ד' נתן לי הרופא ריבארבארו ופסקה היציאה ואכלתי בשר ולחם קלוי שרוי ביין כי אזלת יד ואין בי כח. והלכתי בקאליסו לטייל על החומות עם הידידים האחים סי' מינירבי ונכדיו יצ\"ו.",
-   "en": "2 Tammuz [Wednesday 19 June 1776]: the physician gave me rhubarb (rabarbaro), and the flux stopped. I ate meat and toasted bread soaked in wine, for strength was gone [Deut 32:36] and there was no strength in me. I went in a calash to take the air on the city walls with the friends, the brothers Signori Minerbi, and his grandsons, may their Rock keep them.",
+   "en": "2 Tammuz [Wednesday 19 June 1776]: the physician gave me rhubarb (rabarbaro), and the flux stopped. I ate meat and toasted bread soaked in wine, for strength was gone [Deut 32:36] and there was no strength in me. I went in a calesse to take the air on the city walls with the friends, the brothers Signori Minerbi, and his grandsons, may their Rock keep them.",
    "notes": {}
   },
   {
@@ -233,8 +256,14 @@
    "start": "78:26",
    "head": false,
    "he": "תמוז 14. ב' בא ארגידוקי מילאן והדוכסית אשתו בת דוקי מודינא ופרינסיפיזא פארמא אחות הארגידוקי הנז' בני הריגינה להקביל פני אחיהם גראן דוקי טוסקאנה ואשתו בת מלך ספרד והנז' הם אחים לאינפיראדור כלם בני ריגינה אונגאריאה והארגידוקי נז' בא בבוסאנטריו ממנטובה והבוסאנטוריו מסי' כהנים ובא עמו סי' פנחס הכהן.",
-   "en": "14 Tammuz [Monday 1 July 1776]: the Archduke of Milan came, with the duchess his wife, daughter of the Duke of Modena, and the Princess of Parma, sister of the archduke mentioned above, children of the Queen, to greet their brother the Grand Duke of Tuscany and his wife, the daughter of the King of Spain. Those mentioned are brothers and sisters of the Emperor, all children of the Queen of Hungary. The archduke mentioned above came in the Bucentaur from Mantua; the Bucentaur belongs to the Signori Kohanim, and Signor Phinehas ha-Kohen came with him.",
-   "notes": {}
+   "en": "14 Tammuz [Monday 1 July 1776]: the Archduke of Milan ⚠1 came, with the duchess his wife, daughter of the Duke of Modena, and the Princess of Parma, sister of the archduke mentioned above, children of the Queen, to greet their brother the Grand Duke of Tuscany and his wife, the daughter of the King of Spain. Those mentioned are brothers and sisters of the Emperor, all children of the Queen of Hungary. The archduke mentioned above came in the Bucentaur from Mantua; the Bucentaur belongs to the Signori Kohanim, and Signor Phinehas ha-Kohen came with him.",
+   "notes": {
+    "1": {
+     "he": "ארגידוקי מילאן",
+     "note": "Freimann names them: Archduke Ferdinand, governor of Milan, and his wife Maria Beatrice of Modena; his sister Maria Amalia, Duchess of Parma; their brother Leopold, Grand Duke of Tuscany (later Emperor Leopold II), and his wife Maria Luisa, daughter of Charles III of Spain. All are children of Maria Theresa, Queen of Hungary, and brothers and sisters of the Emperor Joseph II.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "78:31",
@@ -247,15 +276,27 @@
    "start": "79:1",
    "head": false,
    "he": "תמוז 16. ד' הלכתי לועק\"י והשבעתים ע\"ד הפשר שעשיתי עם הרמ\"ך וחתמו וחתמתי ושלחנו להשר הרמ\"ך שיבא והביא הנייר שלו חתום מידו ומיד אחיו סי' אהרן חי וחתמתי שם ג\"כ ודברתי על הש' ועושה הש' הודו לה' כ\"ט כל\"ח כי עשית פל\"א פירארה לוגו אנקונה שהקב\"ה עזרני ברחמיו לשים ש' ביניהם כמש\"ל.",
-   "en": "16 Tammuz [Wednesday 3 July 1776]: I went to the council of the holy congregation and made them swear concerning the settlement that I had made with R. M. Ḥ. K.; they signed and I signed. We sent to the noble R. M. Ḥ. K. to come, and he brought his paper, signed by his own hand and by the hand of his brother Signor Aaron Ḥai, and I signed there too. I spoke about peace and the Maker of peace. Give thanks to the Lord, for He is good, for His mercy endures for ever: \"for You have done wonders\" [Isa 25:1], Ferrara, Lugo, Ancona, for the Holy One, blessed be He, in His mercy helped me to make peace between them, as written above.",
-   "notes": {}
+   "en": "16 Tammuz [Wednesday 3 July 1776]: I went to the council of the holy congregation and made them swear concerning the settlement that I had made with R. M. Ḥ. K.; they signed and I signed. We sent to the noble R. M. Ḥ. K. to come, and he brought his paper, signed by his own hand and by the hand of his brother Signor Aaron Ḥai, and I signed there too. I spoke about peace and the Maker of peace. Give thanks to the Lord, for He is good, for His mercy endures for ever: \"for You have done a wonder\" [Isa 25:1] ⚠1: Ferrara, Lugo, Ancona, for the Holy One, blessed be He, in His mercy helped me to make peace between them, as written above.",
+   "notes": {
+    "1": {
+     "he": "כי עשית פל\"א פירארה לוגו אנקונה",
+     "note": "The marked word פל\"א, \"wonder\", is also the initials of פירארה, לוגו, אנקונה: the three towns where he made peace.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "79:6",
    "head": false,
    "he": "תמוז 19. ז' קריתי לחכם שלמה לאמפרונטי ושוב לממונים ואני הייתי בבית הרמ\"ך ובאו וקריתי לסי' שלמה פאזיני וסי' יעקב מינירבי וסי' יאודה בייאנקיני ובאו כלם ונתפרסם הש' ובערב באו הרמ\"ך וסי' פנחס ממנטובה לבית סי' מינירבי לבקרני.",
-   "en": "19 Tammuz [Sabbath 6 July 1776]: I called the sage Solomon Lampronti and then the wardens, while I was in the house of R. M. Ḥ. K., and they came. I called Signor Solomon Pazini, Signor Jacob Minerbi and Signor Judah Bianchini, and all of them came, and the peace was made public. In the evening R. M. Ḥ. K. and Signor Phinehas of Mantua came to the house of Signor Minerbi to visit me.",
-   "notes": {}
+   "en": "19 Tammuz [Sabbath 6 July 1776]: I called the sage Solomon Lampronti ⚠1 and then the wardens, while I was in the house of R. M. Ḥ. K., and they came. I called Signor Solomon Pazini, Signor Jacob Minerbi and Signor Judah Bianchini, and all of them came, and the peace was made public. In the evening R. M. Ḥ. K. and Signor Phinehas of Mantua came to the house of Signor Minerbi to visit me.",
+   "notes": {
+    "1": {
+     "he": "לחכם שלמה לאמפרונטי",
+     "note": "Freimann: he died in 5542 [1781/82].",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "79:10",
@@ -289,7 +330,7 @@
    "start": "79:18",
    "head": false,
    "he": "תמוז 24. ה' התפללתי בבקר במנין ונסעתי בקאליסו של הרמ\"ך וליוונו סי' אריה שמואל וסי' בש\"ם וסי' ישעיא הכהן ויטאלי עד הפילוניקא ומצאנו שם סי' פנחס שהיה הולך לפירארה ובקאליסו שלו נסעתי לסירמיד והלכנו עם סי' דוד גריגו לריויירי וחתמנו שם הבהול במכס.",
-   "en": "24 Tammuz [Thursday 11 July 1776]: I prayed in the morning with a minyan and set out in the calash of R. M. Ḥ. K. Signor Aryeh Samuel, Signor B. S. M. and Signor Isaiah ha-Kohen Vitali escorted us as far as Felonica, and there we found Signor Phinehas, who was going to Ferrara; in his calash I went on to Sermide. We went with Signor David Grego to Revere, and there we had the trunks (baule) sealed at the customs.",
+   "en": "24 Tammuz [Thursday 11 July 1776]: I prayed in the morning with a minyan and set out in the calesse of R. M. Ḥ. K. Signor Aryeh Samuel, Signor B. S. M. and Signor Isaiah ha-Kohen Vitali escorted us as far as Felonica, and there we found Signor Phinehas, who was going to Ferrara; in his calesse I went on to Sermide. We went with Signor David Grego to Revere, and there we had the trunks (baule) sealed at the customs.",
    "notes": {}
   },
   {
@@ -303,21 +344,33 @@
    "start": "79:24",
    "head": false,
    "he": "תמוז 26. ז' יום ש\"ק באו הממונים לבקרני והלכתי לרבנים וראיתי בבית הר\"י סארוואל חומש עם פי' והפטרות דפוס קושט' ש' הרס\"ה והדפיסו אנשים מגרוש ספרד ושם הפטרות חדשות.",
-   "en": "26 Tammuz, the holy Sabbath [13 July 1776]: the wardens came to visit me, and I went to the rabbis. In the house of R. Y. Saraval I saw a Pentateuch with a commentary and the haftarot, printed in Constantinople in the year 5265 [1505]; men of the exile from Spain printed it, and it has new haftarot.",
-   "notes": {}
+   "en": "26 Tammuz, the holy Sabbath [13 July 1776]: the wardens came to visit me, and I went to the rabbis. In the house of R. Y. Saraval ⚠1 I saw a Pentateuch with a commentary and the haftarot, printed in Constantinople in the year 5265 [1505]; men of the exile from Spain printed it, and it has new haftarot.",
+   "notes": {
+    "1": {
+     "he": "הר\"י סארוואל",
+     "note": "Freimann: R. Jacob Raphael Saraval; for the Constantinople Pentateuch of 5265 [1505] he refers to Steinschneider's Bodleian catalogue, no. 19.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "79:27",
    "head": false,
    "he": "אב 7. ג' ואתחנן באו הרבנים עפ\"י הועד לשאלני בת\"צ שקבלו והיו רוצים לשנות וטרחתי הרבה שיסכימו שלא לשנות והרב הרופא מהרי\"ג קאזיס וח\"ר יקותיאל הסכימו והשאר בטלו דעתם.",
-   "en": "7 Av, Tuesday of the week of Va'etḥanan [23 July 1776]: the rabbis came on the instruction of the council to ask me about a public fast that they had taken on, which they wanted to change. I took great trouble that they should agree not to change it. The rabbi and physician R. Y. G. Cases and the sage R. Yekutiel agreed, and the rest gave way.",
-   "notes": {}
+   "en": "7 Av, Tuesday of the week of Va'etḥanan [23 July 1776]: the rabbis came on the instruction of the council to ask me about a public fast that they had taken on, which they wanted to change. I took great trouble that they should agree not to change it. The rabbi and physician R. Israel Gedaliah Cases ⚠1 and the sage R. Yekutiel agreed, and the rest gave way.",
+   "notes": {
+    "1": {
+     "he": "מהרי\"ג קאזיס",
+     "note": "Freimann: R. Israel Gedaliah Cases, who died in 5553 [1792/93].",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "79:30",
    "head": false,
    "he": "אב 9. ה' יום ט\"ב דרש הר\"י סאראוואל והזכירני בכבוד גדול שאמרתי שק\"ק מנטובה חשובים ויסרם כי יש לו נ\"ר שיתנהגו בקדושה כמו שהנהיגו הרמ\"ע והרמ\"ז. ובבית סי' סולם דורש הרב הרי\"ג קזיס כל ליל שבת ומקדים הקדמה ופשט ומזה יוצא למאמר מדרש ומדקדק בו דקדוקים דקים ומישבו וזהו על סדר המדרש מאמר אחר מאמר ומקשר הכל יפה. וכך עושים בבה\"כ אחר תפלה שעה {f80}בעין יעקב הרבנים וכל א' לקח מסכתא שלבו חפץ ובכל שבת הדורש מתחיל במוסר ויוצא למאמר על הסדר שלו ומשם לפרשה ומקשר הכל יפה.",
-   "en": "9 Av [Thursday 25 July 1776], the day of the Ninth of Av: R. Y. Saraval preached and mentioned me with great honor: that I had said the holy congregation of Mantua is esteemed; and he admonished them ⚠1, that he would have satisfaction if they conducted themselves in holiness, as R. Menaḥem Azariah of Fano and R. Moses Zacuto had taught them to. In the house of Signor Sullam the rabbi R. Y. G. Cases preaches every Friday night. He begins with an introduction and the plain sense, and from there he goes on to a saying of the Midrash, examines it in fine detail and resolves it; this goes in the order of the Midrash, saying after saying, and he links everything nicely. So too in the synagogue after prayers, for an hour, the rabbis study Ein Yaakov; each one has taken the tractate his heart desires, and every Sabbath the preacher begins with moral instruction, goes on to a saying in his order, and from there to the weekly portion, and links everything nicely.",
+   "en": "9 Av [Thursday 25 July 1776], the day of the Ninth of Av: R. Y. Saraval preached and mentioned me with great honor: that I had said the holy congregation of Mantua is esteemed; and he admonished them ⚠1, that he would have satisfaction if they conducted themselves in holiness, as R. Menaḥem Azariah of Fano and R. Moses Zacuto had taught them to. In the house of Signor Sullam the rabbi R. Israel Gedaliah Cases preaches every Friday night. He begins with an introduction and the plain sense, and from there he goes on to a saying of the Midrash, examines it in fine detail and resolves it; this goes in the order of the Midrash, saying after saying, and he links everything nicely. So too in the synagogue after prayers, for an hour, the rabbis study Ein Yaakov; each one has taken the tractate his heart desires, and every Sabbath the preacher begins with moral instruction, goes on to a saying in his order, and from there to the weekly portion, and links everything nicely.",
    "notes": {
     "1": {
      "he": "ויסרם",
@@ -329,25 +382,25 @@
    "start": "80:3",
    "head": false,
    "he": "אב 12. א' עקב נתועדו הועק\"י והגם כי קשים הם ונתחדשו צרות מהגזרה הנז' מכמה אלמנות ויתומים שצריך הקק\"י לזון, עכ\"ז בהשתדלות הג' בעה\"ב סי' ישראל ראש הקהל התנדבו נדבה יפה ת\"ל.",
-   "en": "12 Av, Sunday of the week of Ekev [28 July 1776]: the council of the holy congregation assembled. Although these are hard times, and new troubles have come from the disaster mentioned above, with several widows and orphans whom the holy congregation must support, even so, through the efforts of the great householder Signor Israel, the head of the community, they gave a fine donation, praise God.",
+   "en": "12 Av, Sunday of the week of Ekev [28 July 1776]: the council of the holy congregation assembled. Although these are hard times, and new troubles have come from the disaster mentioned above, with several widows and orphans whom the holy congregation must support, even so, through the efforts of the gevir, my host Signor Israel, the head of the community, they gave a fine donation, praise God.",
    "notes": {}
   },
   {
    "start": "80:6",
    "head": false,
-   "he": "אב 13. ב' הלכתי עם הג' כמהח\"ר אהרן לפאבריקה של הבגדים שלהם וראיתי לאט לאט מעת היות הצמר מלובן כמה מלאכות נעשות עד ארינתו ויפויו ותיקונו בטורח גדול שצריך ע' אומנים שיתעסקו בו בכלים הרבה.",
-   "en": "13 Av [Monday 29 July 1776]: I went with the great and honored rabbi R. Aaron to their cloth factory, and I saw, step by step, from the time the wool is whitened, how many tasks are done until its weaving, finishing and dressing, with great labor, for it needs seventy craftsmen working on it with many tools.",
+   "he": "אב 13. ב' הלכתי עם הג' כמהח\"ר אהרן לפאבריקה של הבגדים שלהם וראיתי לאט לאט מעת היות הצמר מלובן כמה מלאכות נעשות עד אריגתו ויפויו ותיקונו בטורח גדול שצריך ע' אומנים שיתעסקו בו בכלים הרבה.",
+   "en": "13 Av [Monday 29 July 1776]: I went with the gevir, the honored sage R. Aaron, to their cloth factory, and I saw, step by step, from the time the wool is whitened, how many tasks are done until its weaving, finishing and dressing, with great labor, for it needs seventy craftsmen working on it with many tools.",
    "notes": {}
   },
   {
    "start": "80:9",
    "head": false,
    "he": "אב 14. ג' הלכנו לוירגיליאנה וראיתי הקנבוס, אורז זרוע, סוסים זכרים מיוחדים להוליד יפים גבוהים. והקנבוס ראיתיו אחר המשרה וההכאות חוטים וניכר שהוא עשב ומתיבשים ושוזרין אותם. ושם ראיתי גראנילו גדול מאד. ושם כלי מחודש לברר ששה מיני ברורים. ובדרך ראיתי זרועים מיני אבטיחים.",
-   "en": "14 Av [Tuesday 30 July 1776]: we went to the Virgiliana, and I saw hemp, sown rice, and stallions kept to breed fine, tall horses. The hemp I saw after the soaking and the beatings, as threads, and one can see that it is a plant; they dry them and twist them. There I saw a very large granile ⚠1, and there is a new machine that sorts six kinds of grade. On the way I saw kinds of melons sown.",
+   "en": "14 Av [Tuesday 30 July 1776]: we went to the Virgiliana, and I saw hemp, sown rice, and stallions kept to breed fine, tall horses. The hemp I saw after the soaking and the beatings, as threads, and one can see that it is a plant; they dry them and twist them. There I saw a very large granary ⚠1, and there is a new machine that sorts six kinds of grade. On the way I saw kinds of melons sown.",
    "notes": {
     "1": {
      "he": "גראנילו",
-     "note": "Unidentified; perhaps a granary (granaio) or a grain store."
+     "note": "Freimann: granile, \"a small grain\". The machine for sorting, named next, points to a granary (Italian granaio), and it is rendered so."
     }
    }
   },
@@ -355,11 +408,12 @@
    "start": "80:13",
    "head": false,
    "he": "אב 15. ד' ביקרתי להר\"י סאראוואל והראני ספרי קראים ומשניות עם פ' רע\"ם והר\"מ בלאטין עם כל הצורות.",
-   "en": "15 Av [Wednesday 31 July 1776]: I visited R. Y. Saraval, and he showed me Karaite books, and a Mishnah with the commentaries of R. ⚠1 and Maimonides in Latin, with all the figures.",
+   "en": "15 Av [Wednesday 31 July 1776]: I visited R. Y. Saraval, and he showed me Karaite books, and a Mishnah with the commentaries of Bartenura ⚠1 and Maimonides in Latin, with all the figures.",
    "notes": {
     "1": {
      "he": "פ' רע\"ם",
-     "note": "So printed. The Latin Mishnah with Maimonides is Surenhusius' edition (Amsterdam 1698–1703), which also has Bartenura (רע\"ב); רע\"ם may be a misprint for רע\"ב."
+     "note": "Freimann: the Mishnah with the Latin translation of Surenhusius (Amsterdam 1698–1703). That edition has Bartenura (רע\"ב) and Maimonides; the print's רע\"ם stands for רע\"ב.",
+     "kind": "note"
     }
    }
   },
@@ -371,7 +425,7 @@
    "notes": {
     "1": {
      "he": "קי איסטראפאסו אלא סירביטוד והעיז לתת טאבאקו",
-     "note": "Italian (Spanish-colored) words: \"che strapazzò la servitù\", that he abused the servants. \"To give tobacco\" is read as an insult; it may also be literal. Abraham is probably Abraham Gabbai, the Ḥida's servant."
+     "note": "Italian words in Spanish dress: \"che strapazzò alla servitù\", that he abused the servants. Freimann: he cursed the servants and was insolent to Signor Nehemiah. \"To give tobacco\" is read as that insolence; it may also be literal, a servant who offers his snuff to a gentleman. Abraham is probably Abraham Gabbai, the Ḥida's servant."
     }
    }
   },
@@ -379,15 +433,15 @@
    "start": "80:19",
    "head": false,
    "he": "אב 22. ד' הלכתי לפילאטורה משי מסי' פינצי ושם נאמר שעצים שרותחין הגאליטה יש בהן חילוק שיש עצים שהמשי יותר טוב ועצי מוראל שעליו מאכל לתולע המשי הוא יותר משובח והמים צריך שיהיו נקיים וראוים לשתיה וראיתי הבורסקי שם. כתבתי לקולורנו ע\"י גוי ושלחו ב' פייסאס, ובכתבם עצמם כתבתי קורא אני לא חפץ בברכה ותרחק הב' פייסאס יהיו שלכם והחזרתים. ואח\"כ הייתי בצער שכתבתי לכו' ק\"ק כן ועוד שמא ישלחו הכתב למנטובה וכדי בזיון וה' רחם ששלחו ג' פייס' וכתב תחתונים ושלחו הכתב פ\"א הודו לה' כי טוב. בערב נסעתי עם הבחור משה מנחם פינצי לבוזאלו ובפתח החצר הי\"ל צער כי הסוסים מיאנו לצאת אף שהכום מכת מות ואחרי כמה וכמה יצאו והייתי ירא ללכת אך מרוב הבושה הלכתי ות\"ל באנו לבוזולו לבית סי' מרדכי פינצי.",
-   "en": "22 Av [Wednesday 7 August 1776]: I went to the silk spinning mill (filatura) of Signor Finzi. There it was said that the woods with which they boil the cocoons (galletta) make a difference, for with some woods the silk is better, and the wood of the mulberry (moro), whose leaves are the food of the silkworm, is the best; and the water must be clean and fit to drink. I saw the tannery there. I wrote to Colorno through a gentile, and they sent two pezze. On their own letter I wrote: \"I apply to you: he did not desire blessing, and it shall be far [from him] [Ps 109:17]; the two pezze shall be yours,\" and I sent them back. Afterwards I was sorry that I had written so to a holy congregation, and also lest they send the letter to Mantua, and there would be disgrace enough [Esth 1:18]. But the Lord had mercy: they sent three pezze and a humble letter ⚠1, and sent back the first letter ⚠2. Give thanks to the Lord, for He is good ⚠3. In the evening I set out with the young man Moses Menaḥem Finzi for Bozzolo. At the gate of the courtyard I had trouble ⚠4, because the horses refused to go out, although they beat them almost to death. After many, many tries they went out. I was afraid ⚠5 to go, but out of great shame I went, and praise God we came to Bozzolo, to the house of Signor Mordecai Finzi.",
+   "en": "22 Av [Wednesday 7 August 1776]: I went to the silk spinning mill (filatura) of Signor Finzi. There it was said that the woods with which they boil the cocoons (galletta) make a difference, for with some woods the silk is better, and the wood of the mulberry (moro), whose leaves are the food of the silkworm, is the best; and the water must be clean and fit to drink. I saw the tannery there. I wrote to Colorno through a gentile, and they sent two pezze. On their own letter I wrote: \"I apply to you: he did not desire blessing, and it shall be far [from him] [Ps 109:17]; the two pezze shall be yours,\" and I sent them back. Afterwards I was sorry that I had written so to a holy congregation, and also lest they send the letter to Mantua, and there would be disgrace enough [Esth 1:18]. But the Lord had mercy: they sent three pezze and a letter of entreaty ⚠1, and sent the letter back again ⚠2. Give thanks to the Lord, for He is good ⚠3. In the evening I set out with the young man Moses Menaḥem Finzi for Bozzolo. At the gate of the courtyard I had trouble ⚠4, because the horses refused to go out, although they beat them almost to death. After many, many tries they went out. I was afraid ⚠5 to go, but out of great shame I went, and praise God we came to Bozzolo, to the house of Signor Mordecai Finzi.",
    "notes": {
     "1": {
      "he": "וכתב תחתונים",
-     "note": "Read as a letter of apology, a humble letter; uncertain."
+     "note": "The print has תחתונים, \"lower ones\". Read תחנונים, \"entreaties\" (compare Prov 18:23): a letter of entreaty."
     },
     "2": {
      "he": "ושלחו הכתב פ\"א",
-     "note": "פ\"א read as \"the first time\", i.e. they returned his first letter; uncertain."
+     "note": "פ\"א read as פעם אחרת, \"once more\": they sent back the letter on which he had written his sharp words, so that it could not go to Mantua. Uncertain."
     },
     "3": {
      "he": "כי טוב",
@@ -407,7 +461,7 @@
    "start": "80:29",
    "head": false,
    "he": "אב 23. ה' נסעתי למנטובה ובבואי מצאתי כתב מחמד עיני סי' רפאל ארוכה מאר\"ש.",
-   "en": "23 Av [Thursday 8 August 1776]: I went to Mantua, and on my arrival I found a letter from the delight of my eyes, Signor Raphael ⚠1, a long one from A. R. Sh. ⚠2.",
+   "en": "23 Av [Thursday 8 August 1776]: I went to Mantua, and on my arrival I found a letter from the delight of my eyes, Signor Raphael ⚠1, \"longer than the earth\" [Job 11:9] ⚠2.",
    "notes": {
     "1": {
      "he": "מחמד עיני סי' רפאל",
@@ -415,7 +469,7 @@
     },
     "2": {
      "he": "ארוכה מאר\"ש",
-     "note": "ארוכה read as \"long\" (a long letter); מאר\"ש is an unresolved abbreviation, perhaps a place or a name."
+     "note": "After Job 11:9, ארוכה מארץ מדה, \"its measure is longer than the earth\": a very long letter. The marked word has ש for the צ of the verse. The reason for the change is not found; perhaps it hints that the letter came from the Land of Israel."
     }
    }
   },
@@ -435,15 +489,15 @@
    "start": "80:34",
    "head": false,
    "he": "אב 26. א' שופטים הלכתי עם סי' אהרן לפאלאסיו תי' ושם צורות בעלי מלחמה ובילא גודיתא וכיוצא צורות אבן גולמי אדם וכמה חדרים למעלה בתקרה {f81}סיוד וכיור יפה למראה ויותר ליודעי חכמת הציור והאינגליזי באים להעתיק דמותם ושם חדר ההברה שקורין היק\"ו עשוי במאטימאטיקה שאיש עומד בזוית ושכנגדו בזוית אחרת באלכסון ומדברים בלחש גמור ושומעים זה את זה ויש בין הזויות ז' פייס וחצי ומדדנו בארסוס מנטובה ויש כ\"א בקירוב ויש שם מערה באבנים וציורים משונים אשר לימים ראשונים היה ארטיפיסיו מים ועתה נשברו הסילונות והבנין קדום מת' שנה ואמרו כי במילאנו יש היק\"ו נשמע הקול ז\"פ ובאתיני היה נשמע י\"ג פעמים וכ\"ז בחכמת המאטימאטיקא. והלכתי לפאבריקה של נייר וראיתי תוקף מרוצת המים ומכחם מכים בפטישים כמה שעות על סמרטוטים עד שנמוחים מאד ומניחים הכל בבריכת מים עם סיד ונעשו הכל מים רכים ושוטחין בכלי מאותן המים הרכים ומשימים ע\"ג בגד ואחר עליו בהפסק בגד וכן כמה וכמה עד שיהיו נוגעין בקורה ואח\"כ נותנין אותו בקולא ושוטחין אותו וכמה מלאכות צריך והכל ע\"י מרוצת המים. ובדרך ראיתי עצי אלב'יאנא\"ס.",
-   "en": "26 Av, Sunday of the week of Shofetim [11 August 1776]: I went with Signor Aaron to the Palazzo Te. There are pictures of warriors, and a \"Bella Giuditta\", and the like; stone figures in human form; and many rooms whose ceilings above are plastered and painted, beautiful to see, and more so for those who know the art of painting; the English come to copy them. There is the room of the echo, which they call \"eco\", made by mathematics: a man stands in one corner and the man opposite him in the other corner, on the diagonal, and they speak in a full whisper and hear each other. Between the corners there are seven and a half paces ⚠1; we measured in the braccia of Mantua, and it came to about twenty-one. There is a grotto there of stones and strange pictures, which in former days was a water device (artificio), but now the pipes are broken. The building is older than four hundred years. They said that in Milan there is an echo where the voice is heard seven times, and in Athens it was heard thirteen times, and all this by the science of mathematics. I went to a paper mill and saw the force of the running water, by whose power hammers beat on rags for several hours until they are quite dissolved. They put it all in a pool of water with lime, and it all becomes a soft liquid. They spread some of that soft liquid in a frame and lay it on a cloth, and another on top of it with a cloth between, and so on many times, until they reach the beam. Afterwards they put it in size (colla) and spread it out; it needs many tasks, and all by the running water. On the way I saw ⚠2 trees.",
+   "en": "26 Av, Sunday of the week of Shofetim [11 August 1776]: I went with Signor Aaron to the Palazzo Te. There are pictures of warriors, and a \"Bella Giuditta\", and the like; stone figures in human form; and many rooms whose ceilings above are plastered and painted, beautiful to see, and more so for those who know the art of painting; the English come to copy them. There is the room of the echo, which they call \"eco\", made by mathematics: a man stands in one corner and the man opposite him in the other corner, on the diagonal, and they speak in a full whisper and hear each other. Between the corners there are seven and a half paces ⚠1; we measured in the braccia of Mantua, and it came to about twenty-one. There is a grotto there of stones and strange pictures, which in former days was a water device (artificio), but now the pipes are broken. The building is older than four hundred years. They said that in Milan there is an echo where the voice is heard seven times, and in Athens it was heard thirteen times, and all this by the science of mathematics. I went to a paper mill and saw the force of the running water, by whose power hammers beat on rags for several hours until they are quite dissolved. They put it all in a pool of water with lime, and it all becomes a soft liquid. They spread some of that soft liquid in a frame and lay it on a cloth, and another on top of it with a cloth between, and so on many times, until they reach the beam. Afterwards they put it in size (colla) and spread it out; it needs many tasks, and all by the running water. On the way I saw hazel trees ⚠2.",
    "notes": {
     "1": {
      "he": "ז' פייס וחצי ... בארסוס מנטובה ויש כ\"א",
-     "note": "פייס read as a pace or foot (Italian piedi?), and ארסוס as the braccio of Mantua (21 of them); both measures are uncertain."
+     "note": "Freimann: piès, feet. But seven and a half feet are not twenty-one braccia; seven and a half geometric paces (passi, of five feet) are, each sum being about 13 metres. So פייס is rendered \"paces\". ארסוס is read as brazos, the braccio of Mantua."
     },
     "2": {
      "he": "עצי אלב'יאנא\"ס",
-     "note": "Unidentified tree name; left untranslated."
+     "note": "Read as Ladino alviyanas (Spanish avellanas), hazelnuts: hazel trees. The ב' stands for v."
     }
    }
   }

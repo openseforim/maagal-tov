@@ -676,7 +676,7 @@
    "(?:R\\. )?Abraham Jona",
    "R\\. A\\. Jona"
   ],
-  "desc": "Of Spalato; head of the rabbinical court of Venice (Freimann's note). He read the Birkei Yosef with the Ḥida every day."
+  "desc": "Of Spalato; head of the rabbinical court of Venice. He read the Birkei Yosef with the Ḥida every day."
  },
  {
   "id": "tolentino",
@@ -789,12 +789,13 @@
  {
   "id": "bivante",
   "type": "person",
-  "name": "Jacob Ḥayyim Bivante",
+  "name": "Jacob Ḥayyim Vivante",
   "patterns": [
-   "Jacob Ḥayyim Bivante son of Judah",
+   "Jacob Ḥayyim Vivante son of Judah",
+   "Signor Vivante",
    "Signor Bivante"
   ],
-  "desc": "Gevir of the Levantine congregation of Venice."
+  "desc": "Gevir of the Levantine congregation of Venice (Freimann: Vivanti)."
  },
  {
   "id": "calimani",
@@ -911,11 +912,11 @@
  {
   "id": "moia",
   "type": "person",
-  "name": "Moia",
+  "name": "Muggia",
   "patterns": [
-   "Signor Moia"
+   "Signor Muggia"
   ],
-  "desc": "Old scribe in Venice."
+  "desc": "Old scribe in Venice (Freimann: Muggia)."
  },
  {
   "id": "vidal-angel",
@@ -9601,7 +9602,7 @@
  {
   "id": "michael-solomon-hazak",
   "type": "person",
-  "name": "Michael Solomon Ḥazak",
+  "name": "Michael Solomon Ḥazak (Forti)",
   "patterns": [
    "Signor Michael Solomon Ḥazak"
   ],
@@ -10014,7 +10015,7 @@
    "(?:the sage )?Solomon Lampronti",
    "R\\. S\\. Lampronti"
   ],
-  "desc": "Sage of Ferrara at the peace and the banquet."
+  "desc": "Sage of Ferrara at the peace and the banquet; died 5542 (1781/82)."
  },
  {
   "id": "judah-bianchini",
@@ -10106,11 +10107,12 @@
  {
   "id": "y-g-cases",
   "type": "person",
-  "name": "Y. G. Cases of Mantua",
+  "name": "Israel Gedaliah Cases of Mantua",
   "patterns": [
+   "R\\. Israel Gedaliah Cases",
    "R\\. Y\\. G\\. Cases"
   ],
-  "desc": "Rabbi and physician of Mantua who preaches on Friday nights."
+  "desc": "Rabbi and physician of Mantua who preaches on Friday nights; died 5553 (1792/93)."
  },
  {
   "id": "yekutiel-mantua",
@@ -10125,12 +10127,7 @@
      "F10.65",
      "F10.66",
      "F10.70",
-     "F9.36"
-    ]
-   },
-   {
-    "rx": "R\\. Yekut\\.",
-    "at": [
+     "F9.36",
      "F9.49"
     ]
    }
@@ -10186,10 +10183,11 @@
  {
   "id": "m-navarra",
   "type": "person",
-  "name": "M. Navarra of Verona",
+  "name": "Menaḥem Navarra of Verona",
   "patterns": [
-   "R\\. M\\. Navarra"
-  ]
+   "R\\. Menaḥem Navarra"
+  ],
+  "desc": "Came to greet the Ḥida at Verona in 1776 (Freimann's identification); probably the Menaḥem Novara of 1754."
  },
  {
   "id": "gershon-verona",
@@ -10313,13 +10311,13 @@
  {
   "id": "jacob-hazak",
   "type": "person",
-  "name": "Jacob Ḥazak of Padua",
+  "name": "Jacob Ḥazak (Forti) of Padua",
   "patterns": [
    "R\\. Jacob Ḥazak",
    "R\\. Y\\. Ḥazak",
    "R\\. Jacob Raphael Hezekiah Ḥazak"
   ],
-  "desc": "Old pious rabbi of Padua, 'the wonder of the generation'; the Ḥida was with him in 1754 and ate with him in 1776."
+  "desc": "Old pious rabbi of Padua, 'the wonder of the generation'; the Ḥida was with him in 1754 and ate with him in 1776. Ḥazak is the Hebrew form of Forti; he died in 5542 (1781/82)."
  },
  {
   "id": "yakar-abuhab",
