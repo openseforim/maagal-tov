@@ -12559,10 +12559,10 @@
   "name": "Michael Rouget of Avignon",
   "patterns": [
    "Signor Michael Rouget",
-   "Michael Ronit",
+   "Michael Rouget",
    "Michael Roget"
   ],
-  "desc": "Escorted the Ḥida a day and a half from Avignon in December 1755 (printed Roget); in 1777 'my acquaintance from before', he gave for Hebron at his grandson's cradle ceremony. Probably the Michael Ronit who escorted him to Villeneuve."
+  "desc": "Escorted the Ḥida a day and a half from Avignon in December 1755 (printed Roget); in 1777 'my acquaintance from before', he gave for Hebron at his grandson's cradle ceremony. He escorted the Ḥida from Avignon to Villeneuve in September 1777."
  },
  {
   "id": "elijah-speyer",
@@ -12898,9 +12898,15 @@
   "type": "person",
   "name": "Moses son of David de Milhaud, of L'Isle",
   "patterns": [
-   "R\\. Moses son of the sage R\\. David de Milhaud"
+   "R\\. Moses son of the sage R\\. David de Milhaud",
+   {
+    "rx": "R\\. Moses de Milhaud",
+    "at": [
+     "F12.0"
+    ]
+   }
   ],
-  "desc": "The Ḥida's host in L'Isle; his wife is the daughter of Ezekiel Carmi."
+  "desc": "The Ḥida's host in L'Isle; his wife is the daughter of Ezekiel Carmi. He went with the Ḥida to Carpentras on 17 Av 1777, where the Hebrew gives the family name as the initials D. M."
  },
  {
   "id": "moses-de-beaucaire",
@@ -13160,10 +13166,15 @@
  {
   "id": "moses-d-m-carpentras",
   "type": "person",
-  "name": "Moses son of Joseph D. M. of Carpentras",
+  "name": "Moses son of Joseph de Milhaud, of Carpentras, at Nîmes",
   "patterns": [
-   "R\\. Moses D\\. M\\.",
-   "R\\. Moses son of R\\. Joseph D\\. M\\.",
+   "R\\. Moses son of R\\. Joseph de Milhaud",
+   {
+    "rx": "R\\. Moses de Milhaud",
+    "at": [
+     "F12.6"
+    ]
+   },
    {
     "rx": "R\\. Moses(?:'s)?(?! [A-Z])",
     "at": [
@@ -13171,7 +13182,16 @@
     ]
    }
   ],
-  "desc": "The Ḥida's host in Carpentras in August 1777 and again at Nîmes; family name abbreviated (de Mi...), perhaps the same as Moses son of Joseph de Roquemartine."
+  "desc": "Received the Ḥida at Nîmes in September 1777. The Hebrew abbreviates the family name (de Mi...); the diary does not say whether his father is R. Joseph de Milhaud, the author of Otzrot Yosef."
+ },
+ {
+  "id": "michael-de-roquemartine",
+  "type": "person",
+  "name": "Michael de Roquemartine",
+  "patterns": [
+   "Signor Michael de Roquemartine"
+  ],
+  "desc": "Showed the Ḥida great kindness at Pézenas and went with him to Narbonne, September 1777. The Hebrew gives the family name as the initials D. R. M."
  },
  {
   "id": "abraham-carmi",
@@ -13199,11 +13219,11 @@
  {
   "id": "david-alfojit",
   "type": "person",
-  "name": "David Alfojit of Avignon",
+  "name": "David Dalpuget of Avignon",
   "patterns": [
-   "David Alfojit"
+   "David Dalpuget"
   ],
-  "desc": "Family name as printed; probably the Dalpuget family."
+  "desc": "The Hebrew spells the family name as Alfojit."
  },
  {
   "id": "joseph-de-montelitz",
@@ -13303,9 +13323,9 @@
  {
   "id": "bezalel-alfojit",
   "type": "person",
-  "name": "Bezalel Alfojit of Montpellier",
+  "name": "Bezalel Dalpuget of Montpellier",
   "patterns": [
-   "Bezalel Alfojit",
+   "Bezalel Dalpuget",
    {
     "rx": "Bezalel",
     "at": [
@@ -13313,7 +13333,7 @@
     ]
    }
   ],
-  "desc": "The Ḥida's host in Montpellier, very rich and a great miser."
+  "desc": "The Ḥida's host in Montpellier, very rich and a great miser. The Hebrew spells the family name as Alfojit."
  },
  {
   "id": "milinda",
@@ -13582,7 +13602,7 @@
  {
   "id": "benjamin-louis",
   "type": "person",
-  "name": "Benjamin Louis of Bayonne",
+  "name": "Benjamin Louis Nunes of Bayonne",
   "patterns": [
    "(?:Signor )?Benjamin Louis",
    {
@@ -13598,7 +13618,7 @@
     ]
    }
   ],
-  "desc": "A head of the congregation and a great miser, who stood against the mission."
+  "desc": "A head of the congregation and a great miser, who stood against the mission. Freimann: his full name is Benjamin Louis Nunes; he died in 5571 (1810/11)."
  },
  {
   "id": "mordecai-fonseca",
