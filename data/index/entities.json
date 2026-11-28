@@ -676,7 +676,7 @@
    "(?:R\\. )?Abraham Jona",
    "R\\. A\\. Jona"
   ],
-  "desc": "Scholar in Venice; read the Birkei Yosef with the Ḥida every day."
+  "desc": "Of Spalato; head of the rabbinical court of Venice (Freimann's note). He read the Birkei Yosef with the Ḥida every day."
  },
  {
   "id": "tolentino",
@@ -966,7 +966,6 @@
    "Sanguinetti family",
    "Signor Isaac Sanguinetti",
    "R\\. A\\. Sanguinetti",
-   "R\\. M\\. M\\. Sh\\. Sanguinetti",
    "Rabbi A\\. Sanguinetti"
   ]
  },
@@ -1092,13 +1091,13 @@
  {
   "id": "formiggini",
   "type": "person",
-  "name": "Y. Formiggini",
+  "name": "Isaac son of Moses Formiggini, rabbi of Trieste",
   "patterns": [
    "R\\. Y\\. Formiggini",
    "R\\. Isaac Formiggini",
    "R\\. Y\\. F\\[ormiggini\\]"
   ],
-  "desc": "Rabbi in Trieste."
+  "desc": "Rabbi in Trieste; died on 8 Tammuz 5548 (13 July 1788) (Freimann's note)."
  },
  {
   "id": "marco-levi",
@@ -10958,9 +10957,9 @@
  {
   "id": "calimano-grassiani",
   "type": "person",
-  "name": "Calimano Grassiani",
+  "name": "Calimano Graziani",
   "patterns": [
-   "Signor Calimano Grassiani"
+   "Signor Calimano Graziani"
   ],
   "desc": "Gevir of Conegliano who gave a large donation."
  },
@@ -11027,11 +11026,11 @@
  {
   "id": "samson-tirni",
   "type": "person",
-  "name": "Samson Tirni",
+  "name": "Samson Terni",
   "patterns": [
-   "Signor R\\. Samson Tirni"
+   "Signor R\\. Samson Terni"
   ],
-  "desc": "Grandson of the author of Shemesh Tzedakah; escorted the Ḥida to Gorizia. The family name is uncertain."
+  "desc": "Grandson (or nephew) of Samson Morpurgo, the author of Shemesh Tzedakah; escorted the Ḥida to Gorizia. The family name טירני is read as Terni."
  },
  {
   "id": "samson-morpurgo",
@@ -11293,7 +11292,7 @@
   "patterns": [
    "R\\. Moses David Valle"
   ],
-  "desc": "Sage, deceased; his widow travelled on the Ḥida's boat to Modena."
+  "desc": "The kabbalist of Padua, who died early in 1777; his widow travelled on the Ḥida's boat to Modena."
  },
  {
   "id": "jacob-shalom",
@@ -11346,10 +11345,10 @@
  {
   "id": "azariah-hayyim-sanguinetti",
   "type": "person",
-  "name": "Azariah Ḥayyim son of Y. T. Sanguinetti",
+  "name": "Azariah Ḥayyim son of Yom Tov Sanguinetti",
   "patterns": [
-   "Signor Azariah son of Y\\. T\\.",
-   "R\\. Azariah Ḥayyim son of Y\\. T\\."
+   "Signor Azariah son of Yom Tov",
+   "R\\. Azariah Ḥayyim son of Yom Tov"
   ],
   "desc": "Nephew of Ḥayyim Sanguinetti, pious and learned; went with the Ḥida to Reggio."
  },
@@ -11660,9 +11659,9 @@
  {
   "id": "ben-shemesh-ancona",
   "type": "person",
-  "name": "M. Ts. ben Shemesh of Ancona",
+  "name": "The son of the beadle of Ancona, a rabbinic judge",
   "patterns": [
-   "M\\. Ts\\.(?: ⚠\\d+)? ben Shemesh"
+   "the rabbinic judge(?: ⚠\\d+)?, the son of the beadle of Ancona"
   ],
   "desc": "Had called a Torah scroll in Guastalla doubtful; the Ḥida found it fit."
  },
@@ -12124,9 +12123,9 @@
  {
   "id": "wilmersdorf",
   "type": "place",
-  "name": "Wilmersdorf",
+  "name": "Wilhermsdorf",
   "patterns": [
-   "Wilmersdorf"
+   "Wilhermsdorf"
   ]
  },
  {
@@ -12145,16 +12144,16 @@
  {
   "id": "gaurim",
   "type": "place",
-  "name": "Gaurim, near Udine",
+  "name": "Chiavris, near Udine",
   "patterns": [
    {
-    "rx": "Gaurim",
+    "rx": "Chiavris",
     "at": [
      "F10.25"
     ]
    }
   ],
-  "desc": "Reading of the name uncertain."
+  "desc": "Printed גאורי\"ם; Freimann: Chavres. Solomon Caprileis lived there alone."
  },
  {
   "id": "san-daniele",
@@ -12175,9 +12174,9 @@
  {
   "id": "polesella",
   "type": "place",
-  "name": "Polesella",
+  "name": "Polesine",
   "patterns": [
-   "Polesella"
+   "Polesine"
   ]
  },
  {
