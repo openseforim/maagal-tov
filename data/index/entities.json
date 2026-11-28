@@ -14851,7 +14851,7 @@
    },
    "Signor R\\. Joseph Alvares"
   ],
-  "desc": "Son of Moses Alvares and the Ḥida's close friend in Amsterdam; he gave him a Megillah and had him for the Purim meal. Probably also the Signor Alares (so printed) of 25 March 1778. Told the Ḥida of a false report about his father-in-law (Shalem)."
+  "desc": "Son of Moses Alvares and the Ḥida's close friend in Amsterdam; he gave him a Megillah and had him for the Purim meal. Also the Signor Alares (so printed) of 25 March 1778, who told the Ḥida of the web that his brother-in-law, a son of Rabbi Shalem, had spun over a false report that the Ḥida had slighted Rabbi Shalem."
  },
  {
   "id": "joseph-di-trani",
@@ -14986,11 +14986,11 @@
  {
   "id": "sofiyals",
   "type": "person",
-  "name": "The Sofiyals, travellers from Bordeaux",
+  "name": "The Sofiyals (perhaps \"officials\"), two men who came from Bordeaux",
   "patterns": [
    "Sofiyals"
   ],
-  "desc": "Brought the Ḥida a letter from Abraham Gomes and news of his good name in Bayonne, Bordeaux and Paris; not identified."
+  "desc": "Brought the Ḥida a letter from Abraham Gomes, the greeting of Solomon Lopes of Bordeaux, and news of his good name in Bayonne, Bordeaux and Paris. The word is perhaps Portuguese oficiais; the same two men came to him in Bordeaux."
  },
  {
   "id": "abraham-gomes",
@@ -15019,16 +15019,16 @@
  {
   "id": "prado-amsterdam",
   "type": "person",
-  "name": "Prado of Amsterdam",
+  "name": "The Signori Prado of Amsterdam",
   "patterns": [
    {
-    "rx": "Signor Prado",
+    "rx": "Signori Prado",
     "at": [
      "F14.41"
     ]
    }
   ],
-  "desc": "The Ḥida spent an evening at his house; perhaps one of the sons of Judah de Prado (the name is read so)."
+  "desc": "The sons of Judah de Prado (פראדוס, a plural); the Ḥida spent an evening at their house."
  },
  {
   "id": "shneyim",
@@ -15082,7 +15082,7 @@
     ]
    }
   ],
-  "desc": "A sage in Amsterdam, appointed by Abraham Ze'evi; he had been twice to America. Probably also the R. A. ha-Kohen and R. A. K. of the initials."
+  "desc": "A sage in Amsterdam, appointed by Abraham Ze'evi; he had been twice to America. The initials R. A. ha-Kohen (חר\"א הכהן) and R. A. K. (חרא\"ך) are his."
  },
  {
   "id": "joseph-ha-kohen-jerusalem",
@@ -15144,37 +15144,22 @@
   "desc": "Said that no man of honor should be the Ḥida's padrino, since he had refused to be their rabbi."
  },
  {
-  "id": "niso",
-  "type": "person",
-  "name": "Niso of Amsterdam",
-  "patterns": [
-   {
-    "rx": "Niso",
-    "at": [
-     "F14.46",
-     "F14.58"
-    ]
-   }
-  ],
-  "desc": "His orphans were great shareholders; his son spread slander that the Ḥida had slighted his father. The name is read so and not identified."
- },
- {
   "id": "elisha-pereira",
   "type": "person",
   "name": "Elisha Pereira of Amsterdam",
   "patterns": [
    "Signor Elisha Pereira"
   ],
-  "desc": "A great shareholder, perhaps acting for the orphans of Niso."
+  "desc": "Brother-in-law of Aaron Capadose, who managed the shares of his orphans."
  },
  {
   "id": "moses-gomeiras",
   "type": "person",
-  "name": "Moses Gomeiras, warden in Amsterdam",
+  "name": "Moses Gutierrez, warden in Amsterdam",
   "patterns": [
-   "(?:the gevir )?Moses Gomeiras"
+   "(?:the gevir )?Moses Gutierrez"
   ],
-  "desc": "Had the Ḥida for Friday night, when the portion was read from his own Torah scroll; the name is printed so."
+  "desc": "Had the Ḥida for Friday night, when the portion was read from his own Torah scroll. The print reads גוטייראס; the first transcription had Gomeiras."
  },
  {
   "id": "place-carbon-blanc",
@@ -15497,11 +15482,11 @@
  {
   "id": "place-dragaho",
   "type": "place",
-  "name": "Dragaho (not identified)",
+  "name": "Dragaho (probably Gouda)",
   "patterns": [
    "Dragaho"
   ],
-  "desc": "A village on the boat route from Rotterdam to Amsterdam."
+  "desc": "A place on the boat route from Rotterdam to Amsterdam; probably Gouda (Ter Gouw), where the night boat left."
  },
  {
   "id": "place-berlin",
