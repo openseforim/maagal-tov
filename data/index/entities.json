@@ -15928,7 +15928,7 @@
   "patterns": [
    "R\\. Abraham Nancy"
   ],
-  "desc": "A rabbi in The Hague, teacher in the house of R. T. B."
+  "desc": "A rabbi in The Hague, teacher in the house of R. Tobias Boas."
  },
  {
   "id": "hilman",
@@ -16174,7 +16174,7 @@
   "patterns": [
    "R\\. Ḥayyim Breslau"
   ],
-  "desc": "An outstanding scholar of Rotterdam who visited the Ḥida and studied with him."
+  "desc": "An outstanding scholar of Rotterdam who visited the Ḥida and studied with him. Freimann: father of the author of Penei Aryeh."
  },
  {
   "id": "ber-kokish",
@@ -16307,11 +16307,11 @@
  {
   "id": "jacob-de-prins",
   "type": "person",
-  "name": "Jacob de Prins of Rotterdam",
+  "name": "Jacob de Vries of Rotterdam",
   "patterns": [
-   "R\\. Jacob de Prins"
+   "R\\. Jacob de Vries"
   ],
-  "desc": "Received the Ḥida with honor; the name is uncertain."
+  "desc": "Received the Ḥida with honor. The print has דפריץ, read as de Vries."
  },
  {
   "id": "anshel-rotterdam",
@@ -16362,7 +16362,7 @@
  {
   "id": "lipman-bar-nathan",
   "type": "person",
-  "name": "Lipman bar Nathan, parnas in Brussels",
+  "name": "Lipman bar Nathan (Philipp Nathan) of Brussels",
   "patterns": [
    "R\\. Lipman bar Nathan",
    {
@@ -16373,7 +16373,7 @@
    },
    "Lipman Nathan(?: Roi Botish)?"
   ],
-  "desc": "An Ashkenazi parnas in Brussels. In 1778, on the way north, he said he had no room for the Ḥida and then complained that he had not come to eat; on the way back he hired places for him in the diligence and brought him to his house."
+  "desc": "An Ashkenazi parnas in Brussels. In 1778, on the way north, he said he had no room for the Ḥida and then complained that he had not come to eat; on the way back he hired places for him in the diligence and brought him to his house. Freimann: Philipp Nathan, who in 1783 worked to obtain a burial ground for the Jews of Brussels."
  },
  {
   "id": "hananel-de-milliav",
@@ -16449,7 +16449,7 @@
   "patterns": [
    "Signor Benjamin Naquet"
   ],
-  "desc": "Met the Ḥida's boat at Lyon."
+  "desc": "Met the Ḥida's boat at Lyon. Freimann: syndic of the Lyon community."
  },
  {
   "id": "manasseh-bizes",
@@ -16553,7 +16553,7 @@
   "patterns": [
    "(?:Signor )?Azariah Vidal"
   ],
-  "desc": "The cantor of the new synagogue in Lyon, a bridegroom, who took the Ḥida to the baths."
+  "desc": "The cantor of the new synagogue in Lyon, a bridegroom, who took the Ḥida to the baths. Freimann: put to death by the revolutionary tribunal in 1793."
  },
  {
   "id": "perrache",
@@ -17247,11 +17247,11 @@
  {
   "id": "place-houvrai",
   "type": "place",
-  "name": "Houvrai",
+  "name": "Rouvray",
   "patterns": [
-   "Houvrai"
+   "Rouvray"
   ],
-  "desc": "Village on the diligence route from Paris."
+  "desc": "Village on the diligence route from Paris to Chalon. The print has אוברי; Freimann: Houvrai."
  },
  {
   "id": "place-arnay-le-duc",
@@ -17371,22 +17371,22 @@
   "desc": "Town in Savoy."
  },
  {
+  "id": "place-les-echelles",
+  "type": "place",
+  "name": "Les Échelles",
+  "patterns": [
+   "Les Échelles"
+  ],
+  "desc": "First town of Savoy on the road from Pont-de-Beauvoisin to Chambéry; the print has היגילא."
+ },
+ {
   "id": "place-laniza",
   "type": "place",
   "name": "Laniza",
   "patterns": [
    "Laniza"
   ],
-  "desc": "Village in the Maurienne; not identified."
- },
- {
-  "id": "place-digibil",
-  "type": "place",
-  "name": "Digibil",
-  "patterns": [
-   "Digibil"
-  ],
-  "desc": "Village in the Maurienne; not identified."
+  "desc": "Village in Savoy on the road from Chambéry to Aiguebelle; perhaps Planaise."
  },
  {
   "id": "place-la-chapelle",
