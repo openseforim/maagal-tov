@@ -999,7 +999,7 @@
    "R\\. M\\. D\\.R\\.M\\.",
    "R\\. M\\. d\\. R\\. M\\."
   ],
-  "desc": "Warden of Carpentras and the Ḥida's friend there in 1755; in July 1777 his host, who went with him to Avignon and later spoke hard words over the mission. The Hebrew gives the family name in full (di Roquo Martino) and as the initials D. R. M., so the warden R. M. D. R. M. is probably he; his nephew had the same initials."
+  "desc": "Warden of Carpentras and the Ḥida's friend there in 1755; in July 1777 his host, who went with him to Avignon and later spoke hard words over the mission. The Hebrew gives the family name in full (di Roquo Martino) and as the initials D. R. M., so the warden R. M. D. R. M. is of this family; on 23 Av 1777 the warden and his brother's son have the same initials, so Moses son of Joseph may be the nephew and the warden his uncle. Freimann takes the warden as Moses son of Michael de Milhaud."
  },
  {
   "id": "bagaio",
@@ -1009,7 +1009,7 @@
    "R\\. Bagaio",
    "Ḥ\\. Bagaio"
   ],
-  "desc": "An earlier emissary, whose demands had turned Avignon against the mission."
+  "desc": "An earlier emissary, whose demands had turned Avignon against the mission. Probably Ḥayyim Raḥamim Bajayo, emissary of Hebron in the 1760s (not checked)."
  },
  {
   "id": "reuel",
@@ -8965,7 +8965,7 @@
   "patterns": [
    "R\\. Yakar"
   ],
-  "desc": "Sage in Livorno in 1775; he quarreled with the Ḥida over Hebron's debt to Damesek Eliezer, and approved Otzrot Yosef."
+  "desc": "Sage in Livorno in 1775; he quarreled with the Ḥida over Hebron's debt to Damesek Eliezer, and approved Otzrot Yosef. Freimann, at the approbations of Otzrot Yosef: R. Yakar Gershon."
  },
  {
   "id": "abraham-ayash",
@@ -11084,13 +11084,13 @@
  {
   "id": "a-revah",
   "type": "person",
-  "name": "A. Revaḥ (Reach, Riveaḥ)",
+  "name": "Abraham Revaḥ (A. Reach, Riveaḥ)",
   "patterns": [
    "R\\. A\\. Reach",
    "R\\. A\\. Revaḥ",
    "R\\. A\\. Riveaḥ"
   ],
-  "desc": "Sage who travelled with Mas'ud Bonan (Vienna, Trieste, Genoa); approved Otzrot Yosef; later quarrelled with Bonan in Livorno. One man under three spellings."
+  "desc": "Sage who travelled with Mas'ud Bonan (Vienna, Trieste, Genoa); approved Otzrot Yosef; later quarrelled with Bonan in Livorno. One man under three spellings. Freimann gives his first name, Abraham."
  },
  {
   "id": "laudadio-ha-levi",
@@ -12596,7 +12596,7 @@
   "patterns": [
    "R\\. Jacob of Prague"
   ],
-  "desc": "Elder of Carpentras; probably the father of Elijah Speyer."
+  "desc": "Elder of Carpentras. Freimann: R. Jacob Shapira, father of the Elijah of 16 Tammuz 1777; he approved Seder ha-Tamid (Avignon 1767) among the rabbis of Carpentras."
  },
  {
   "id": "joseph-de-milhaud",
@@ -12639,7 +12639,7 @@
  {
   "id": "y-d-carmi",
   "type": "person",
-  "name": "Y. D. Carmi of Carpentras",
+  "name": "Jassuda David Crémieu (Y. D. Carmi) of Carpentras",
   "patterns": [
    "R\\. Y\\. D\\. Carmi",
    {
@@ -12649,7 +12649,7 @@
     ]
    }
   ],
-  "desc": "Took the Ḥida to the bishop and to the inquisitor; name unresolved."
+  "desc": "Took the Ḥida to the bishop and to the inquisitor. The Hebrew has the initials רי\"ד כרמי and ריד\"ך; Freimann: Jassuda David Crémieu."
  },
  {
   "id": "solomon-roqeah",
