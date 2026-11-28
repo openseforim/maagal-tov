@@ -545,7 +545,8 @@
     "at": [
      "F17.38"
     ]
-   }
+   },
+   "Signor Ferridas"
   ],
   "desc": "Close friends of the Ḥida. He lived in the house of Signor Pereira in Livorno, and his yahrzeit was kept in the Pereira yeshivah."
  },
@@ -914,7 +915,8 @@
   "type": "person",
   "name": "Muggia",
   "patterns": [
-   "Signor Muggia"
+   "Signor Muggia",
+   "Signor Moia"
   ],
   "desc": "Old scribe in Venice (Freimann: Muggia)."
  },
@@ -3762,7 +3764,7 @@
   "patterns": [
    "R\\. A\\. Caniti"
   ],
-  "desc": "A sage of Livorno who sent a basket of food to the Ḥida in the lazaretto (the reading of the name is uncertain)."
+  "desc": "A sage of Livorno who sent a basket of food to the Ḥida in the lazaretto (perhaps R. Abraham Joseph Caniti, by Freimann's note)."
  },
  {
   "id": "samuel-tedesco",
@@ -4019,7 +4021,7 @@
     ]
    }
   ],
-  "desc": "A rabbi who died in Mantua; the Ḥida preached in his honour at Guastalla."
+  "desc": "A rabbi who died in Mantua on 1 Tevet 5514 (26 December 1753, by Freimann's note); the Ḥida preached in his honour at Guastalla."
  },
  {
   "id": "aaron-cases",
@@ -4028,7 +4030,7 @@
   "patterns": [
    "R\\. Aaron Cases"
   ],
-  "desc": "A rabbi of Mantua who came by calesse to receive the Ḥida."
+  "desc": "R. Aaron son of R. Joseph Baruch Cases, rabbi in Mantua 1751–67 (by Freimann's note); he came by calesse to receive the Ḥida."
  },
  {
   "id": "samuel-menahem-ha-kohen",
@@ -4075,11 +4077,12 @@
  {
   "id": "belilios",
   "type": "person",
-  "name": "Y. Belilios, rabbi in Venice",
+  "name": "Jacob Belilios, rabbi in Venice",
   "patterns": [
-   "R\\. Y\\. Belilios"
+   "R\\. Y\\. Belilios",
+   "R\\. Jacob Belilios"
   ],
-  "desc": "A rabbi of Venice at whose house the Ḥida spent Friday nights."
+  "desc": "A rabbi of Venice at whose house the Ḥida spent Friday nights (R. Jacob son of R. Immanuel Belilios, by Freimann's note)."
  },
  {
   "id": "mordecai-padova",
