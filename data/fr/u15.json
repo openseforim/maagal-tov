@@ -9,15 +9,12 @@
    "start": "71:1",
    "head": false,
    "he": "אב 16. ז' קריתי עשרת הדברות בק\"ק ספרדים וסעדתי אצל הגביר סי' דוד חיים פייאצה ושם הבחור סי' אברהם קאנפוס מראגוזה קרובי ואח\"כ עם סי' מנחם בלאנים חתנו וסי' אברהם הנז' הלכנו לבובולי.",
-   "en": "16 Av [Saturday 12 August 1775]: I read the Ten Commandments in the Sephardi holy congregation, and I dined with the gevir Signor David Ḥayyim Piazza. There was the young man Signor Abraham Campos of Ragusa ⚠1, my relative. Afterwards, with Signor Menaḥem Blanes ⚠2, his son-in-law, and Signor Abraham mentioned above, we went to Boboli.",
+   "en": "16 Av [Saturday 12 August 1775]: I read the Ten Commandments in the Sephardi holy congregation, and I dined with the gevir Signor David Ḥayyim Piazza. There was the young man Signor Abraham Campos of Ragusa, my relative. Afterwards, with Signor Menaḥem Blanes ⚠1, his son-in-law, and Signor Abraham mentioned above, we went to Boboli.",
    "notes": {
     "1": {
-     "he": "מראגוזה",
-     "note": "The print may read טראגוזה; read מראגוזה, \"of Ragusa\"."
-    },
-    "2": {
      "he": "בלאנים",
-     "note": "Family name given as printed; reading of the vowels uncertain."
+     "note": "So printed, with a final mem. The name is Blanes (בלאניס), a family of Florence and Livorno; ס and ם are often confused in this print.",
+     "kind": "note"
     }
    }
   },
@@ -60,7 +57,8 @@
    "notes": {
     "1": {
      "he": "שבחגא שלהם",
-     "note": "A Christian feast: the evening of 15 August 1775 was the Feast of the Assumption."
+     "note": "Freimann: a feast of the gentiles. The evening of 15 August 1775 was the Feast of the Assumption.",
+     "kind": "note"
     }
    }
   },
@@ -68,11 +66,16 @@
    "start": "71:15",
    "head": false,
    "he": "אב 21. ה' באתי לעיר פיסארו והלכתי אצל סי' אברהם הלוי ושם נתנו לי כתב מהרב מהר\"א ישראל נ\"י שבאנקונה אחנה אצל הגביר סי' פנחס הכהן יצ\"ו, ואמרו לי שהגביר הנז' היה שם בפיסארו אצל סי' מצליח והוא במחלקת עם אחותו אם סי' אברהם לוי והלכתי אצלו וחיליתי פניו שיעשה ש' עם אחותו ולא רצה ובסוף בא אצל אחותו וא\"ל שלכבודי בא וא\"ל אתה עשית לכבוד סי' עמרון שאמר לך אח\"כ ולכבודי תעשה ש' עם אשת סי' אברהם בת סי' מורפורגו ועשה ש' ונשקה ידו. והקאליסירו גאיטאן שבא עמי מפלורינציא והתניתי שיביאני לאנקונה אמר שהפרד חלה ואינו יכול לבא ושכר לי קאליסו ללכת לאנקונה ובפתח השער הסוסים לא היו רוצים ללכת כי היו חדשים ולא עלה עליהם עול קאליסו והי\"ל צער גדול בכל הדרך עד שבאנו כבא השמש לסאניגאליא.",
-   "en": "21 Av, Thursday [17 August 1775]: I came to the city of Pesaro and went to Signor Abraham ha-Levi. There they gave me a letter from the rabbi, our teacher R. Abraham Israel, may God keep him, that in Ancona I should lodge with the gevir Signor Phinehas ha-Kohen, may his Rock keep him. They told me that this gevir was there in Pesaro, with Signor Matzliaḥ, and that he was in a quarrel with his sister, the mother of Signor Abraham Levi. I went to him and entreated him to make peace with his sister, and he would not. In the end he came to his sister and told her that he had come for my honor. And I said to him: you did it for the honor of Signor Amron, who spoke to you ⚠1; now, for my honor, make peace with the wife of Signor Abraham, the daughter of Signor Morpurgo. He made peace, and she kissed his hand. The calesse driver Gaetano, who came with me from Florence, and whom I had stipulated to bring me to Ancona, said that the mule was ill and could not go, and he hired me a calesse to go to Ancona. At the gate the horses would not go, for they were new and had never borne the yoke of a calesse, and I had great trouble the whole way, until we came to Senigallia at sunset.",
+   "en": "21 Av, Thursday [17 August 1775]: I came to the city of Pesaro and went to Signor Abraham ha-Levi. There they gave me a letter from the rabbi, our teacher R. Abraham Israel ⚠2, may God keep him, that in Ancona I should lodge with the gevir Signor Phinehas ha-Kohen, may his Rock keep him. They told me that this gevir was there in Pesaro, with Signor Matzliaḥ, and that he was in a quarrel with his sister, the mother of Signor Abraham Levi. I went to him and entreated him to make peace with his sister, and he would not. In the end he came to his sister and told her that he had come for my honor. And I said to him: you did it for the honor of Signor Amron, who spoke to you ⚠1; now, for my honor, make peace with the wife of Signor Abraham, the daughter of Signor Morpurgo. He made peace, and she kissed his hand. The calesse driver Gaetano, who came with me from Florence, and whom I had stipulated to bring me to Ancona, said that the mule was ill and could not go, and he hired me a calesse to go to Ancona. At the gate the horses would not go, for they were new and had never borne the yoke of a calesse, and I had great trouble the whole way, until we came to Senigallia at sunset.",
    "notes": {
     "1": {
      "he": "אתה עשית לכבוד סי' עמרון שאמר לך אח\"כ ולכבודי תעשה ש'",
      "note": "Obscure. Read as: the reconciliation with his sister was done for the sake of Signor Amron, who had asked him; now he should also make peace with his nephew's wife for the Ḥida's sake. Amron is not identified."
+    },
+    "2": {
+     "he": "מהר\"א ישראל",
+     "note": "Freimann: R. Ḥayyim Abraham Israel of Rhodes, rabbi of Ancona from 5534 (1774), author of Beit Avraham and Amarot Tehorot. The last year of his office reads תקמ\"ח (1788) in Freimann's small type; the last letter can also be ה (5545, 1785).",
+     "kind": "note"
     }
    }
   },
@@ -87,15 +90,21 @@
    "start": "71:29",
    "head": false,
    "he": "אב 23. יום ש\"ק המיניסטרו גדול של סי' פנחס הוא סי' אהרן אבולעפיא הלך לגובירנאדור ונתעכב שם על שדיבר קשות נגד השופטים שלהם והיו בצער הגביר הנז' והגברת מ' גודיקא וכל ביתם. וידעתי שהגביר עצמו היה מעוכב משובתי {f72} הרגל בגזרת הקארדינאל בופאליני השורר על הארץ יען בימי האפיפיור גאנגאנילי שהיה אהוב לסי' פנחס עשה לגדול מהגוים שפטים להוליכו בשלשלאות מסיניגאליא לרומה בעד חוב אביו שחייב לסי' פנחס ועתה שמת האפיפיור וקם אחר, השר הנז' שואל מסי' פנחס מכל העשוי בושת ופגם וצער, וגם הקארדינאל הנז' היה לו טינא על סי' פנחס שהתרים כנגדו, ועתה היה סי' פנחס בסכנה ולבו בל עמו, ואני שידעתי מפרשת העבו\"ר נמס לבי וציערתי בעצמי כי באתי בזמן קשה שהגביר בצער גדול ואשפוך את נפשי לפני ה'.",
-   "en": "23 Av, the holy Sabbath [19 August 1775]: the chief minister (ministro) of Signor Phinehas, Signor Aaron Abulafia, went to the governor (governatore) and was detained there for having spoken harshly against their judges. The gevir and the lady Madama Godica and all their household were in distress. I learned that the gevir himself was confined and not allowed to go out ⚠1, by order of Cardinal Bufalini, who rules the province. For in the days of Pope Ganganelli [Clement XIV], who loved Signor Phinehas, he had obtained judgments against a great man among the gentiles, to bring him in chains from Senigallia to Rome for a debt of his father, who owed money to Signor Phinehas. Now that the Pope had died and another had risen, that nobleman was demanding from Signor Phinehas [damages] for all the shame, injury and grief done to him. The cardinal too had a grudge against Signor Phinehas, who had stood up boldly against him. Now Signor Phinehas was in danger and his heart failed him. And I, who knew of the affair of the previous year ⚠2, my heart melted, and I grieved within myself, for I had come at a hard time, when the gevir was in great distress; and I poured out my soul before the Lord [1 Sam 1:15].",
+   "en": "23 Av, the holy Sabbath [19 August 1775]: the chief minister (ministro) of Signor Phinehas, Signor Aaron Abulafia, went to the governor (governatore) and was detained there for having spoken harshly against their judges. The gevir and the lady Madama Godica and all their household were in distress. I learned that the gevir himself was confined and not allowed to go out ⚠1, by order of Cardinal Bufalini ⚠3, who rules the province. For in the days of Pope Ganganelli [Clement XIV], who loved Signor Phinehas, he had obtained judgments against a great man among the gentiles, to bring him in chains from Senigallia to Rome for a debt of his father, who owed money to Signor Phinehas. Now that the Pope had died and another had risen, that nobleman was demanding from Signor Phinehas [damages] for all the shame, injury and grief done to him. The cardinal too had a grudge against Signor Phinehas, who had stood up boldly against him. Now Signor Phinehas was in danger, and his heart was not with him [Prov 23:7]. And I, who knew the story of what had passed ⚠2, my heart melted, and I grieved within myself, for I had come at a hard time, when the gevir was in great distress; and I poured out my soul before the Lord [1 Sam 1:15].",
    "notes": {
     "1": {
      "he": "מעוכב משובתי הרגל",
-     "note": "Literally \"held back from my (?) cessation of the foot\"; read as house arrest. The wording is unclear."
+     "note": "A play on Isa 58:13, אם תשיב משבת רגלך, \"if you turn back your foot because of the Sabbath\": the gevir was one of \"those whose foot is at rest\", that is, he was confined to his house. The day of the entry was a Sabbath.",
+     "kind": "note"
     },
     "2": {
      "he": "מפרשת העבו\"ר",
-     "note": "Abbreviation not resolved; read as העבר, \"the past (affair)\"."
+     "note": "Read as העבר, \"what had passed\": the affair of the debtor told just before. The gershayim point to a second sense of the word (עבור is also \"intercalation\" and \"for the sake of\"); the phrase that he changed is not found."
+    },
+    "3": {
+     "he": "הקארדינאל בופאליני",
+     "note": "Freimann: Giovanni Ottavio Bufalini, made a cardinal on 1 July 1766; he came to Ancona in that year and died in 1782.",
+     "kind": "note"
     }
    }
   },
@@ -117,7 +126,7 @@
    "start": "72:12",
    "head": false,
    "he": "ו'. א' שופטים חיליתי פני הגבירים שיעשו ועד על השליחות והשיבו כי הם בצרה על גזרת האפיפיור על הסימן והם ממתינין עד שתבא תשובה טובה מרומה ובבא תשובה טובה ביום טובה היה בטוב ואני נצטערתי שמא ח\"ו לא תבא תשובה טובה כרצונם ואז יהי' הצער כפלים.",
-   "en": "[Elul] 6 ⚠1, Sunday of Shofetim [27 August 1775]: I entreated the gevirim to hold a council about the mission. They answered that they were in distress over the Pope's decree about the badge ⚠2, and they were waiting until a good answer came from Rome; when a good answer came, on a good day, it would be in good order. I was distressed lest, God forbid, the answer not come out well as they wished, and then the distress would be double.",
+   "en": "[Elul] 6 ⚠1, Sunday of Shofetim [27 August 1775]: I entreated the gevirim to hold a council about the mission. They answered that they were in distress over the Pope's decree about the badge ⚠2, and they were waiting until a good answer came from Rome; when a good answer came, then \"in the day of good be in good\" [Eccl 7:14]. I was distressed lest, God forbid, the answer not come out well as they wished, and then the distress would be double.",
    "notes": {
     "1": {
      "he": "ו'. א' שופטים",
@@ -147,7 +156,7 @@
    "start": "72:21",
    "head": false,
    "he": "אלול 19. ה' היה ועד כללי ובאו י\"ח והטו\"ב הסכימו לתת ת\"ק ויהי לנס כי בתחילה היו מערערים על ש'. ולא היו רוצים היחידים לתת נדבה כל א' בפרטות וה' לי בעוזרי שלקחתי מהם בפרטות זולת יוסף חי קונסול שהלכתי אצלו, דיבר קשות וסבלתי דבריו ובסוף נתן סיקינו וקבלתיו לפי שהוא מראשי הק\"ק.",
-   "en": "19 Elul, Thursday [14 September 1775]: there was a general council. Eighteen came, and the good men of the town agreed to give five hundred. It was a miracle, for at first they had been objecting to the mission ⚠1. The individuals did not want to give a donation each one privately, but the Lord was my helper [Ps 118:7], and I took from them privately; except Joseph Ḥai Consolo ⚠2, to whom I went: he spoke harshly, and I bore his words, and in the end he gave a sequin, and I accepted it, since he is one of the heads of the holy congregation.",
+   "en": "19 Elul, Thursday [14 September 1775]: there was a general council. Eighteen came, and seventeen, \"the good\" ⚠3, agreed to give five hundred. It was a miracle, for at first they had been objecting to the mission ⚠1. The individuals did not want to give a donation each one privately, but the Lord was my helper [Ps 118:7], and I took from them privately; except Joseph Ḥai Consolo ⚠2, to whom I went: he spoke harshly, and I bore his words, and in the end he gave a sequin, and I accepted it, since he is one of the heads of the holy congregation.",
    "notes": {
     "1": {
      "he": "על ש'",
@@ -156,6 +165,11 @@
     "2": {
      "he": "יוסף חי קונסול",
      "note": "Printed קונסול; taken as the Ancona family name Consolo, not the title \"consul\"."
+    },
+    "3": {
+     "he": "י\"ח והטו\"ב",
+     "note": "טו\"ב with gershayim is the number 17 and the word \"good\": of the eighteen who came, seventeen agreed. The word also points to the \"good men of the town\" (טובי העיר), the heads of a community.",
+     "kind": "note"
     }
    }
   },
@@ -163,7 +177,7 @@
    "start": "72:25",
    "head": false,
    "he": "אלול 22. א' נצבים הלכתי להגבירים דוד ויצחק הכהנים אחים להגברת גודיקא בעלת הבית ואשת סי' דוד סי' ריינה אחות סי' פנחס, והיו י\"ב שנים שהם במחלקת עצום עם הג' ס' פנחס ואשתו אחותם וגיסו סי' שמואל קאליי ואשתו סי' סאפירה אחות סי' פנחס וסי' ריינה. והוציאו בליטאס קרוב לשלשים אלף איסקודו ונלאו חשמנים ופארלאטים ומארקיזים ושלוחים ורבנים ולא יכלו לשום ש' ביניהם כי גדלה מאד שנאתם. ורוח לבשה אותי הצעיר ודברתי תוכחות לסי' דוד ופייסתיו לעשות ש' עם כולם והי\"ל ללכת לויניציא אחר ר\"ה ואמרתי שצריך לבטל הליכה זו ואחיו סי' יצחק סייעני הרבה ונגמר הדבר שיעשה ש' עם הכל אך דררא דממונא נדון אני והרב מהר\"א ישראל ביניהם וכתורה יעשה דין גמור בלי פשרה. וקמתי והלכתי אצל הרב הנז' ושמח לדברי וקמנו והלכנו אצל הגבירים הנז' ונטלנו מהם קנין ושבועה לקיים כל אשר נדון ואח\"כ הלכנו אצל סי' פנחס וסי' קאליי ונטלנו מהם ומנשיהם ג\"כ קנין ושבועה והיה פלא עצום ונורא.",
-   "en": "22 Elul, Sunday of Nitzavim [17 September 1775]: I went to the gevirim David and Isaac ha-Kohen, brothers of the lady Godica, the mistress of the house; the wife of Signor David, Signora Reina, is the sister of Signor Phinehas. For twelve years they had been in a fierce quarrel with the gevir Signor Phinehas and his wife, their sister, and with his brother-in-law Signor Samuel Cagli and his wife Signora Sapira, the sister of Signor Phinehas and of Signora Reina. They had spent nearly thirty thousand scudi on their lawsuits (liti), and cardinals, prelates, marquises, emissaries and rabbis had wearied themselves and could not make peace between them, for their hatred was very great. A spirit clothed me, the least of men, and I spoke words of reproof to Signor David and won him over to make peace with all of them. He was to go to Venice after the New Year, and I told him he must cancel this journey. His brother Signor Isaac helped me greatly, and it was settled that he would make peace with everyone; but the money matters, I and the rabbi, our teacher R. Abraham Israel, would judge between them, according to the Torah, a full judgment without compromise. I got up and went to the rabbi mentioned above, and he was glad at my words. We got up and went to the gevirim mentioned above and took from them a formal acquisition (kinyan) and an oath to fulfil all that we would rule. Afterwards we went to Signor Phinehas and Signor Cagli and took from them and from their wives too a kinyan and an oath. It was a great and awesome wonder.",
+   "en": "22 Elul, Sunday of Nitzavim [17 September 1775]: I went to the gevirim David and Isaac ha-Kohen, brothers of the lady Godica, the mistress of the house; the wife of Signor David, Signora Reina, is the sister of Signor Phinehas. For twelve years they had been in a fierce quarrel with the gevir Signor Phinehas and his wife, their sister, and with his brother-in-law Signor Samuel Cagli and his wife Signora Sapira, the sister of Signor Phinehas and of Signora Reina. They had spent nearly thirty thousand scudi on their lawsuits (liti), and cardinals, prelates, marquises, emissaries and rabbis had wearied themselves and could not make peace between them, for their hatred was very great. A spirit clothed me [1 Chr 12:19], the least of men, and I spoke words of reproof to Signor David and won him over to make peace with all of them. He was to go to Venice after the New Year, and I told him he must cancel this journey. His brother Signor Isaac helped me greatly, and it was settled that he would make peace with everyone; but the money matters, I and the rabbi, our teacher R. Abraham Israel, would judge between them, and \"let it be done according to the Torah\" [Ezra 10:3], a full judgment without compromise. I got up and went to the rabbi mentioned above, and he was glad at my words. We got up and went to the gevirim mentioned above and took from them a formal acquisition (kinyan) and an oath to fulfil all that we would rule. Afterwards we went to Signor Phinehas and Signor Cagli and took from them and from their wives too a kinyan and an oath. It was a great and awesome wonder.",
    "notes": {}
   },
   {
@@ -198,11 +212,12 @@
    "start": "73:11",
    "head": false,
    "he": "שנת תקל\"ו. תשרי. עשרת ימי תשובה הייתי מתבודד ופרוש בחדר בפני עצמי בבית הגביר פנחס יצ\"ו הנז' ובחג עשה לי סוכה מיוחדת לישן בה. וליל הושענא רבה הייתי כמנהגי ת\"ל. וליל ש\"ת ביקרנו החתנים ונתנו לי בילייטים מהמצות שאעשה, וליל אסרו חג הייתי בק\"ק איטאליינו שאו' הרב והב\"ד קול מבשר ה' הוא האלדים וכל א' נושא ס\"ת. והרב מהר\"א ישראל נ\"י ויתר לי הס\"ת שלו ואמרתי קול וה' אחריו.",
-   "en": "The year 5536, Tishrei [September to October 1775]: during the Ten Days of Repentance I was in seclusion, set apart in a room by myself, in the house of the gevir Phinehas mentioned above, may his Rock keep him; and at the festival he made me a sukkah of my own to sleep in. On the night of Hoshana Rabba I kept my custom, praise God. On the night of Simḥat Torah the bridegrooms [of the Torah] visited us and gave me tickets (biglietti) for the honors I would perform. On the night after the festival I was in the Italian holy congregation, where the rabbi and the court say \"A voice proclaims: the Lord is God\", each one carrying a Torah scroll. The rabbi, our teacher R. Abraham Israel, may God keep him, gave up his scroll to me, and I said \"A voice\", and the Lord was with it ⚠1.",
+   "en": "The year 5536, Tishrei [September to October 1775]: during the Ten Days of Repentance I was in seclusion, set apart in a room by myself, in the house of the gevir Phinehas mentioned above, may his Rock keep him; and at the festival he made me a sukkah of my own to sleep in. On the night of Hoshana Rabba I kept my custom, praise God. On the night of Simḥat Torah we visited the bridegrooms [of the Torah], and they gave me tickets (biglietti) for the honors I would perform. On the night after the festival I was in the Italian holy congregation, where the rabbi and the court say \"A voice proclaims: the Lord is God\", each one carrying a Torah scroll. The rabbi, our teacher R. Abraham Israel, may God keep him, gave up his scroll to me, and I said \"A voice [proclaims]\" and \"The Lord [is God]\" after it ⚠1.",
    "notes": {
     "1": {
      "he": "ואמרתי קול וה' אחריו",
-     "note": "Unclear: either \"I said 'A voice' and 'the Lord' after it\" (he led the verse), or a play on \"the Lord after him\"."
+     "note": "The two verses are named by their first words: with the rabbi's scroll in his arms he led קול [מבשר] and then ה' [הוא האלהים] after it, in the rabbi's place.",
+     "kind": "note"
     }
    }
   },
@@ -226,11 +241,17 @@
    "start": "73:26",
    "head": false,
    "he": "חשון 12. וירא א' [מוש\"ק] באו לי כתבים מבני ידידי אברהם יצ\"ו והי\"ל צער מכמה סיבות ולא יכולתי לישן עד ז' שעות. ובחלומי ראיתי להרב כמהר\"ר משה מזרחי זלה\"ה [והיה מביא לי כתב שכתב לקושטא בכ\"י ואני הייתי אומר לו דברי טעם לבלתי שלחו, ואחר כך הלכנו להתפלל עמו] ונתעוררתי [והיה לי שמחה שכשאני רואה את הרב הנזכר הוא לי לישועה העיר ממזרח והכל שלום בעה\"י].",
-   "en": "12 Ḥeshvan, Sunday of Vayera (at the close of the Sabbath) [the evening of Saturday 4 November 1775]: letters came to me from my son, my beloved Abraham, may his Rock keep him, and I was distressed for several reasons, and I could not sleep until seven hours [into the night]. In my dream I saw the rabbi, our honored teacher R. Moses Mizraḥi, of blessed memory. ⚠1 He was bringing me a letter that he had written to Constantinople in his own hand, and I was giving him good reasons not to send it. After that we went to pray with him, and I woke. And I was glad, for when I see this rabbi it means salvation for me: \"who raised up from the east [mizraḥ]\" [Isa 41:2]; and all is well, with God's help.",
+   "en": "12 Ḥeshvan, Sunday of Vayera (at the close of the Sabbath) [the evening of Saturday 4 November 1775]: letters came to me from my son, my beloved Abraham, may his Rock keep him, and I was distressed for several reasons, and I could not sleep until seven hours [into the night]. In my dream I saw the rabbi, our honored teacher R. Moses Mizraḥi ⚠2, of blessed memory. ⚠1 He was bringing me a letter that he had written to Constantinople in his own hand, and I was giving him good reasons not to send it. After that we went to pray with him, and I woke. And I was glad, for when I see this rabbi it means salvation for me: \"who raised up from the east [mizraḥ]\" [Isa 41:2]; and all is well, with God's help.",
    "notes": {
     "1": {
      "he": "[והיה מביא ... עמו] ... [והיה לי שמחה ... בעה\"י]",
-     "note": "The passages in square brackets in the Hebrew are lacking in the autograph; Freimann supplied them from the Livorno printing."
+     "note": "The passages in square brackets in the Hebrew are lacking in the autograph. Freimann supplied them from the Livorno printing, fol. 6b.",
+     "kind": "note"
+    },
+    "2": {
+     "he": "משה מזרחי",
+     "note": "Freimann: the author of Admat Kodesh; see the Ḥida's Shem ha-Gedolim under his name. He is R. Nissim Ḥayyim Moses Mizraḥi, chief rabbi of Jerusalem (died 1749).",
+     "kind": "note"
     }
    }
   },
@@ -245,13 +266,13 @@
    "start": "74:3",
    "head": false,
    "he": "טבת. דברים רבים עשיתי באנקונה ונתעסקתי בהם בכבוד גדול, ומהם שנתנו תואר משכיל לר' יואל חמיץ על אפם של רוב הגבירים והוצרכו כמעט על כרחם להסכים ונמנה ר' יואל לש\"ץ בק\"ק ספרדים נגד כמה וכמה ראשי הק\"ק. ונתעסקתי בנשואי בת יאושע ש\"ץ קק\"י איט' עם בן ר' יאודה השוחט שהיה קשה כברזל וכמה המצאות רבות היה בכל הנז' ויותר מהמה שלא ניתנו ליכתב ואפי' ברמז. ור' יואל הנז' ור' שלמה משה סיפילי לא זזו מלשמש ולהראות עוצם אהבתם וחסדם ימים ולילות בכל. ובחדש טבת גמרנו לעיין דיני הגבירים הנזכרים עפ\"י התורה לדעתנו. אך ראינו דנפיק מינה חורבה ושנאה רבה לכן אזרנו חיל לפשר ביניהם ובאמת שהי\"ל טורח עצום ונורא מה שאין הפה יכולה לדבר לולי ה' שהיה לנו שחננו דעת וסבלנות והמצאות עד שפשרנו ביניהם בעניני הקרקעות ונזקי שכנים והוצרכו כמה חדשים בענינים אלו ברוך האל המושיע. וביני ביני יצא דבר מחודש שסי' קאליי נתן נכסיו במתנה להבחור סי' שמואל בן סי' פנחס גיסו. והגביר יוסף חי קונסול וסי' ברוך לוי ובן פורת יורשי סי' קאליי כתבו מימוריאלים לאפיפיור לבטל המתנה בטענות ושקרים ומסרו הדבר לחשמן בופאליני. והיה צער גדול בבית סי' פנחס ואחותו סי' סאפירה וכל כתב שבא מרומה היה כעקירת נשמה וכל הדברים היו מגלים לי וכל העצות ופרטי הדברים הכל כאשר לכל ומתחננים לי שאתפלל עליהם ובאמת הי\"ל צרות גדולות בזה מצערם ואשפוך את נפשי לפני ה', ות\"ל קודם פורים בא קירוגרופו מהאפיפיור לקיים המתנה הנז' ובעת ההיא שהכהנים וסי' קאליי היו שמחים כל קבל דנא באה השמועה שאחי חתן סי' קונסול הוא פאנו מריגייו נשתמד והיה נזק גדול לבית פאנו והיה צער גדול לסי' קונסול בדבר.",
-   "en": "Tevet [December 1775 to January 1776]: I did many things in Ancona and dealt with them with great honor. Among them: they gave the title of maskil to R. Joel Ḥamitz against the will of most of the gevirim, who had to agree almost by force; and R. Joel was appointed cantor in the Sephardi holy congregation against a great many of the heads of the holy congregation. I also dealt with the marriage of the daughter of Joshua, cantor of the Italian holy congregation, to the son of R. Judah the slaughterer, which was as hard as iron. There were many devices in all of this, and more than these, which may not be written even by a hint. R. Joel mentioned above and R. Solomon Moses Seppilli never stopped serving me and showing the strength of their love and kindness, days and nights, in everything. In the month of Tevet we finished examining the cases of these gevirim according to the Torah, as we saw it. But we saw that ruin and great hatred would come of it, so we girded ourselves with strength to make a compromise between them. In truth it was an enormous and awesome labor, more than the mouth can tell, had it not been the Lord who was with us [Ps 124:1], who graced us with knowledge, patience and devices, until we made a compromise between them on the lands and the damage between neighbors; several months were needed for these matters. Blessed be God who saves. Meanwhile a new thing came out: Signor Cagli had given his property as a gift to the young man Signor Samuel, son of Signor Phinehas, his brother-in-law. The gevir Joseph Ḥai Consolo, Signor Baruch Levi and Ben Porat, the heirs of Signor Cagli, wrote memorials to the Pope to annul the gift, with pleas and lies, and the matter was handed to Cardinal Bufalini. There was great distress in the house of Signor Phinehas and of his sister Signora Sapira, and every letter that came from Rome was like the soul being torn out. They revealed all the matters to me, all the counsels and the details, everything alike [Eccl 9:2], and begged me to pray for them. In truth I had great troubles in this from their distress, and I poured out my soul before the Lord [1 Sam 1:15]. Praise God, before Purim a chirograph came from the Pope confirming the gift. At that time, when the Kohanim and Signor Cagli were rejoicing, just then the news came that the brother of Signor Consolo's son-in-law, that is, Fano of Reggio, had converted. It was a great loss to the house of Fano, and a great grief to Signor Consolo.",
+   "en": "Tevet [December 1775 to January 1776]: I did many things in Ancona and dealt with them with great honor. Among them: they gave the title of maskil to R. Joel Ḥamitz against the will of most of the gevirim, who had to agree almost by force; and R. Joel was appointed cantor in the Sephardi holy congregation against a great many of the heads of the holy congregation. I also dealt with the marriage of the daughter of Joshua, cantor of the Italian holy congregation, to the son of R. Judah the slaughterer, which was as hard as iron. There were many devices in all of this, and more than these [Eccl 12:12], which may not be written even by a hint. R. Joel mentioned above and R. Solomon Moses Seppilli never stopped serving me and showing the strength of their love and kindness, days and nights, in everything. In the month of Tevet we finished examining the cases of these gevirim according to the Torah, as we saw it. But we saw that ruin and great hatred would come of it, so we girded ourselves with strength [1 Sam 2:4] to make a compromise between them. In truth it was an enormous and awesome labor, more than the mouth can tell [b. Shevu 20b], had it not been the Lord who was with us [Ps 124:1], who graced us with knowledge, patience and devices, until we made a compromise between them on the lands and the damage between neighbors; several months were needed for these matters. Blessed be God who saves. Meanwhile a new thing came out: Signor Cagli had given his property as a gift to the young man Signor Samuel, son of Signor Phinehas, his brother-in-law. The gevir Joseph Ḥai Consolo, Signor Baruch Levi and Ben Porat, the heirs of Signor Cagli, wrote memorials to the Pope to annul the gift, with pleas and lies, and the matter was handed to Cardinal Bufalini. There was great distress in the house of Signor Phinehas and of his sister Signora Sapira, and every letter that came from Rome was like the soul being torn out. They revealed all the matters to me, all the counsels and the details, everything alike [Eccl 9:2], and begged me to pray for them. In truth I had great troubles in this from their distress, and I poured out my soul before the Lord [1 Sam 1:15]. Praise God, before Purim a chirograph came from the Pope confirming the gift. At that time, when the Kohanim and Signor Cagli were rejoicing, just then the news came that the brother of Signor Consolo's son-in-law, that is, Fano of Reggio, had converted. It was a great loss to the house of Fano, and a great grief to Signor Consolo.",
    "notes": {}
   },
   {
    "start": "74:24",
    "head": false,
-   "he": "שבט 16. נעשיתי סנדק לבן סי' עלמיאי וקראו שם הילד חיים יוסף דוד עלמיא יצ\"ו.",
+   "he": "שבט 16. נעשיתי סנדק לבן סי' עלמיא וקראו שם הילד חיים יוסף דוד עלמיא יצ\"ו.",
    "en": "16 Shevat [Tuesday 6 February 1776]: I was godfather (sandak) for the son of Signor Almagià, and they named the child Ḥayyim Joseph David Almagià, may his Rock keep him.",
    "notes": {}
   },
@@ -273,11 +294,16 @@
    "start": "74:30",
    "head": false,
    "he": "ניסן 3. הלך סי' יצחק לחטאת הנק' לוריתו' ומשם להלן בטענה שרוצה לקנות חיטים, אך עיקר הדבר כי חרה לו בשביל איזה פרטים שחייבנום וסי' דוד אחיו היה סר וזעף מאד ומפיו לפידים יהלוכו.",
-   "en": "3 Nisan [Saturday 23 March 1776]: Signor Isaac went to the \"sin\" ⚠1 called Loreto, and from there further on, on the plea that he wanted to buy wheat; but the real reason was that he was angry over some particulars in which we had found against them. Signor David his brother was very sullen and angry [1 Kings 20:43], and out of his mouth went burning torches [Job 41:11].",
+   "en": "3 Nisan [Saturday 23 March 1776] ⚠2: Signor Isaac went to the \"sin\" ⚠1 called Loreto, and from there further on, on the plea that he wanted to buy wheat; but the real reason was that he was angry over some particulars in which we had found against them. Signor David his brother was very sullen and angry [1 Kings 20:43], and out of his mouth went burning torches [Job 41:11].",
    "notes": {
     "1": {
      "he": "לחטאת הנק' לוריתו'",
-     "note": "חטאת, \"sin\", a contemptuous name for the Christian shrine, the Holy House of Loreto."
+     "note": "Freimann: Loreto. חטאת, \"sin\", is a contemptuous name for the Christian shrine there, the Holy House (Santa Casa).",
+     "kind": "note"
+    },
+    "2": {
+     "he": "ניסן 3.",
+     "note": "3 Nisan 5536 was a Sabbath, a day on which Signor Isaac did not set out. The day number is so printed; perhaps he left on the Sunday."
     }
    }
   },
@@ -285,8 +311,14 @@
    "start": "74:33",
    "head": false,
    "he": "ניסן 9. הלכתי אני אצל סי' דוד והרביתי לדבר על לבו קשט אמרי אמת ובא סי' יצחק ונתמתקו הדברים ת\"ל ואכתי פשו ענין השבועות שהיו צריכים לישבע שני הצדדין ועל זה עברנו מי המרים בסדר ואופן ולשון השבועה וזמנה וסוף דבר עזרנו ה' לסדר הלשון באופן שהסכימו בו וסופר ב\"ד קרא סדר {f75} השבועה והגבירים דוד ויצחק ופנחס ברגע א' נשבעו שלשתן ויהי לנס והיה בי\"ג בניסן.",
-   "en": "9 Nisan [Friday 29 March 1776]: I myself went to Signor David and spoke much to his heart, the certainty of words of truth [Prov 22:21]. Signor Isaac came, and things grew sweet, praise God. There still remained the matter of the oaths that both sides had to swear, and over this we passed through bitter waters: over the order, the manner and the wording of the oath, and its time. In the end the Lord helped us to set the wording in a way that they agreed to. The scribe of the court read out the order of the oath, and the gevirim David, Isaac and Phinehas, all three, swore in one moment. It was a miracle. This was on 13 Nisan [Tuesday 2 April 1776].",
-   "notes": {}
+   "en": "9 Nisan [Friday 29 March 1776]: I myself went to Signor David and spoke much to his heart, the certainty of words of truth [Prov 22:21]. Signor Isaac came, and things grew sweet, praise God. There still remained the matter of the oaths that both sides had to swear, and over this we passed through \"the bitter waters\" [Num 5:18] ⚠1: over the order, the manner and the wording of the oath, and its time. In the end the Lord helped us to set the wording in a way that they agreed to. The scribe of the court read out the order of the oath, and the gevirim David, Isaac and Phinehas, all three, swore in one moment. It was a miracle. This was on 13 Nisan [Tuesday 2 April 1776].",
+   "notes": {
+    "1": {
+     "he": "עברנו מי המרים",
+     "note": "The bitter waters of the suspected wife, which the priest gives her together with an oath [Num 5:18-19]: a play on the oaths that were the matter here.",
+     "kind": "note"
+    }
+   }
   },
   {
    "start": "75:3",
@@ -323,7 +355,7 @@
    "start": "75:14",
    "head": false,
    "he": "אייר 3. בלילה היה ועד והפצרנו עד שנגמר ענין השליחות לטובה, וה' עזרני שם ביום וחצי לגמור כמה ענינים. א' עשיתי ש' בין סאבאן ויאודה הלוי, שיסלקו ריבם מרומה ויהיו נדונים לפני ישיבת אנקונה. ב' שהממונים זה יתנו מע' החבר לר' יצחק מהזקנים. ג' נתנו רשות למ\"ץ חר\"מ פואה ללכת ב' חדשים לפיומונטי. ד' כשיהיה מקום בועד יחזרו למינויו לסי' דוד קאמארין. ה' שימהרו חלוקת הקרקעות אברהם חייון ויאודה לוי. ו' סרסרות משה מונדולפו על הקרקעות הנז' לפשר ביניהם בסך הסרסרות. ז' שיתמיד ערבות אברהם חייון על יאושע סאבאן. ח' שנים שהיה להם הפרש על חזקות שידונו באנקונה. ט' עשינו ש' בין יצחק מאסקולי ואברהם חייון. יוד' הפרש בסרסרות שיתרצו כמה שיאמרו סי' גאליקי. וכל הדברים הנז' היו יגעים וקשים מאד וחסד ה' מעולם וה' אתנו להצליחנו בכל. והאחים סי' דוד אברהם וסי' שמואל וסי' מהלאל גאליקי ושאר יחידים עשו אתי ברכה וכבוד גדול. תהלות לאל ית' המפליא לעשות.",
-   "en": "3 Iyar [Monday 22 April 1776]: at night there was a council, and we pressed them until the matter of the mission was settled well. The Lord helped me there, in a day and a half, to settle several matters. First, I made peace between Saban and Judah ha-Levi, that they would withdraw their quarrel from Rome and be judged before the yeshivah of Ancona. Second, that the wardens would now give the rank of ḥaver ⚠1 to R. Isaac Del Vecchio ⚠2. Third, they gave leave to the rabbinic judge, the sage R. Moses Foa, to go to Piedmont for two months. Fourth, when there is a place on the council, they will restore Signor David Camerino to his appointment. Fifth, that they would hasten the division of the lands of Abraham Ḥayyun and Judah Levi. Sixth, the brokerage of Moses Mondolfo on these lands: to make a compromise between them on the amount of the brokerage. Seventh, that the surety of Abraham Ḥayyun for Joshua Saban would continue. Eighth, two who had a dispute over title to property, that they would be judged in Ancona. Ninth, we made peace between Isaac of Ascoli and Abraham Ḥayyun. Tenth, a dispute over brokerage: that they would accept whatever Signor Gallico said. All these matters were wearying and very hard, but the kindness of the Lord is from everlasting [Ps 103:17], and the Lord was with us to give us success in everything. The brothers Signor David Abraham and Signor Samuel, and Signor Mahalalel Gallico, and other individuals gave me a gift and did me great honor. Praises to God, blessed be He, who does wonders.",
+   "en": "3 Iyar [Monday 22 April 1776]: at night there was a council, and we pressed them until the matter of the mission was settled well. The Lord helped me there, in a day and a half, to settle several matters. First, I made peace between Saban and Judah ha-Levi, that they would withdraw their quarrel from Rome and be judged before the yeshivah of Ancona. Second, that the wardens would now give the rank of ḥaver ⚠1 to R. Isaac Del Vecchio ⚠2. Third, they gave leave to the rabbinic judge, the sage R. Moses Foa, to go to Piedmont for two months. Fourth, when there is a place on the council, they will restore Signor David Camerino to his appointment. Fifth, that they would hasten the division of the lands of Abraham Ḥayyun and Judah Levi. Sixth, the brokerage of Moses Mondolfo on these lands: to make a compromise between them on the amount of the brokerage. Seventh, that the surety of Abraham Ḥayyun for Joshua Saban would continue. Eighth, two who had a dispute over title to property, that they would be judged in Ancona. Ninth, we made peace between Isaac of Ascoli and Abraham Ḥayyun. Tenth, a dispute over brokerage: that they would accept whatever Signor Gallico said. All these matters were wearying and very hard, but the kindness of the Lord is from everlasting [Ps 103:17], and the Lord was with us to give us success in everything. The brothers Signor David Abraham and Signor Samuel, and Signor Mahalalel Gallico, and other individuals made me a present [2 Kings 18:31] and did me great honor. Praises to God, blessed be He, who does wonders.",
    "notes": {
     "1": {
      "he": "זה יתנו מע' החבר",
@@ -331,7 +363,8 @@
     },
     "2": {
      "he": "ר' יצחק מהזקנים",
-     "note": "מהזקנים, \"of the elders\", is a Hebrew rendering of the family name Del Vecchio."
+     "note": "Freimann: Del Vecchio. מהזקנים, \"of the elders\", is the Hebrew form of that family name.",
+     "kind": "note"
     }
    }
   },
@@ -339,11 +372,12 @@
    "start": "75:26",
    "head": false,
    "he": "אייר 4. נסענו וליוונו ששה קאליסוס עד מרות. ובאמצע הדרך בן סי' גאליקו נפל ונתעלף והי\"ל צער גדול וברוך ה' לא ניזוק והיה טוב וחזרו לש' ובערב באנו לפיסארו ונתאכסננו אני וסי' פנחס אצל אחותו סי' גודיקא ובניה סי' אברהם לוי וסי' רפאל שמשון. ובלילה היה חולה סי' אברהם בקדחת והקיזוהו שני פעמים.",
-   "en": "4 Iyar [Tuesday 23 April 1776]: we set out, and six calesses escorted us as far as Moratta ⚠1. Halfway the son of Signor Gallico fell and fainted, and I was greatly distressed; blessed be the Lord, he was not hurt and was well, and they returned in peace. In the evening we came to Pesaro, and Signor Phinehas and I lodged with his sister Signora Godica and her sons, Signor Abraham Levi and Signor Raphael Samson. At night Signor Abraham was ill with fever, and they bled him twice.",
+   "en": "4 Iyar [Tuesday 23 April 1776]: we set out, and six calesses escorted us as far as Marotta ⚠1. Halfway the son of Signor Gallico fell and fainted, and I was greatly distressed; blessed be the Lord, he was not hurt and was well, and they returned in peace. In the evening we came to Pesaro, and Signor Phinehas and I lodged with his sister Signora Godica and her sons, Signor Abraham Levi and Signor Raphael Samson. At night Signor Abraham was ill with fever, and they bled him twice.",
    "notes": {
     "1": {
      "he": "מרות",
-     "note": "Place name as printed, taken as Moratta; not further identified."
+     "note": "Freimann: Moratta. The place is Marotta, on the coast road from Senigallia to Fano and Pesaro.",
+     "kind": "note"
     }
    }
   },
@@ -351,11 +385,16 @@
    "start": "75:31",
    "head": false,
    "he": "אייר 6. הלכנו בקארוסה עם סי' פנחס וסי' מצליח לפאלאסיו' של עירון מארקים מוסקי. ושם גוקי די אקוואה דבר מופלא כמה תחבולות וצורות אבן משוררות ונועות ע\"י כח המים וכיוצא דברים מופלאים וגם בכח המים נראה כקשת ביום בהיר דבר להפליא ושם ראיתי פאוון.",
-   "en": "6 Iyar [Thursday 25 April 1776]: we went by carriage (carrozza) with Signor Phinehas and Signor Matzliaḥ to the palace (palazzo) ⚠1 of the Marchese Moschi. There are water-works there (giochi d'acqua), a wonderful thing: many devices, and figures of stone that sing and move by the force of the water, and other such wonders. Also by the force of the water something like a rainbow appears on a clear day, a marvel. There I saw a peacock.",
+   "en": "6 Iyar [Thursday 25 April 1776]: we went by carriage (carrozza) with Signor Phinehas and Signor Matzliaḥ to the palace (palazzo) of a nobleman of the city ⚠1, the Marchese Mosca ⚠2. There are water-works there (giochi d'acqua), a wonderful thing: many devices, and figures of stone that sing and move by the force of the water, and other such wonders. Also by the force of the water something like a rainbow appears on a clear day, a marvel. There I saw a peacock.",
    "notes": {
     "1": {
      "he": "של עירון",
-     "note": "עירון is not clear; perhaps \"of the city\" or part of the name. Left out of the translation."
+     "note": "עירון is read as \"a townsman\" (like עירוני): a nobleman of the city, Pesaro. It can also be part of the name."
+    },
+    "2": {
+     "he": "מארקים מוסקי",
+     "note": "Freimann: Marchese Moschi. This is the villa of the Mosca marquises at Caprile, outside Pesaro, which is known for its water-works.",
+     "kind": "note"
     }
    }
   },

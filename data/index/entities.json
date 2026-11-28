@@ -2331,7 +2331,7 @@
   "patterns": [
    "R\\. Moses Mizraḥi"
   ],
-  "desc": "Rabbi of Jerusalem; the Ḥida saw him in a dream."
+  "desc": "Rabbi of Jerusalem, author of Admat Kodesh; the Ḥida saw him in a dream."
  },
  {
   "id": "radak",
@@ -9062,11 +9062,11 @@
  {
   "id": "abraham-israel",
   "type": "person",
-  "name": "Abraham Israel, rabbi of Ancona",
+  "name": "Ḥayyim Abraham Israel, rabbi of Ancona",
   "patterns": [
    "R\\. Abraham Israel"
   ],
-  "desc": "Rabbi of Ancona who judged the Kohen gevirim's dispute with the Ḥida."
+  "desc": "R. Ḥayyim Abraham Israel of Rhodes, rabbi of Ancona from 1774, author of Beit Avraham and Amarot Tehorot; he judged the Kohen gevirim's dispute with the Ḥida."
  },
  {
   "id": "matzliah-pesaro",
@@ -9548,11 +9548,11 @@
  {
   "id": "marchese-moschi",
   "type": "person",
-  "name": "Marchese Moschi",
+  "name": "Marchese Mosca of Pesaro",
   "patterns": [
-   "Marchese Moschi"
+   "Marchese Mosca"
   ],
-  "desc": "His palace near Pesaro has water-works."
+  "desc": "His villa at Caprile, outside Pesaro, has water-works. Freimann writes Moschi."
  },
  {
   "id": "jehiel-trabot",
@@ -10683,7 +10683,7 @@
   "type": "place",
   "name": "Marotta",
   "patterns": [
-   "Moratta"
+   "Marotta"
   ]
  },
  {
