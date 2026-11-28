@@ -15648,25 +15648,25 @@
  {
   "id": "leib-norbin",
   "type": "person",
-  "name": "Leib Norbin of Amsterdam",
+  "name": "Leib Gorbin of Amsterdam",
   "patterns": [
-   "R\\. Leib Norbin"
+   "R\\. Leib Gorbin"
   ],
-  "desc": "Visited by the Ḥida in Amsterdam, April 1778; name as printed (perhaps Gorbin)."
+  "desc": "Visited by the Ḥida in Amsterdam, April 1778; the name is read so from the scan."
  },
  {
   "id": "frinir",
   "type": "person",
-  "name": "Frinir of Amsterdam",
+  "name": "Preger of Amsterdam",
   "patterns": [
    {
-    "rx": "Frinir",
+    "rx": "Preger",
     "at": [
      "F15.3"
     ]
    }
   ],
-  "desc": "Visited with Leib Norbin in Amsterdam, April 1778; probably a family name, not identified."
+  "desc": "Visited with Leib Gorbin in Amsterdam, April 1778; probably of the family Preger (Prager)."
  },
  {
   "id": "zanvil",
@@ -15754,7 +15754,7 @@
     ]
    }
   ],
-  "desc": "Parnas and president of the Mahamad of the Portuguese community of Amsterdam. He signed first for the mission, for seven florins, which angered Jacob Teixeira; the Ḥida asked R. Shalem to settle the quarrels with him. The name is read so (de Crasto)."
+  "desc": "Parnas and president of the Mahamad of the Portuguese community of Amsterdam. He signed first for the mission, for seven florins, which angered Jacob Teixeira; the Ḥida asked R. Shalem to speak with him, so that his case would be dealt with first. The name is read so (de Crasto)."
  },
  {
   "id": "abraham-de-veiga",
